@@ -2,6 +2,8 @@
 
 // emit-csv — render normalized posts as RFC 4180 CSV.
 // Fields containing commas, quotes or newlines are quoted; inner quotes doubled.
+// Fields starting with = + - @ tab or CR are prefixed with a single quote so
+// spreadsheet apps never execute post text as a formula (CSV injection).
 
 const COLUMNS = [
   'title',
@@ -16,7 +18,8 @@ const COLUMNS = [
 
 function field(value) {
   if (value === null || value === undefined) return '';
-  const s = String(value);
+  let s = String(value);
+  if (/^[=+\-@\t\r]/.test(s)) s = `'${s}`;
   return /[",\r\n]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s;
 }
 
