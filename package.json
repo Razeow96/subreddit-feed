@@ -1,0 +1,14 @@
+{
+  "name": "subreddit-feed",
+  "version": "1.0.0",
+  "description": "Point it at any subreddit and get clean Markdown, CSV or JSON — one command, no API keys.",
+  "main": "feed.js",
+  "license": "MIT",
+  "author": "Razeow",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.0"
+  }
+}

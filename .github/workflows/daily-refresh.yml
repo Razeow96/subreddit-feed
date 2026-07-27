@@ -1,0 +1,50 @@
+# daily-refresh — re-runs the CLI once a day and commits fresh samples.
+#
+# Honesty note: GitHub-hosted runner IPs are sometimes blocked by Reddit
+# (HTTP 403/429). When that happens the CLI exits non-zero, this job fails
+# visibly, and NOTHING is committed. An honest red X beats fake freshness.
+name: daily-refresh
+
+on:
+  schedule:
+    - cron: "17 6 * * *" # daily, 06:17 UTC (off the :00 stampede)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      # Each invocation is one polite request; generous sleeps between them
+      # (Reddit rate-limits aggressively — 30s gaps proved necessary in testing).
+      # Any non-zero exit here fails the whole job before the commit step.
+      - name: Refresh samples
+        run: |
+          node feed.js r/automation --format md   --limit 10 -o samples/r-automation-hot.md
+          sleep 30
+          node feed.js r/automation --format csv  --limit 10 -o samples/r-automation-hot.csv
+          sleep 30
+          node feed.js r/automation --format json --limit 10 -o samples/r-automation-hot.json
+
+      - name: Commit refreshed samples
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add samples/
+          if git diff --cached --quiet; then
+            echo "samples unchanged — nothing to commit"
+          else
+            git commit -m "chore: daily sample refresh"
+            git push
+          fi
