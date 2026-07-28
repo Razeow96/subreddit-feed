@@ -6,6 +6,10 @@
 // HTTP 403 for unauthenticated clients on many networks. The .rss endpoint
 // is served reliably without keys, so this tool uses it exclusively.
 // Trade-off: the Atom feed does not carry vote or comment counts.
+//
+// On HTTP 429 (rate-limited) we back off and retry a couple of times before
+// failing loudly. Shared datacenter IPs (e.g. GitHub Actions runners) are
+// throttled by Reddit even with polite gaps, so a short backoff helps.
 
 const https = require('https');
 
@@ -13,8 +17,14 @@ const USER_AGENT =
   'subreddit-feed/1.0 (read-only portfolio demo CLI; one request per run)';
 const TIMEOUT_MS = 15000;
 const MAX_REDIRECTS = 2;
+const MAX_429_RETRIES = 2;
+const RETRY_BASE_MS = 15000; // 15s, then 30s
 
-function get(url, redirectsLeft) {
+function delay(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+function get(url, redirectsLeft, retriesLeft) {
   return new Promise((resolve, reject) => {
     const req = https.get(
       url,
@@ -35,7 +45,7 @@ function get(url, redirectsLeft) {
         ) {
           res.resume();
           const next = new URL(headers.location, url).toString();
-          resolve(get(next, redirectsLeft - 1));
+          resolve(get(next, redirectsLeft - 1, retriesLeft));
           return;
         }
 
@@ -55,9 +65,15 @@ function get(url, redirectsLeft) {
         }
         if (statusCode === 429) {
           res.resume();
+          if (retriesLeft > 0) {
+            const attempt = MAX_429_RETRIES - retriesLeft + 1;
+            const waitMs = RETRY_BASE_MS * attempt;
+            resolve(delay(waitMs).then(() => get(url, redirectsLeft, retriesLeft - 1)));
+            return;
+          }
           reject(
             new Error(
-              'Reddit rate-limited this client (HTTP 429). Wait a minute and run again.'
+              'Reddit rate-limited this client (HTTP 429) after retries. Try again later.'
             )
           );
           return;
@@ -91,7 +107,7 @@ function get(url, redirectsLeft) {
  */
 function fetchPosts(subreddit, sort, limit) {
   const url = `https://www.reddit.com/r/${subreddit}/${sort}.rss?limit=${limit}`;
-  return get(url, MAX_REDIRECTS);
+  return get(url, MAX_REDIRECTS, MAX_429_RETRIES);
 }
 
 module.exports = { fetchPosts };

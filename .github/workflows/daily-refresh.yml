@@ -26,16 +26,12 @@ jobs:
 
       - run: npm ci
 
-      # Each invocation is one polite request; generous sleeps between them
-      # (Reddit rate-limits aggressively — 30s gaps proved necessary in testing).
+      # ONE Reddit request writes all three formats (see refresh-samples.js).
+      # Fetching the same listing three times is what tripped Reddit's 429 on
+      # shared runner IPs; the fetch also backs off and retries on 429.
       # Any non-zero exit here fails the whole job before the commit step.
       - name: Refresh samples
-        run: |
-          node feed.js r/automation --format md   --limit 10 -o samples/r-automation-hot.md
-          sleep 30
-          node feed.js r/automation --format csv  --limit 10 -o samples/r-automation-hot.csv
-          sleep 30
-          node feed.js r/automation --format json --limit 10 -o samples/r-automation-hot.json
+        run: node refresh-samples.js
 
       - name: Commit refreshed samples
         run: |
