@@ -1,9 +1,29 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-07-28T13:25:44.889Z",
+  "fetched_at": "2026-07-29T09:08:31.317Z",
   "count": 10,
   "posts": [
+    {
+      "title": "Looking for a 48GB VRAM GPU in the $1,300–$1,700 range for local LLMs",
+      "author": "Syosse-CH",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-07-29T06:54:34.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1v9oeuz/looking_for_a_48gb_vram_gpu_in_the_13001700_range/",
+      "external_url": null,
+      "excerpt": "Hello everyone, Unfortunately, while searching through my hardware, I only found one RTX 3090 Ti instead of two. For my planned setup, I need at least two GPUs, or generally more than 48 GB of total V…"
+    },
+    {
+      "title": "The automation failures that cost you are the ones that report success",
+      "author": "joshuahasideas",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-07-28T22:51:08.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1v9dyko/the_automation_failures_that_cost_you_are_the/",
+      "external_url": null,
+      "excerpt": "An automation can fail for lots of reasons. A token gets revoked, or someone renames a field so the trigger filter matches zero records. Zapier reports success. n8n shows a green run. It keeps firing…"
+    },
     {
       "title": "After watching a few accounts get banned, here's what I've learned about \"automating\" TikTok safely",
       "author": "Petesneaknex",
@@ -13,6 +33,26 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1v8x9ci/after_watching_a_few_accounts_get_banned_heres/",
       "external_url": null,
       "excerpt": "Every few weeks someone asks how to automate TikTok posting/engagement, and the answers are usually a bot farm or an emulator setup. Having watched accounts die that way, here's the mental model that…"
+    },
+    {
+      "title": "We stopped using AI for individual tasks and started chaining multi-agent workflows.",
+      "author": "Neighbourhoodplane17",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-07-28T21:35:07.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1v9bzar/we_stopped_using_ai_for_individual_tasks_and/",
+      "external_url": null,
+      "excerpt": "Over the past year, our marketing team hit a weird wall with AI tool fatigue. We had ChatGPT open in one tab for research, Claude in another for long-form drafting and a bunch of Zapier zaps trying to…"
+    },
+    {
+      "title": "Share Your Document Automation Workflow",
+      "author": "docpose-cloud-team",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-07-28T19:06:47.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1v97z2q/share_your_document_automation_workflow/",
+      "external_url": "/r/documentAutomation/comments/1v97y0o/share_your_document_automation_workflow/",
+      "excerpt": ""
     },
     {
       "title": "monthly make scenarios maintenance and error handling",
@@ -45,16 +85,6 @@
       "excerpt": ""
     },
     {
-      "title": "Solo consultant with a $150/month budget. What would your AI stack look like?",
-      "author": "smithnaam",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-07-27T13:58:57.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1v817nx/solo_consultant_with_a_150month_budget_what_would/",
-      "external_url": null,
-      "excerpt": "I've been doing a cleanup of my subscriptions because I realized I'm paying for a bunch of tools I barely touch. I'm a solo consultant and can justify about $150/month for everything combined. Most of…"
-    },
-    {
       "title": "This is how you can manage all your social media from ChatGPT. Avoid getting into the scroll loop and manage everything from the chat.",
       "author": "mutonbini",
       "score": null,
@@ -73,36 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1v7xu4t/how_expensive_is_it_really_to_deploy_industrial/",
       "external_url": null,
       "excerpt": "I’ve been trying to get a realistic picture of what AMR deployment actually costs beyond the robot itself, and honestly the more I look into it, the more it feels like the hardware price is only a sma…"
-    },
-    {
-      "title": "Looking for a buddy and a Co-Founder",
-      "author": "Ok_Shift9291",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-07-27T20:17:33.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1v8bx65/looking_for_a_buddy_and_a_cofounder/",
-      "external_url": "/r/cofounderhunt/comments/1v8bt9f/looking_for_a_buddy_and_a_cofounder/",
-      "excerpt": ""
-    },
-    {
-      "title": "What is the realistic timeline from deciding to automate a task to actually having robots running the task",
-      "author": "Far-Record_45",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-07-27T09:20:57.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1v7vaal/what_is_the_realistic_timeline_from_deciding_to/",
-      "external_url": null,
-      "excerpt": "Ok so the companies often make automation sound quick and like its just plug and play But from the point where your team decides okay lets automate this how long does it take before the robots were ac…"
-    },
-    {
-      "title": "AI Agents are overrated, simple automations are still king",
-      "author": "hassanwithanh",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-07-26T19:50:30.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1v7e3zu/ai_agents_are_overrated_simple_automations_are/",
-      "external_url": null,
-      "excerpt": "Just to show you that I know what I'm talking about :) Way too many of you are trying to build AI agents for simple automations that can be run with a very simple and reliable deterministic program. F…"
     }
   ]
 }
