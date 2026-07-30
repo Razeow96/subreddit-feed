@@ -1,9 +1,59 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-07-29T09:08:31.317Z",
+  "fetched_at": "2026-07-30T08:50:09.923Z",
   "count": 10,
   "posts": [
+    {
+      "title": "Need help with first timer here",
+      "author": "Funkymole165",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-07-29T20:50:37.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1va8ntx/need_help_with_first_timer_here/",
+      "external_url": null,
+      "excerpt": "Hello. I gotta really time consuming task to automate. Basically I’ve an organized listed of blogs that I gotta post but copy pasting them manually takes like 20-25 mins each and easily consumes my da…"
+    },
+    {
+      "title": "How to build a competitor monitoring system",
+      "author": "No_Discussion_8032",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-07-29T17:48:12.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1va3hrr/how_to_build_a_competitor_monitoring_system/",
+      "external_url": null,
+      "excerpt": "I needed a simple way to monitor competitor websites without manually checking the same pages every day I wanted to catch: Pricing changes, New features, Product launches, Updates to docs or integrati…"
+    },
+    {
+      "title": "7 years installing automation in factories. the tool was never the reason it failed.",
+      "author": "AykutSek",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-07-29T14:01:32.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1v9x36i/7_years_installing_automation_in_factories_the/",
+      "external_url": null,
+      "excerpt": "disclosure: i work on an automation tool now. this is what i believed before i built anything. before this i sold barcode systems into factories. seven years of installs. i watched a lot of automation…"
+    },
+    {
+      "title": "How is everyone regression testing LLM invoice/document extraction pipelines?",
+      "author": "HelpParticular2629",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-07-29T17:49:32.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1va3j44/how_is_everyone_regression_testing_llm/",
+      "external_url": null,
+      "excerpt": "Hey everyone, I 'have a question on LLM document extraction (specifically invoices/receipts) and wanted to get some perspective from the community. General LLM eval frameworks are great, but they don'…"
+    },
+    {
+      "title": "Become a GTM Engineer - $36k in scholarships!",
+      "author": "nathanlippi",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-07-29T17:21:56.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1va2qmf/become_a_gtm_engineer_36k_in_scholarships/",
+      "external_url": "/r/gtmengineering/comments/1va2pxt/become_a_gtme_36k_in_scholarships/",
+      "excerpt": ""
+    },
     {
       "title": "Looking for a 48GB VRAM GPU in the $1,300–$1,700 range for local LLMs",
       "author": "Syosse-CH",
@@ -13,6 +63,26 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1v9oeuz/looking_for_a_48gb_vram_gpu_in_the_13001700_range/",
       "external_url": null,
       "excerpt": "Hello everyone, Unfortunately, while searching through my hardware, I only found one RTX 3090 Ti instead of two. For my planned setup, I need at least two GPUs, or generally more than 48 GB of total V…"
+    },
+    {
+      "title": "Share Your Document Automation Workflow",
+      "author": "docpose-cloud-team",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-07-29T12:08:26.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1v9ubyo/share_your_document_automation_workflow/",
+      "external_url": "/r/documentAutomation/comments/1v97y0o/share_your_document_automation_workflow/",
+      "excerpt": ""
+    },
+    {
+      "title": "my CI bills per push not per deploy — a runaway retry loop called production-deploy 121 times in 2 days before anyone noticed. the fix is a double-latch gate. where does this still break?",
+      "author": "Most-Agent-7566",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-07-29T11:15:25.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1v9t6pa/my_ci_bills_per_push_not_per_deploy_a_runaway/",
+      "external_url": null,
+      "excerpt": "Found this out the expensive way: the CI provider my static site runs on bills per commit pushed to main, not per actual deploy. Every push spins up a container, restores a multi-gig build cache, and…"
     },
     {
       "title": "The automation failures that cost you are the ones that report success",
@@ -25,16 +95,6 @@
       "excerpt": "An automation can fail for lots of reasons. A token gets revoked, or someone renames a field so the trigger filter matches zero records. Zapier reports success. n8n shows a green run. It keeps firing…"
     },
     {
-      "title": "After watching a few accounts get banned, here's what I've learned about \"automating\" TikTok safely",
-      "author": "Petesneaknex",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-07-28T12:36:57.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1v8x9ci/after_watching_a_few_accounts_get_banned_heres/",
-      "external_url": null,
-      "excerpt": "Every few weeks someone asks how to automate TikTok posting/engagement, and the answers are usually a bot farm or an emulator setup. Having watched accounts die that way, here's the mental model that…"
-    },
-    {
       "title": "We stopped using AI for individual tasks and started chaining multi-agent workflows.",
       "author": "Neighbourhoodplane17",
       "score": null,
@@ -43,66 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1v9bzar/we_stopped_using_ai_for_individual_tasks_and/",
       "external_url": null,
       "excerpt": "Over the past year, our marketing team hit a weird wall with AI tool fatigue. We had ChatGPT open in one tab for research, Claude in another for long-form drafting and a bunch of Zapier zaps trying to…"
-    },
-    {
-      "title": "Share Your Document Automation Workflow",
-      "author": "docpose-cloud-team",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-07-28T19:06:47.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1v97z2q/share_your_document_automation_workflow/",
-      "external_url": "/r/documentAutomation/comments/1v97y0o/share_your_document_automation_workflow/",
-      "excerpt": ""
-    },
-    {
-      "title": "monthly make scenarios maintenance and error handling",
-      "author": "sidmish",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-07-28T04:01:10.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1v8n5gq/monthly_make_scenarios_maintenance_and_error/",
-      "external_url": null,
-      "excerpt": "One thing I’ve noticed after working with Make automations is that building them is only half the job. Most issues happen after a workflow goes live: - APIs change - Apps update - Unexpected data brea…"
-    },
-    {
-      "title": "My second automation",
-      "author": "johnvanderlinde",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-07-28T08:24:56.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1v8s3r7/my_second_automation/",
-      "external_url": "https://www.reddit.com/gallery/1v8s3r7",
-      "excerpt": "For anyone who read my last post they'll know I'm fairly novice with n8n and planning on working it into a big full stack project. So far, I've only actually used it for automating the dev log on the…"
-    },
-    {
-      "title": "AMA with the CloakBrowser Team This Wednesday: Learn to Bypass Anti-Bot Systems with Stealth Browser for Automation",
-      "author": "ian_k93",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-07-28T07:17:45.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1v8qxis/ama_with_the_cloakbrowser_team_this_wednesday/",
-      "external_url": "/r/WebScrapingInsider/comments/1v60mr2/ama_this_wednesday_600800_pm_et_with_cloakbrowser/",
-      "excerpt": ""
-    },
-    {
-      "title": "This is how you can manage all your social media from ChatGPT. Avoid getting into the scroll loop and manage everything from the chat.",
-      "author": "mutonbini",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-07-27T21:31:27.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1v8dxq8/this_is_how_you_can_manage_all_your_social_media/",
-      "external_url": "https://i.redd.it/ax5ul5b2cufh1.png",
-      "excerpt": "Using the official upload-post ChatGPT plugin, you can manage all your social media accounts by talking, upload content to TikTok, Instagram, YouTube, and more than 10 social networks, view analytics…"
-    },
-    {
-      "title": "How expensive is it really to deploy industrial AMRs in a warehouse?",
-      "author": "JerryZhi",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-07-27T11:37:05.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1v7xu4t/how_expensive_is_it_really_to_deploy_industrial/",
-      "external_url": null,
-      "excerpt": "I’ve been trying to get a realistic picture of what AMR deployment actually costs beyond the robot itself, and honestly the more I look into it, the more it feels like the hardware price is only a sma…"
     }
   ]
 }
