@@ -1,18 +1,48 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-07-31T09:16:18.838Z",
+  "fetched_at": "2026-08-01T08:34:00.356Z",
   "count": 10,
   "posts": [
     {
-      "title": "Automating an \"ask your data\" step without hand-writing SQL for every report",
+      "title": "What’s the black spot in your automations - the moment the loop needs a human to step in?",
+      "author": "cosankov",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-07-31T17:21:15.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vbxa87/whats_the_black_spot_in_your_automations_the/",
+      "external_url": null,
+      "excerpt": "Most of what I do professionally is build and run automation, so I spent an inordinate amount of time thinking about its edges. The part that interests me now is not what automation can do, which is m…"
+    },
+    {
+      "title": "Saw $1.5 trillion on my AWS bill and nearly died",
+      "author": "No_Discussion_8032",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-07-31T22:25:55.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vc5cax/saw_15_trillion_on_my_aws_bill_and_nearly_died/",
+      "external_url": "https://i.redd.it/dptel02cemgh1.jpeg",
+      "excerpt": ""
+    },
+    {
+      "title": "Genie Code auto-building pipelines in-workspace",
       "author": "pretzels90210",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-07-31T02:11:32.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vbdk43/automating_an_ask_your_data_step_without/",
+      "created_utc": "2026-08-01T05:26:23.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vcefka/genie_code_autobuilding_pipelines_inworkspace/",
       "external_url": null,
-      "excerpt": "Saved myself a ton of manual reporting work with the Databricks Genie Conversation API: you POST a plain-english question, poll for the result, and get back the generated SQL plus the rows your workfl…"
+      "excerpt": "One automation win that is saving me time lately: Genie Code can run agentic tasks right inside the Databricks workspace, so instead of hand-writing an ETL job you describe the transform and it drafts…"
+    },
+    {
+      "title": "What automation has saved you the most time, boosted productivity, or was just a fun project to build?",
+      "author": "RadianChoi",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-07-31T16:41:30.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vbw6fu/what_automation_has_saved_you_the_most_time/",
+      "external_url": null,
+      "excerpt": ""
     },
     {
       "title": "Anyone using workflow automation to make operations less chaotic?",
@@ -23,6 +53,26 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1vbha9e/anyone_using_workflow_automation_to_make/",
       "external_url": null,
       "excerpt": "Our operations team has been drowning in repetitive tasks lately, and it feels like we’re constantly putting out fires instead of improving how we work. I know workflow automation is a solution, but I…"
+    },
+    {
+      "title": "FlowLens now has official Discord and Email support.",
+      "author": "Scopre",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-07-31T16:25:35.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vbvquw/flowlens_now_has_official_discord_and_email/",
+      "external_url": "/r/flowlens/comments/1vbvmly/flowlens_now_has_official_discord_and_email/",
+      "excerpt": "​"
+    },
+    {
+      "title": "Automating an \"ask your data\" step without hand-writing SQL for every report",
+      "author": "pretzels90210",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-07-31T02:11:32.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vbdk43/automating_an_ask_your_data_step_without/",
+      "external_url": null,
+      "excerpt": "Saved myself a ton of manual reporting work with the Databricks Genie Conversation API: you POST a plain-english question, poll for the result, and get back the generated SQL plus the rows your workfl…"
     },
     {
       "title": "Fastapi vs Django for Python automations",
@@ -53,56 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1vbks27/if_a_computer_could_automate_anything_you_do_what/",
       "external_url": null,
       "excerpt": "I'm curious about how people think about computer automation. Imagine there were a tool that could observe what you're doing on your computer and automate any repetitive workflow - not just clicking b…"
-    },
-    {
-      "title": "The admin work is what makes AI workflows usable",
-      "author": "Admirable-Future-633",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-07-30T17:19:22.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vazyl0/the_admin_work_is_what_makes_ai_workflows_usable/",
-      "external_url": null,
-      "excerpt": "I keep relearning this the hard way. The exciting part of AI automation is the model call, the agent, the workflow canvas, or the clever prompt. The useful part is usually the admin layer around it. A…"
-    },
-    {
-      "title": "Send and wait is the most underrated node for agent workflows - knowledge base grows from the questions the agent couldn’t answer.",
-      "author": "Low-Presentation-936",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-07-30T23:21:32.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vb9onu/send_and_wait_is_the_most_underrated_node_for/",
-      "external_url": "https://i.redd.it/h5sqs28iaggh1.jpeg",
-      "excerpt": "I’ve been running an AI agent on a B2B technical support inbox for a few months. The interesting part isn’t the answering — it’s what happens when the model *doesn’t* know. Sharing the architecture in…"
-    },
-    {
-      "title": "An accountant's round-up of the best software for automated journal entries in 2026",
-      "author": "MouldyArtist917",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-07-30T22:33:52.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vb8jiy/an_accountants_roundup_of_the_best_software_for/",
-      "external_url": null,
-      "excerpt": "I see a lot of skepticism around using AI in accounting, which I totally get. A lot of accountants I talk to are especially worried about accuracy, but accuracy varies a lot depending on which softwar…"
-    },
-    {
-      "title": "Can People Find Purpose Without Jobs?",
-      "author": "Fernandom21",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-07-30T18:05:15.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vb19xu/can_people_find_purpose_without_jobs/",
-      "external_url": "/r/PostLaborEconomy/comments/1va3du3/can_people_find_purpose_without_jobs/",
-      "excerpt": ""
-    },
-    {
-      "title": "Our workflow automation stack for 1,500+ startup clients, and where the AI tools still fall short",
-      "author": "Anelya",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-07-30T09:09:42.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vaodl8/our_workflow_automation_stack_for_1500_startup/",
-      "external_url": null,
-      "excerpt": "Saw a few threads asking what tools other firms actually run day to day, versus what gets recommended in every \"best accounting software 2026\" listicle. We're a boutique SF firm, venture-backed startu…"
     }
   ]
 }
