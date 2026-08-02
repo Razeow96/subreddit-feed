@@ -1,18 +1,68 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-08-01T08:34:00.356Z",
+  "fetched_at": "2026-08-02T08:36:56.138Z",
   "count": 10,
   "posts": [
     {
-      "title": "What’s the black spot in your automations - the moment the loop needs a human to step in?",
-      "author": "cosankov",
+      "title": "Update on the thing I mentioned a bit back — automations reporting \"success\" while the actual output never lands correctly.",
+      "author": "Ambitious_Night_1275",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-07-31T17:21:15.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vbxa87/whats_the_black_spot_in_your_automations_the/",
+      "created_utc": "2026-08-01T23:25:02.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vd1zl8/update_on_the_thing_i_mentioned_a_bit_back/",
       "external_url": null,
-      "excerpt": "Most of what I do professionally is build and run automation, so I spent an inordinate amount of time thinking about its edges. The part that interests me now is not what automation can do, which is m…"
+      "excerpt": "got the checks fully built out now. it's not just \"did the record show up\" anymore. It goes: did anything land at all → is the volume normal compared to history → does the data actually look right (re…"
+    },
+    {
+      "title": "Consolidating my custom scraping, email drafting, old convo pulling tools in kinda one hub architecture",
+      "author": "Elxerxi",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-01T23:18:29.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vd1ue3/consolidating_my_custom_scraping_email_drafting/",
+      "external_url": null,
+      "excerpt": "Hey maestros, ive been shamelessly vibe coding recently, being an independent business operator with adhd, i found vibe coding quite liberating. created some hyper-primitive, fragile and rigid RAG sys…"
+    },
+    {
+      "title": "Automating reverse-ETL with Lakebase synced tables",
+      "author": "pretzels90210",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-01T22:36:10.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vd0w5k/automating_reverseetl_with_lakebase_synced_tables/",
+      "external_url": null,
+      "excerpt": "An automation that killed a whole cron job for me: Lakebase synced tables. Instead of writing a reverse-ETL script to push a curated analytics table back into an app's Postgres, you point a synced tab…"
+    },
+    {
+      "title": "Tried to automate my service menu and pricing updates across platforms and it became its own part time job",
+      "author": "Past-Ad2067",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-01T21:18:29.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vcz2cc/tried_to_automate_my_service_menu_and_pricing/",
+      "external_url": null,
+      "excerpt": "Running a small consulting side thing on top of barista shifts means my availability and offerings change pretty regularly. I update something on my site, forget the LinkedIn page, forget the Notion d…"
+    },
+    {
+      "title": "Voice agents - struggling with latency",
+      "author": "rationalbou896",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-01T14:13:35.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vcoim4/voice_agents_struggling_with_latency/",
+      "external_url": null,
+      "excerpt": "Hi guys, I’ve been playing around with retell, bland, livelkit, etc… but struggling with the latency, sometimes there’s a 3-4 sec lag, and sometimes 1-2 Anyway to improve this? I’ve added all possible…"
+    },
+    {
+      "title": "Shit it now, fix it later",
+      "author": "YZHSQA",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-01T14:18:05.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vcomhy/shit_it_now_fix_it_later/",
+      "external_url": null,
+      "excerpt": "I built a game with Fabel 5 (in less than 24 hours) and shipped it to Apple Store. Let’s see if they gonna approve it. I haven’t even played it. Imagine if it makes me more money than the entire codin…"
     },
     {
       "title": "Saw $1.5 trillion on my AWS bill and nearly died",
@@ -23,6 +73,16 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1vc5cax/saw_15_trillion_on_my_aws_bill_and_nearly_died/",
       "external_url": "https://i.redd.it/dptel02cemgh1.jpeg",
       "excerpt": ""
+    },
+    {
+      "title": "What’s the black spot in your automations - the moment the loop needs a human to step in?",
+      "author": "cosankov",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-07-31T17:21:15.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vbxa87/whats_the_black_spot_in_your_automations_the/",
+      "external_url": null,
+      "excerpt": "Most of what I do professionally is build and run automation, so I spent an inordinate amount of time thinking about its edges. The part that interests me now is not what automation can do, which is m…"
     },
     {
       "title": "Genie Code auto-building pipelines in-workspace",
@@ -43,66 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1vbw6fu/what_automation_has_saved_you_the_most_time/",
       "external_url": null,
       "excerpt": ""
-    },
-    {
-      "title": "Anyone using workflow automation to make operations less chaotic?",
-      "author": "asianjapnina",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-07-31T05:09:17.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vbha9e/anyone_using_workflow_automation_to_make/",
-      "external_url": null,
-      "excerpt": "Our operations team has been drowning in repetitive tasks lately, and it feels like we’re constantly putting out fires instead of improving how we work. I know workflow automation is a solution, but I…"
-    },
-    {
-      "title": "FlowLens now has official Discord and Email support.",
-      "author": "Scopre",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-07-31T16:25:35.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vbvquw/flowlens_now_has_official_discord_and_email/",
-      "external_url": "/r/flowlens/comments/1vbvmly/flowlens_now_has_official_discord_and_email/",
-      "excerpt": "​"
-    },
-    {
-      "title": "Automating an \"ask your data\" step without hand-writing SQL for every report",
-      "author": "pretzels90210",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-07-31T02:11:32.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vbdk43/automating_an_ask_your_data_step_without/",
-      "external_url": null,
-      "excerpt": "Saved myself a ton of manual reporting work with the Databricks Genie Conversation API: you POST a plain-english question, poll for the result, and get back the generated SQL plus the rows your workfl…"
-    },
-    {
-      "title": "Fastapi vs Django for Python automations",
-      "author": "Fine-Market9841",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-07-31T00:36:31.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vbbfsd/fastapi_vs_django_for_python_automations/",
-      "external_url": null,
-      "excerpt": "For all you freelancer python developers. For python automations with or without AI do you use FastAPI or Django."
-    },
-    {
-      "title": "need pdfs to generate automatically when form submissions come in.. whats actually working",
-      "author": "ElegantGuard3505",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-07-31T08:23:27.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vbkwdx/need_pdfs_to_generate_automatically_when_form/",
-      "external_url": null,
-      "excerpt": "small ops team, airtable intake form, pdf supposed to attach on every submit. test runs fine every time. live submission last night, no pdf, zap still shows green. tried docsautomator, pdfmonkey templ…"
-    },
-    {
-      "title": "If a computer could automate anything you do, what would you automate?",
-      "author": "BugInfinite5784",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-07-31T08:16:36.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vbks27/if_a_computer_could_automate_anything_you_do_what/",
-      "external_url": null,
-      "excerpt": "I'm curious about how people think about computer automation. Imagine there were a tool that could observe what you're doing on your computer and automate any repetitive workflow - not just clicking b…"
     }
   ]
 }
