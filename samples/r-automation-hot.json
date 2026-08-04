@@ -1,9 +1,59 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-08-03T10:05:38.299Z",
+  "fetched_at": "2026-08-04T09:07:08.282Z",
   "count": 10,
   "posts": [
+    {
+      "title": "What is an automation that you have seen that actually prints money?",
+      "author": "emilyxhug",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-03T11:42:23.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1veb1kt/what_is_an_automation_that_you_have_seen_that/",
+      "external_url": null,
+      "excerpt": "I recently read on one of these subreddits about a Shopify founder who had an absolutely unhinged setup recently. They connected Midjourney to a print-on-demand pipeline so trending memes from Twitter…"
+    },
+    {
+      "title": "What's the biggest automation you've given up on because it became too complicated?",
+      "author": "OwlZealousideal4779",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-04T01:30:22.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vewd3t/whats_the_biggest_automation_youve_given_up_on/",
+      "external_url": null,
+      "excerpt": "I keep seeing these amazing automation workflows online, but once I actually try building them, they end up needing constant maintenance. One API changes. One step breaks. One prompt stops producing g…"
+    },
+    {
+      "title": "Best AR invoice automation setups in 2026?",
+      "author": "Freshnner",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-03T18:50:40.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vemas1/best_ar_invoice_automation_setups_in_2026/",
+      "external_url": null,
+      "excerpt": "Looking for invoice automation setups and advice, mainly for our account receivables. Right now, I just have a very basic QBO + Stripe setup which relies on a ton of manual data entry. I've been tryin…"
+    },
+    {
+      "title": "I built a fully automated video pipeline that uses my own cloned avatar and voice (n8n + Claude + HeyGen + VidIQ) - Workflows shared",
+      "author": "indishmarketer",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-03T17:20:39.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vejsqs/i_built_a_fully_automated_video_pipeline_that/",
+      "external_url": "https://www.reddit.com/gallery/1vejsqs",
+      "excerpt": "Recently I built a hands-free video automation system. I give it a topic or a script, and it handles everything else. I don't record, edit, or even post myself. Here's how it works: I send a topic to…"
+    },
+    {
+      "title": "What's one task you still you don't prefer to automate?",
+      "author": "MarchPlastic1650",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-03T13:01:57.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vecszd/whats_one_task_you_still_you_dont_prefer_to/",
+      "external_url": null,
+      "excerpt": "Even with AI and automation getting better, I think there are still some tasks that are better done by a person. What's one thing you still prefer doing manually ? Any challenges have you faced?"
+    },
     {
       "title": "what are the techs i need to learn to get into automation and getting clients",
       "author": "techlover1010",
@@ -15,94 +65,44 @@
       "excerpt": "i heard zapier is really famous and was wondering if i can learn and use its full potential without me paying any subscription? what other tools are really popular for businesses"
     },
     {
-      "title": "Are AI agents actually replacing traditional automation tools?",
-      "author": "OwlZealousideal4779",
+      "title": "What's the most repetitive business process you'd automate if implementation were simple and affordable?",
+      "author": "pytersdmf",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-03T03:09:07.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1ve1ops/are_ai_agents_actually_replacing_traditional/",
+      "created_utc": "2026-08-03T18:57:49.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vemhsx/whats_the_most_repetitive_business_process_youd/",
       "external_url": null,
-      "excerpt": "I've been seeing more AI agents that can handle things like email, Slack, reporting, research, and routine admin work without needing dozens of separate automations. Tools like HeyMarcus.ai. seem to b…"
-    },
-    {
-      "title": "Auto-provision a throwaway Postgres per preview deploy",
-      "author": "pretzels90210",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-03T04:21:49.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1ve34cy/autoprovision_a_throwaway_postgres_per_preview/",
-      "external_url": null,
-      "excerpt": "One automation that saved me a ton of flaky test pain used Neon's Vercel integration that creates an isolated copy-on-write database branch for every preview deployment, so each PR gets its own real P…"
-    },
-    {
-      "title": "Managed Data Lake: A Practical Guide",
-      "author": "codingdecently",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-03T10:01:45.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1ve95ex/managed_data_lake_a_practical_guide/",
-      "external_url": "https://overcast.blog/managed-data-lake-a-practical-guide-6a68bf7bcd38",
       "excerpt": ""
     },
     {
-      "title": "How to automate a WhatsApp message at a specific time?",
-      "author": "Nahuelcorno",
+      "title": "Lakebase scale-to-zero as a cheap always-ready backend for scheduled automations",
+      "author": "pretzels90210",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-02T14:43:08.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vdjv4w/how_to_automate_a_whatsapp_message_at_a_specific/",
+      "created_utc": "2026-08-03T17:47:02.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vekj1h/lakebase_scaletozero_as_a_cheap_alwaysready/",
       "external_url": null,
-      "excerpt": "Hello, good afternoon! I hope you are well! I'd like to know if there's a way to automate sending the same message to a WhatsApp group at a specific time! It would be something that was done every day…"
+      "excerpt": "For anyone running scheduled or event-driven automations that need a real database but sit idle most of the day, Lakebase (managed Postgres on Databricks) can autoscale compute to workload and suspend…"
     },
     {
-      "title": "Digital marketing cheat sheet!!!",
-      "author": "_KryptonytE_",
+      "title": "PowerPoint Speedrun: Inserting 100 images in just 10 seconds.",
+      "author": "Spiritual_Balance298",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-02T18:44:37.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vdpz0v/digital_marketing_cheat_sheet/",
-      "external_url": null,
-      "excerpt": "Does anyone have a guide or reference links to study for beginners entering the digital marketing domain? I don't want to lock in to a specific stack or provider but rather want to know how things are…"
+      "created_utc": "2026-08-03T16:29:28.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1veicue/powerpoint_speedrun_inserting_100_images_in_just/",
+      "external_url": "https://i.redd.it/gp03mgz9q6hh1.png",
+      "excerpt": "OpenURLs App (Lite) This is a quick 10-second demo of automatically importing, cropping, and aligning 100 images into PowerPoint slides. I wonder if anyone actually needs this though lol? 100% local,…"
     },
     {
-      "title": "How to automate social media posting end to end in 2026, tested stack with real costs",
-      "author": "Purple_Network3016",
+      "title": "I added a free live job hunting inside a Discord server so you don’t have to jump between 10 tabs anymore",
+      "author": "manateecoltee",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-02T16:58:16.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vdn8o9/how_to_automate_social_media_posting_end_to_end/",
-      "external_url": null,
-      "excerpt": "Full end-to-end automation (content generation - per-platform formatting - scheduling - publishing) runs me under $75/mo and about 3 hours of first-weekend setup. The stack that survived 6 months: Cla…"
-    },
-    {
-      "title": "Tried to automate my service menu and pricing updates across platforms and it became its own part time job",
-      "author": "Past-Ad2067",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-01T21:18:29.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vcz2cc/tried_to_automate_my_service_menu_and_pricing/",
-      "external_url": null,
-      "excerpt": "Running a small consulting side thing on top of barista shifts means my availability and offerings change pretty regularly. I update something on my site, forget the LinkedIn page, forget the Notion d…"
-    },
-    {
-      "title": "Update on the thing I mentioned a bit back — automations reporting \"success\" while the actual output never lands correctly.",
-      "author": "Ambitious_Night_1275",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-01T23:25:02.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vd1zl8/update_on_the_thing_i_mentioned_a_bit_back/",
-      "external_url": null,
-      "excerpt": "got the checks fully built out now. it's not just \"did the record show up\" anymore. It goes: did anything land at all → is the volume normal compared to history → does the data actually look right (re…"
-    },
-    {
-      "title": "Consolidating my custom scraping, email drafting, old convo pulling tools in kinda one hub architecture",
-      "author": "Elxerxi",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-01T23:18:29.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vd1ue3/consolidating_my_custom_scraping_email_drafting/",
-      "external_url": null,
-      "excerpt": "Hey maestros, ive been shamelessly vibe coding recently, being an independent business operator with adhd, i found vibe coding quite liberating. created some hyper-primitive, fragile and rigid RAG sys…"
+      "created_utc": "2026-08-03T15:15:33.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vegap2/i_added_a_free_live_job_hunting_inside_a_discord/",
+      "external_url": "/r/JobhunterOS/comments/1veg90d/i_added_live_job_hunting_inside_a_discord_server/",
+      "excerpt": ""
     }
   ]
 }
