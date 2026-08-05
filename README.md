@@ -75,9 +75,11 @@ A [GitHub Actions cron job](.github/workflows/daily-refresh.yml) re-runs the CLI
 
 I build small, reliable automation and data tools like this one.
 
-- Fiverr — link pending
-- Upwork — link pending
-- Contra — link pending
+- Fiverr — https://www.fiverr.com/razeow
+- Upwork — https://www.upwork.com/freelancers/~01728619cfafa05cc0
+- Contra — https://contra.com/razeowstudio
+
+**What it costs:** the same feed against your sources, refreshing on a schedule — from $60.
 
 ## License
 
