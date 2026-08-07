@@ -1,18 +1,58 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-08-06T09:05:20.908Z",
+  "fetched_at": "2026-08-07T07:41:11.020Z",
   "count": 10,
   "posts": [
     {
-      "title": "I was tired of overpriced clip tools, so I made my own (open source) Video Shorts generator. MCP server included",
-      "author": "mutonbini",
+      "title": "What’s one automation you built that people still thank you for?",
+      "author": "MarchPlastic1650",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-05T22:47:39.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vgmm3r/i_was_tired_of_overpriced_clip_tools_so_i_made_my/",
-      "external_url": "https://i.redd.it/h809jtbsxmhh1.gif",
-      "excerpt": "I just wanted to let you know that I made a lot of improvements to openshorts, especially regarding the MCP server, now you can connect your agents and generate clips for the whole week. Plus, many ne…"
+      "created_utc": "2026-08-06T13:03:15.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vh3ny2/whats_one_automation_you_built_that_people_still/",
+      "external_url": null,
+      "excerpt": "Not the biggest or most complex one. Just the workflow that made someone’s day-to-day work noticeably easier. I’d love to hear real examples."
+    },
+    {
+      "title": "Working Full Time in Automation",
+      "author": "Cold-Fly4633",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-06T20:33:21.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vhfwbo/working_full_time_in_automation/",
+      "external_url": "/r/AiAutomations/comments/1vgknaw/working_full_time_in_automation/",
+      "excerpt": ""
+    },
+    {
+      "title": "Undo button for the automation that wrote to the wrong table",
+      "author": "pretzels90210",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-06T18:58:30.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vhdbzg/undo_button_for_the_automation_that_wrote_to_the/",
+      "external_url": null,
+      "excerpt": "If you have automations writing to a Postgres, Neon's instant restore is a decent safety cgeck - you can revert a root branch to any timestamp inside your history window, down to the millisecond, and…"
+    },
+    {
+      "title": "How do you convert search results into structured data without account restrictions?",
+      "author": "lucifer9590",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-06T16:46:56.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vh9np5/how_do_you_convert_search_results_into_structured/",
+      "external_url": null,
+      "excerpt": "Been trying to build a cleaner workflow for moving search results into our internal databases. Right now, getting clean structured data from standard search pages is the main bottleneck. Cloud-based d…"
+    },
+    {
+      "title": "is it possible to automate requesting data export each month on snapchat for the past month?",
+      "author": "idk00999",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-06T21:25:09.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vhh7za/is_it_possible_to_automate_requesting_data_export/",
+      "external_url": null,
+      "excerpt": "I'm trying to automate the process of downloading and backing up snapchat memories, starting from automating the request made on snapchat to export your data (of some selected time), then automating t…"
     },
     {
       "title": "How much evidence should an automated CRM finding show before the report becomes unreadable?",
@@ -22,17 +62,17 @@
       "created_utc": "2026-08-06T08:56:28.000Z",
       "permalink": "https://www.reddit.com/r/automation/comments/1vgytcr/how_much_evidence_should_an_automated_crm_finding/",
       "external_url": null,
-      "excerpt": "work on One of our workflows can flag deals that look stalled, but just saying \"\"12 deals may be stuck\"\" turned out to be almost useless on its own. Managers wanted to know exactly which fields were c…"
+      "excerpt": "work on expertiseai One of our workflows can flag deals that look stalled, but just saying \"\"12 deals may be stuck\"\" turned out to be almost useless on its own. Managers wanted to know exactly which f…"
     },
     {
-      "title": "Does anyone face the same messy workflow issue in ai generation like me???",
-      "author": "SyntaxError0205",
+      "title": "Open source Python component libraries",
+      "author": "Fine-Market9841",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-06T04:10:50.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vgtqc6/does_anyone_face_the_same_messy_workflow_issue_in/",
+      "created_utc": "2026-08-06T16:37:49.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vh9ee6/open_source_python_component_libraries/",
       "external_url": null,
-      "excerpt": "\"Can we go back to the the first version?\" Hearing this from a client last week made me realize a problem in my workflow: once the project had several versions, I couldn't longer trace back to the old…"
+      "excerpt": "This is for Python devs. Which python open source libraries are the most useful for building automation?"
     },
     {
       "title": "I got tired of getting warnings on my LinkedIn account, so I built my own safe LinkedIn automation tool instead",
@@ -45,64 +85,24 @@
       "excerpt": "I used to work in outbound sales for an IT outsourcing business, so reaching out to people on LinkedIn to promote that service was something I did regularly. Trying to send 200+ manual connection requ…"
     },
     {
-      "title": "My automated good-morning drafts made me sound like a different boyfriend every day",
-      "author": "Sweet-Panic8630",
+      "title": "I was tired of overpriced clip tools, so I made my own (open source) Video Shorts generator. MCP server included",
+      "author": "mutonbini",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-06T03:09:47.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vgshns/my_automated_goodmorning_drafts_made_me_sound/",
-      "external_url": null,
-      "excerpt": "My girlfriend and I live in different time zones and she likes receiving a message when she wakes up. However, her morning begins in the busiest time of my day. I kept forgetting to text her, so I exp…"
+      "created_utc": "2026-08-05T22:47:39.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vgmm3r/i_was_tired_of_overpriced_clip_tools_so_i_made_my/",
+      "external_url": "https://i.redd.it/h809jtbsxmhh1.gif",
+      "excerpt": "I just wanted to let you know that I made a lot of improvements to openshorts, especially regarding the MCP server, now you can connect your agents and generate clips for the whole week. Plus, many ne…"
     },
     {
-      "title": "Automation without failure logging is just hope with a schedule",
-      "author": "Grouchy-Conflict-211",
+      "title": "Built a platform for Android Phone Farms & Social Media Automation (mationx)",
+      "author": "Artistic-Painter-112",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-05T19:25:21.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vgh923/automation_without_failure_logging_is_just_hope/",
+      "created_utc": "2026-08-06T10:00:08.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vgzw40/built_a_platform_for_android_phone_farms_social/",
       "external_url": null,
-      "excerpt": "Every automation I've seen die didn't die from a bad workflow. It died from an invisible one. The workflow ran fine for weeks. Then one API changed, one field went null, and nobody noticed until a cus…"
-    },
-    {
-      "title": "Stop building 12-step webhook skyscrapers for 2-step problems",
-      "author": "Neighbourhoodplane17",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-05T20:03:00.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vgibjj/stop_building_12step_webhook_skyscrapers_for/",
-      "external_url": null,
-      "excerpt": "The single biggest trap in automation isn’t picking the wrong tool; it’s building a fragile skyscraper when a wooden stool would have done the job. Early on, I fell into the trap of trying to automate…"
-    },
-    {
-      "title": "Skip the \"pull me a number\" pings by pinning a data agent to the Slack channel",
-      "author": "pretzels90210",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-05T15:56:30.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vgbcri/skip_the_pull_me_a_number_pings_by_pinning_a_data/",
-      "external_url": null,
-      "excerpt": "I've automated a lot of Slack responses with our Databricks setup. When people keep DMing you for numbers, the Databricks Genie app for Slack is a good way to automate that away: you u/Genie in a chan…"
-    },
-    {
-      "title": "What's the first thing you'd automate if you started a new job tomorrow?",
-      "author": "I_know_few_things",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-05T07:11:57.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vg042n/whats_the_first_thing_youd_automate_if_you/",
-      "external_url": null,
-      "excerpt": "You walk into a brand new job, fresh systems, fresh processes, and you get to pick one thing to automate before anything else. What do you go for? For me it's usually the reports. Almost every job has…"
-    },
-    {
-      "title": "How are you version-controlling PLC logic in large automation projects?",
-      "author": "Top-Try419",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-05T17:42:22.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vgecr3/how_are_you_versioncontrolling_plc_logic_in_large/",
-      "external_url": null,
-      "excerpt": "For teams with multiple engineers working on PLC programs, what’s your workflow for version control? Are you using Git in any capacity, vendor-specific tools, or something else? I’m curious how people…"
+      "excerpt": "Hey everyone, If you are running physical Android phone farms (S9, S10, Pixels, etc.) or doing social media automation (TikTok, Instagram, Facebook, Google accounts) on real devices, you know how anno…"
     }
   ]
 }
