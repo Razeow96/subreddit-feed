@@ -1,17 +1,57 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-08-10T08:04:05.298Z",
+  "fetched_at": "2026-08-11T07:36:49.965Z",
   "count": 10,
   "posts": [
     {
-      "title": "What’s a non-AI task in your workflow that you refuse to automate?",
-      "author": "pm-me-your-pm-now",
+      "title": "I deleted my monitoring dashboard and my automations got more reliable",
+      "author": "Grouchy-Conflict-211",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-10T07:01:15.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vkdl1t/whats_a_nonai_task_in_your_workflow_that_you/",
-      "external_url": "/r/MarketingandAI/comments/1vkdkr5/whats_a_nonai_task_in_your_workflow_that_you/",
+      "created_utc": "2026-08-11T03:59:31.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vl6skf/i_deleted_my_monitoring_dashboard_and_my/",
+      "external_url": null,
+      "excerpt": "I posted here about automating a 10 minute task a while back. A few people asked how I monitor my stuff. Truth is, for a while I had a full dashboard. Grafana, alerts, the whole thing. Then I noticed…"
+    },
+    {
+      "title": "How we stopped working for our agents: when software factory DOESN'T work",
+      "author": "sn1pr0s",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-11T06:25:54.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vl9ibv/how_we_stopped_working_for_our_agents_when/",
+      "external_url": "https://islo.dev/blog/how-we-stopped-working-for-our-agents/",
+      "excerpt": ""
+    },
+    {
+      "title": "Wiring natural-language-to-SQL into an agent workflow",
+      "author": "pretzels90210",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-10T19:25:36.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vkun5x/wiring_naturallanguagetosql_into_an_agent_workflow/",
+      "external_url": null,
+      "excerpt": "If your agent needs to answer questions over real tables mid-workflow, the Databricks Genie Conversation API is worth a look, you POST a plain-english question and poll back the generated SQL plus the…"
+    },
+    {
+      "title": "Has anyone automated a podcast summarizer workflow across Spotify, Apple Podcasts, and YouTube?",
+      "author": "ReedNira",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-10T10:29:44.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vkh33k/has_anyone_automated_a_podcast_summarizer/",
+      "external_url": null,
+      "excerpt": "I’m trying to automate how I process long-form audio and video. The goal is to send a Spotify, Apple Podcasts, or YouTube link into one workflow and get: - A transcript and structured summary - Key id…"
+    },
+    {
+      "title": "This is our Agent Run Dashboard",
+      "author": "Hopeful-Fly-5292",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-10T11:17:57.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vkhys1/this_is_our_agent_run_dashboard/",
+      "external_url": "https://i.redd.it/zokplawxwiih1.png",
       "excerpt": ""
     },
     {
@@ -23,6 +63,16 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1vk3aig/anyone_here_actually_make_money_doing_ai/",
       "external_url": null,
       "excerpt": "Hi! So I’m learning AI/business process automation with the goal of helping small service businesses automate things like lead follow-up, scheduling, CRM updates, reminders, and admin work. I work ful…"
+    },
+    {
+      "title": "What’s a non-AI task in your workflow that you refuse to automate?",
+      "author": "pm-me-your-pm-now",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-10T07:01:15.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vkdl1t/whats_a_nonai_task_in_your_workflow_that_you/",
+      "external_url": "/r/MarketingandAI/comments/1vkdkr5/whats_a_nonai_task_in_your_workflow_that_you/",
+      "excerpt": ""
     },
     {
       "title": "How do I find clients for custom AI-powered dashboards and internal tools?",
@@ -53,56 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1vk8clx/shipping_receipts_for_budgeting/",
       "external_url": null,
       "excerpt": "This could work for any store that provides digital access to receipts, I bet. I'm thinking of my grocery store, Safeway. Whenever I use my phone number for fuel points, it tracks all of the items. I…"
-    },
-    {
-      "title": "Alright, look, I'll make it dead-simple for all of you.",
-      "author": "PA100T0",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-09T20:24:10.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vk0a8k/alright_look_ill_make_it_deadsimple_for_all_of_you/",
-      "external_url": "https://www.reddit.com/gallery/1vk00zr",
-      "excerpt": ""
-    },
-    {
-      "title": ": My first AI video draft got much faster. But the final delivery barely moved.",
-      "author": "THE_CURIOUS_NOVA",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-09T11:19:22.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vjnbk2/my_first_ai_video_draft_got_much_faster_but_the/",
-      "external_url": null,
-      "excerpt": "I'm starting to track my AI video process as three separate stretches: brief to rough draft, rough draft to approved direction, and approval to final delivery. Timing only the generation step has been…"
-    },
-    {
-      "title": "How do you get the first real traffic to a new startup website?",
-      "author": "alulord",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-09T12:48:33.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vjp1p0/how_do_you_get_the_first_real_traffic_to_a_new/",
-      "external_url": "/r/startup/comments/1vjoxx1/how_do_you_get_the_first_real_traffic_to_a_new/",
-      "excerpt": ""
-    },
-    {
-      "title": "Ayjan Minutes v4.0.0 — local meeting transcription for Windows, now with three minutes formats",
-      "author": "Tranks98",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-09T14:21:23.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vjr4kr/ayjan_minutes_v400_local_meeting_transcription/",
-      "external_url": "/r/SideProject/comments/1vjr42c/ayjan_minutes_v400_local_meeting_transcription/",
-      "excerpt": ""
-    },
-    {
-      "title": "Best github lib for scraping reddit?",
-      "author": "stvaccount",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-09T12:44:59.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vjoz1j/best_github_lib_for_scraping_reddit/",
-      "external_url": null,
-      "excerpt": "Since May and the old reddit almost gone, what are currently the best libs on reddit? What is your favorite? I want to scrape all the posts of my top favorite 100 (small) subreddits and sort them by A…"
     }
   ]
 }
