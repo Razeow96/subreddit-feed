@@ -1,9 +1,99 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-08-11T07:36:49.965Z",
+  "fetched_at": "2026-08-12T07:52:16.135Z",
   "count": 10,
   "posts": [
+    {
+      "title": "How to match every new listing against your buy list",
+      "author": "One_Republic_8042",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-11T15:02:12.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vljxkk/how_to_match_every_new_listing_against_your_buy/",
+      "external_url": null,
+      "excerpt": "I been trying to find a better way to look new ebay listings against my buy list. I have specific part numbers and models I’m looking for, plus the prices I’m willing to pay. Going through every new l…"
+    },
+    {
+      "title": "Moli, A lite full-functionnality headless browser for web automation",
+      "author": "ldm0",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-12T04:43:27.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vm4asq/moli_a_lite_fullfunctionnality_headless_browser/",
+      "external_url": "https://github.com/lexmount/moli",
+      "excerpt": "Hi all. I worked at a cloud browser startup company. I was delighted to convince my boss to let me open‑source it and introduce it to you. Originally we used Chrome to serve our workloads; however, it…"
+    },
+    {
+      "title": "Cutting idle Postgres cost for bursty automation jobs",
+      "author": "pretzels90210",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-12T05:12:16.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vm4u4n/cutting_idle_postgres_cost_for_bursty_automation/",
+      "external_url": null,
+      "excerpt": "If your automation only touches its db in short bursts (a nightly job, a webhook firing a few times a day), an always-on Postgres is mostly paying to sit idle. Lakebase, the managed Postgres on Databr…"
+    },
+    {
+      "title": "Which workflow automation platform is easiest to grow with?",
+      "author": "don-kill-",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-11T19:03:30.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vlqp4z/which_workflow_automation_platform_is_easiest_to/",
+      "external_url": null,
+      "excerpt": "I'm trying to get better at building automated workflows, but there are a lot of platforms to sort through. Zapier, Make, n8n, Skan-ai, and a few others all seem to come up for different reasons. I'm…"
+    },
+    {
+      "title": "Looking to partner up with automation experts (we have a ton of leads backed with funding from gov)",
+      "author": "BidOdd4532",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-11T10:54:59.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vle5fx/looking_to_partner_up_with_automation_experts_we/",
+      "external_url": null,
+      "excerpt": "Hey, looking to partner up with the right experts and teams to fulfil projects for small businesses. So the usual stuffs like setting up an agent for them, automating manual procedures. Show me what y…"
+    },
+    {
+      "title": "Need a mentor",
+      "author": "Party_Initiative_621",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-11T15:32:36.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vlks7s/need_a_mentor/",
+      "external_url": null,
+      "excerpt": "Idk if it's ok to I really want a mentor who has his own clients, I would like to work for him even if he is paying me only 2-3k I am ready to do the job I just want to start somewhere to support my f…"
+    },
+    {
+      "title": "Dance baby, dance — I automated old curtains with Matter",
+      "author": "thingtootech",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-11T21:47:10.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vlv3jm/dance_baby_dance_i_automated_old_curtains_with/",
+      "external_url": "https://www.youtube.com/shorts/sBqLfatiRWQ",
+      "excerpt": "I retrofitted an old set of cord-operated curtains with a Matter motor and tested it with Home Assistant and Google Home. Naturally, the next step was making the curtains dance. 😂"
+    },
+    {
+      "title": "Thoughts after using AdsPower alongside GoLogin",
+      "author": "NewReview1894",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-11T11:22:35.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vleorx/thoughts_after_using_adspower_alongside_gologin/",
+      "external_url": null,
+      "excerpt": "As the number of accounts grows, the differences between anti-detect browsers become much easier to notice. I've used both GoLogin and AdsPower, and both handle browser profile isolation and fingerpri…"
+    },
+    {
+      "title": "Can copilot automate reporting?",
+      "author": "Low-Pea-785",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-11T10:03:46.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vld8ge/can_copilot_automate_reporting/",
+      "external_url": "/r/MarketingAutomation/comments/1vlcpct/can_copilot_automate_reporting/",
+      "excerpt": ""
+    },
     {
       "title": "I deleted my monitoring dashboard and my automations got more reliable",
       "author": "Grouchy-Conflict-211",
@@ -13,96 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1vl6skf/i_deleted_my_monitoring_dashboard_and_my/",
       "external_url": null,
       "excerpt": "I posted here about automating a 10 minute task a while back. A few people asked how I monitor my stuff. Truth is, for a while I had a full dashboard. Grafana, alerts, the whole thing. Then I noticed…"
-    },
-    {
-      "title": "How we stopped working for our agents: when software factory DOESN'T work",
-      "author": "sn1pr0s",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-11T06:25:54.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vl9ibv/how_we_stopped_working_for_our_agents_when/",
-      "external_url": "https://islo.dev/blog/how-we-stopped-working-for-our-agents/",
-      "excerpt": ""
-    },
-    {
-      "title": "Wiring natural-language-to-SQL into an agent workflow",
-      "author": "pretzels90210",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-10T19:25:36.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vkun5x/wiring_naturallanguagetosql_into_an_agent_workflow/",
-      "external_url": null,
-      "excerpt": "If your agent needs to answer questions over real tables mid-workflow, the Databricks Genie Conversation API is worth a look, you POST a plain-english question and poll back the generated SQL plus the…"
-    },
-    {
-      "title": "Has anyone automated a podcast summarizer workflow across Spotify, Apple Podcasts, and YouTube?",
-      "author": "ReedNira",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-10T10:29:44.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vkh33k/has_anyone_automated_a_podcast_summarizer/",
-      "external_url": null,
-      "excerpt": "I’m trying to automate how I process long-form audio and video. The goal is to send a Spotify, Apple Podcasts, or YouTube link into one workflow and get: - A transcript and structured summary - Key id…"
-    },
-    {
-      "title": "This is our Agent Run Dashboard",
-      "author": "Hopeful-Fly-5292",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-10T11:17:57.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vkhys1/this_is_our_agent_run_dashboard/",
-      "external_url": "https://i.redd.it/zokplawxwiih1.png",
-      "excerpt": ""
-    },
-    {
-      "title": "Anyone here actually make money doing AI automation for small businesses?",
-      "author": "Ancient-Restaurant11",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-09T22:28:48.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vk3aig/anyone_here_actually_make_money_doing_ai/",
-      "external_url": null,
-      "excerpt": "Hi! So I’m learning AI/business process automation with the goal of helping small service businesses automate things like lead follow-up, scheduling, CRM updates, reminders, and admin work. I work ful…"
-    },
-    {
-      "title": "What’s a non-AI task in your workflow that you refuse to automate?",
-      "author": "pm-me-your-pm-now",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-10T07:01:15.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vkdl1t/whats_a_nonai_task_in_your_workflow_that_you/",
-      "external_url": "/r/MarketingandAI/comments/1vkdkr5/whats_a_nonai_task_in_your_workflow_that_you/",
-      "excerpt": ""
-    },
-    {
-      "title": "How do I find clients for custom AI-powered dashboards and internal tools?",
-      "author": "tech_Dauwt",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-09T22:30:23.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vk3bwz/how_do_i_find_clients_for_custom_aipowered/",
-      "external_url": null,
-      "excerpt": "Hi, my name is Duarte. I've been freelancing on Fiverr for about two years, mainly doing 3D CAD modeling for 3D printing. Recently, I've become pretty tired of that area. It's getting harder to find g…"
-    },
-    {
-      "title": "Finally I was able to stop hand-coding data pipelines",
-      "author": "pretzels90210",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-10T00:02:17.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vk5dvp/finally_i_was_able_to_stop_handcoding_data/",
-      "external_url": null,
-      "excerpt": "In the Lakeflow Pipelines Editor, Genie Code agent mode can plan and generate a whole medallion pipeline from a plain-english prompt, ingestion through transforms, editing multiple files and showing y…"
-    },
-    {
-      "title": "Shipping receipts for budgeting",
-      "author": "1eight100empire",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-10T02:21:22.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vk8clx/shipping_receipts_for_budgeting/",
-      "external_url": null,
-      "excerpt": "This could work for any store that provides digital access to receipts, I bet. I'm thinking of my grocery store, Safeway. Whenever I use my phone number for fuel points, it tracks all of the items. I…"
     }
   ]
 }
