@@ -1,108 +1,108 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-08-12T07:52:16.135Z",
+  "fetched_at": "2026-08-13T07:52:48.939Z",
   "count": 10,
   "posts": [
     {
-      "title": "How to match every new listing against your buy list",
-      "author": "One_Republic_8042",
+      "title": "I built a free n8n workflow that turns Google Maps into a lead list",
+      "author": "Delicious-Start-4707",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-11T15:02:12.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vljxkk/how_to_match_every_new_listing_against_your_buy/",
-      "external_url": null,
-      "excerpt": "I been trying to find a better way to look new ebay listings against my buy list. I have specific part numbers and models I’m looking for, plus the prices I’m willing to pay. Going through every new l…"
+      "created_utc": "2026-08-13T01:20:21.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vmwqex/i_built_a_free_n8n_workflow_that_turns_google/",
+      "external_url": "https://www.reddit.com/gallery/1vmwqex",
+      "excerpt": "I got tired of manually searching Google Maps, copying businesses into a spreadsheet, finding their websites, then hunting for contact details. So I built a simple n8n workflow that does the whole thi…"
     },
     {
-      "title": "Moli, A lite full-functionnality headless browser for web automation",
-      "author": "ldm0",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-12T04:43:27.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vm4asq/moli_a_lite_fullfunctionnality_headless_browser/",
-      "external_url": "https://github.com/lexmount/moli",
-      "excerpt": "Hi all. I worked at a cloud browser startup company. I was delighted to convince my boss to let me open‑source it and introduce it to you. Originally we used Chrome to serve our workloads; however, it…"
-    },
-    {
-      "title": "Cutting idle Postgres cost for bursty automation jobs",
+      "title": "How do you test automations that write to a db without risking prod?",
       "author": "pretzels90210",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-12T05:12:16.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vm4u4n/cutting_idle_postgres_cost_for_bursty_automation/",
+      "created_utc": "2026-08-13T04:18:19.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vn0ezc/how_do_you_test_automations_that_write_to_a_db/",
       "external_url": null,
-      "excerpt": "If your automation only touches its db in short bursts (a nightly job, a webhook firing a few times a day), an always-on Postgres is mostly paying to sit idle. Lakebase, the managed Postgres on Databr…"
+      "excerpt": "I got burned by an automation that half-ran against prod and left a mess, so now i spin up a throwaway database branch per test run and toss it after. Neon makes that practical, its Postgres branching…"
     },
     {
-      "title": "Which workflow automation platform is easiest to grow with?",
-      "author": "don-kill-",
+      "title": "We built a CPU-first inference server — 4B chat+vision, ASR and TTS behind one OpenAI-compatible endpoint, free to run",
+      "author": "searchblox_searchai",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-11T19:03:30.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vlqp4z/which_workflow_automation_platform_is_easiest_to/",
-      "external_url": null,
-      "excerpt": "I'm trying to get better at building automated workflows, but there are a lot of platforms to sort through. Zapier, Make, n8n, Skan-ai, and a few others all seem to come up for different reasons. I'm…"
-    },
-    {
-      "title": "Looking to partner up with automation experts (we have a ton of leads backed with funding from gov)",
-      "author": "BidOdd4532",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-11T10:54:59.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vle5fx/looking_to_partner_up_with_automation_experts_we/",
-      "external_url": null,
-      "excerpt": "Hey, looking to partner up with the right experts and teams to fulfil projects for small businesses. So the usual stuffs like setting up an agent for them, automating manual procedures. Show me what y…"
-    },
-    {
-      "title": "Need a mentor",
-      "author": "Party_Initiative_621",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-11T15:32:36.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vlks7s/need_a_mentor/",
-      "external_url": null,
-      "excerpt": "Idk if it's ok to I really want a mentor who has his own clients, I would like to work for him even if he is paying me only 2-3k I am ready to do the job I just want to start somewhere to support my f…"
-    },
-    {
-      "title": "Dance baby, dance — I automated old curtains with Matter",
-      "author": "thingtootech",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-11T21:47:10.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vlv3jm/dance_baby_dance_i_automated_old_curtains_with/",
-      "external_url": "https://www.youtube.com/shorts/sBqLfatiRWQ",
-      "excerpt": "I retrofitted an old set of cord-operated curtains with a Matter motor and tested it with Home Assistant and Google Home. Naturally, the next step was making the curtains dance. 😂"
-    },
-    {
-      "title": "Thoughts after using AdsPower alongside GoLogin",
-      "author": "NewReview1894",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-11T11:22:35.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vleorx/thoughts_after_using_adspower_alongside_gologin/",
-      "external_url": null,
-      "excerpt": "As the number of accounts grows, the differences between anti-detect browsers become much easier to notice. I've used both GoLogin and AdsPower, and both handle browser profile isolation and fingerpri…"
-    },
-    {
-      "title": "Can copilot automate reporting?",
-      "author": "Low-Pea-785",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-11T10:03:46.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vld8ge/can_copilot_automate_reporting/",
-      "external_url": "/r/MarketingAutomation/comments/1vlcpct/can_copilot_automate_reporting/",
+      "created_utc": "2026-08-12T23:55:46.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vmusfu/we_built_a_cpufirst_inference_server_4b/",
+      "external_url": "/r/LLM/comments/1vmth1w/we_built_a_cpufirst_inference_server_4b/",
       "excerpt": ""
     },
     {
-      "title": "I deleted my monitoring dashboard and my automations got more reliable",
-      "author": "Grouchy-Conflict-211",
+      "title": "Automated my entire morning routine and now I don't trust it",
+      "author": "Past-Ad2067",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-11T03:59:31.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vl6skf/i_deleted_my_monitoring_dashboard_and_my/",
+      "created_utc": "2026-08-12T09:53:21.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vm9o3u/automated_my_entire_morning_routine_and_now_i/",
       "external_url": null,
-      "excerpt": "I posted here about automating a 10 minute task a while back. A few people asked how I monitor my stuff. Truth is, for a while I had a full dashboard. Grafana, alerts, the whole thing. Then I noticed…"
+      "excerpt": "spent the weekend setting up automations — smart lights on a sunrise schedule, coffee maker triggered by my alarm, a script that pulls my calendar and weather into one text I get at 6am. It works. It'…"
+    },
+    {
+      "title": "There is a part of the LinkedIn outreach you should never automate, and this goes for every automated outreach",
+      "author": "cosankov",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-12T15:51:45.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vmhziq/there_is_a_part_of_the_linkedin_outreach_you/",
+      "external_url": null,
+      "excerpt": "Automation earns its keep at the top of the funnel - finding the right people, sending the connection requests, running the first couple of follow-ups so you're not doing that by hand at 200+ a week.…"
+    },
+    {
+      "title": "Why do people overengineer systems?",
+      "author": "ChupHojaYash",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-12T12:31:58.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vmctjf/why_do_people_overengineer_systems/",
+      "external_url": "https://i.redd.it/u7z3iwufuxih1.png",
+      "excerpt": "Everyday I see someone running 100+ 24/7 AI agents and I genuinely don't understand how can 1 person ever handle so much maintenance. Literally every month, a faster, cheaper and better AI model launc…"
+    },
+    {
+      "title": "What are the best AI marketing automation tools recommended for businesses?",
+      "author": "craniacfroaking",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-12T08:36:27.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vm8d0v/what_are_the_best_ai_marketing_automation_tools/",
+      "external_url": null,
+      "excerpt": "Hi all- we are a regional business with about 50 employees but our marketing team has been always pretty lean. I currently lead the marketing for us and I was curious what are some great marketing too…"
+    },
+    {
+      "title": "Free tools or paid services for scraping: where do you land and why?",
+      "author": "KlutzyKlutz",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-12T11:43:54.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vmbrtz/free_tools_or_paid_services_for_scraping_where_do/",
+      "external_url": null,
+      "excerpt": "With free tools I have more control and I pay nothing, but I spend a lot of time on setup and fixing things when a site changes. With paid services most of that headache is handled for me, though the…"
+    },
+    {
+      "title": "Looking for AI automation expert to create screen recording tutorial videos ($500/mo)",
+      "author": "daviswbaer",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-12T15:58:35.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vmi647/looking_for_ai_automation_expert_to_create_screen/",
+      "external_url": "/r/AiAutomations/comments/1vmhx5m/looking_for_ai_automation_expert_to_create_screen/",
+      "excerpt": ""
+    },
+    {
+      "title": "Whatsapp to Excel",
+      "author": "leo3909",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-12T07:52:45.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vm7n3s/whatsapp_to_excel/",
+      "external_url": null,
+      "excerpt": "Has anyone found a way to extract unstructured offers/quotes from WhatsApp chats into Excel or another structured database? The idea is to use it for quote comparison. Has anyone built something simil…"
     }
   ]
 }
