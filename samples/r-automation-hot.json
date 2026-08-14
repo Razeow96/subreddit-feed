@@ -1,18 +1,68 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-08-13T07:52:48.939Z",
+  "fetched_at": "2026-08-14T07:49:53.558Z",
   "count": 10,
   "posts": [
     {
-      "title": "I built a free n8n workflow that turns Google Maps into a lead list",
-      "author": "Delicious-Start-4707",
+      "title": "Just one quick question: how do people in this field compete with freelancers from India and Pakistan who charge so little for their services?",
+      "author": "DayBeautiful2205",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-13T01:20:21.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vmwqex/i_built_a_free_n8n_workflow_that_turns_google/",
-      "external_url": "https://www.reddit.com/gallery/1vmwqex",
-      "excerpt": "I got tired of manually searching Google Maps, copying businesses into a spreadsheet, finding their websites, then hunting for contact details. So I built a simple n8n workflow that does the whole thi…"
+      "created_utc": "2026-08-13T23:54:21.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vnrfld/just_one_quick_question_how_do_people_in_this/",
+      "external_url": null,
+      "excerpt": ""
+    },
+    {
+      "title": "Need help with n8n workflow",
+      "author": "Perigrineafloat",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-13T18:43:42.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vnjgbq/need_help_with_n8n_workflow/",
+      "external_url": null,
+      "excerpt": "I built a workflow to output videos, but instead I am getting text script as an output despite trying many times."
+    },
+    {
+      "title": "Best AI transcription software for my use case? Currently using TurboScribe",
+      "author": "OlegRu",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-13T16:51:30.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vng9tv/best_ai_transcription_software_for_my_use_case/",
+      "external_url": null,
+      "excerpt": "Types of audio: I often audio-record on my iphone: - Important conversations - Medical appointments (in-person and online) - Dungeons and Dragons and other in-person TTRPG games I also transcribe a bu…"
+    },
+    {
+      "title": "Learning an industry's deep processes from scratch before offering automation",
+      "author": "DayBeautiful2205",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-13T12:49:04.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vn9sm2/learning_an_industrys_deep_processes_from_scratch/",
+      "external_url": null,
+      "excerpt": "Hey guys, Almost every post here says the best advice for an automation business is to target an industry you already know inside out. That makes total sense. But what about those of us starting as co…"
+    },
+    {
+      "title": "AI Agents that can truly work across different platforms with minimum settings required",
+      "author": "ZeinithKakashi",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-13T07:57:27.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vn4ci5/ai_agents_that_can_truly_work_across_different/",
+      "external_url": null,
+      "excerpt": "As a non-tech person, the thing i actually care about is what environment it can reach, and whether i need to wire up an API first. browser only: comet, atlas, browser-use. They are really good at res…"
+    },
+    {
+      "title": "You're Not Ready to Compete with Self Disruptive Companies",
+      "author": "julienreszka",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-13T16:05:26.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vnez55/youre_not_ready_to_compete_with_self_disruptive/",
+      "external_url": "https://julienreszka.com/blog/you-re-not-ready-to-compete-with-self-disruptive-companies/",
+      "excerpt": ""
     },
     {
       "title": "How do you test automations that write to a db without risking prod?",
@@ -25,16 +75,6 @@
       "excerpt": "I got burned by an automation that half-ran against prod and left a mess, so now i spin up a throwaway database branch per test run and toss it after. Neon makes that practical, its Postgres branching…"
     },
     {
-      "title": "We built a CPU-first inference server — 4B chat+vision, ASR and TTS behind one OpenAI-compatible endpoint, free to run",
-      "author": "searchblox_searchai",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-12T23:55:46.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vmusfu/we_built_a_cpufirst_inference_server_4b/",
-      "external_url": "/r/LLM/comments/1vmth1w/we_built_a_cpufirst_inference_server_4b/",
-      "excerpt": ""
-    },
-    {
       "title": "Automated my entire morning routine and now I don't trust it",
       "author": "Past-Ad2067",
       "score": null,
@@ -45,6 +85,16 @@
       "excerpt": "spent the weekend setting up automations — smart lights on a sunrise schedule, coffee maker triggered by my alarm, a script that pulls my calendar and weather into one text I get at 6am. It works. It'…"
     },
     {
+      "title": "We built a CPU-first inference server — 4B chat+vision, ASR and TTS behind one OpenAI-compatible endpoint, free to run",
+      "author": "searchblox_searchai",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-12T23:55:46.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vmusfu/we_built_a_cpufirst_inference_server_4b/",
+      "external_url": "/r/LLM/comments/1vmth1w/we_built_a_cpufirst_inference_server_4b/",
+      "excerpt": ""
+    },
+    {
       "title": "There is a part of the LinkedIn outreach you should never automate, and this goes for every automated outreach",
       "author": "cosankov",
       "score": null,
@@ -53,56 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1vmhziq/there_is_a_part_of_the_linkedin_outreach_you/",
       "external_url": null,
       "excerpt": "Automation earns its keep at the top of the funnel - finding the right people, sending the connection requests, running the first couple of follow-ups so you're not doing that by hand at 200+ a week.…"
-    },
-    {
-      "title": "Why do people overengineer systems?",
-      "author": "ChupHojaYash",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-12T12:31:58.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vmctjf/why_do_people_overengineer_systems/",
-      "external_url": "https://i.redd.it/u7z3iwufuxih1.png",
-      "excerpt": "Everyday I see someone running 100+ 24/7 AI agents and I genuinely don't understand how can 1 person ever handle so much maintenance. Literally every month, a faster, cheaper and better AI model launc…"
-    },
-    {
-      "title": "What are the best AI marketing automation tools recommended for businesses?",
-      "author": "craniacfroaking",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-12T08:36:27.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vm8d0v/what_are_the_best_ai_marketing_automation_tools/",
-      "external_url": null,
-      "excerpt": "Hi all- we are a regional business with about 50 employees but our marketing team has been always pretty lean. I currently lead the marketing for us and I was curious what are some great marketing too…"
-    },
-    {
-      "title": "Free tools or paid services for scraping: where do you land and why?",
-      "author": "KlutzyKlutz",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-12T11:43:54.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vmbrtz/free_tools_or_paid_services_for_scraping_where_do/",
-      "external_url": null,
-      "excerpt": "With free tools I have more control and I pay nothing, but I spend a lot of time on setup and fixing things when a site changes. With paid services most of that headache is handled for me, though the…"
-    },
-    {
-      "title": "Looking for AI automation expert to create screen recording tutorial videos ($500/mo)",
-      "author": "daviswbaer",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-12T15:58:35.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vmi647/looking_for_ai_automation_expert_to_create_screen/",
-      "external_url": "/r/AiAutomations/comments/1vmhx5m/looking_for_ai_automation_expert_to_create_screen/",
-      "excerpt": ""
-    },
-    {
-      "title": "Whatsapp to Excel",
-      "author": "leo3909",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-12T07:52:45.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vm7n3s/whatsapp_to_excel/",
-      "external_url": null,
-      "excerpt": "Has anyone found a way to extract unstructured offers/quotes from WhatsApp chats into Excel or another structured database? The idea is to use it for quote comparison. Has anyone built something simil…"
     }
   ]
 }
