@@ -1,9 +1,59 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-08-14T07:49:53.558Z",
+  "fetched_at": "2026-08-15T06:56:59.805Z",
   "count": 10,
   "posts": [
+    {
+      "title": "I tried the “AI native business” idea for company setup",
+      "author": "Pretend-Club4637",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-14T18:29:26.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vofd0x/i_tried_the_ai_native_business_idea_for_company/",
+      "external_url": "https://x.com/alextalksai/status/2086042868875989462",
+      "excerpt": "Saw this X post about running a business through AI agents and tried a smaller version for company setup inside Claude My flow was: Explain the business idea Pick the company structure Gather the info…"
+    },
+    {
+      "title": "Automations to build my portfolio (as a student)",
+      "author": "Pickacks",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-15T04:17:59.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vosywj/automations_to_build_my_portfolio_as_a_student/",
+      "external_url": null,
+      "excerpt": "Hi everyone! Im a 16 year old starting automation, and I'm looking to do more increase my portfolio. Since last year, I have been working with n8n to build automations for me and my family. However, I…"
+    },
+    {
+      "title": "What's the most time-consuming manual document task you've automated?",
+      "author": "HASAutomates",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-14T11:53:02.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vo54mi/whats_the_most_timeconsuming_manual_document_task/",
+      "external_url": null,
+      "excerpt": "I've been building extraction workflows for document-heavy processes (leases, insurance policies, medical billing docs) and I'm curious what others have tackled. The pattern I keep running into is ext…"
+    },
+    {
+      "title": "webarm24.online - Reworked the pipelines sidebar",
+      "author": "Radiant_Panda1679",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-14T21:56:15.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1voksrb/webarm24online_reworked_the_pipelines_sidebar/",
+      "external_url": "https://youtube.com/watch?v=7qmXSJWEz4s&si=X1VeUukrZ0DBm5lQ",
+      "excerpt": ""
+    },
+    {
+      "title": "What actually moved NL-to-SQL accuracy for my metrics bot",
+      "author": "pretzels90210",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-14T23:43:36.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1von9tx/what_actually_moved_nltosql_accuracy_for_my/",
+      "external_url": null,
+      "excerpt": "I wired up a daily metrics bot and the thing that actually moved accuracy wasnt the model, it was curating the Databricks Genie Space. I added a few certified example SQL queries and plain-language in…"
+    },
     {
       "title": "Just one quick question: how do people in this field compete with freelancers from India and Pakistan who charge so little for their services?",
       "author": "DayBeautiful2205",
@@ -53,56 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1vn4ci5/ai_agents_that_can_truly_work_across_different/",
       "external_url": null,
       "excerpt": "As a non-tech person, the thing i actually care about is what environment it can reach, and whether i need to wire up an API first. browser only: comet, atlas, browser-use. They are really good at res…"
-    },
-    {
-      "title": "You're Not Ready to Compete with Self Disruptive Companies",
-      "author": "julienreszka",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-13T16:05:26.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vnez55/youre_not_ready_to_compete_with_self_disruptive/",
-      "external_url": "https://julienreszka.com/blog/you-re-not-ready-to-compete-with-self-disruptive-companies/",
-      "excerpt": ""
-    },
-    {
-      "title": "How do you test automations that write to a db without risking prod?",
-      "author": "pretzels90210",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-13T04:18:19.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vn0ezc/how_do_you_test_automations_that_write_to_a_db/",
-      "external_url": null,
-      "excerpt": "I got burned by an automation that half-ran against prod and left a mess, so now i spin up a throwaway database branch per test run and toss it after. Neon makes that practical, its Postgres branching…"
-    },
-    {
-      "title": "Automated my entire morning routine and now I don't trust it",
-      "author": "Past-Ad2067",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-12T09:53:21.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vm9o3u/automated_my_entire_morning_routine_and_now_i/",
-      "external_url": null,
-      "excerpt": "spent the weekend setting up automations — smart lights on a sunrise schedule, coffee maker triggered by my alarm, a script that pulls my calendar and weather into one text I get at 6am. It works. It'…"
-    },
-    {
-      "title": "We built a CPU-first inference server — 4B chat+vision, ASR and TTS behind one OpenAI-compatible endpoint, free to run",
-      "author": "searchblox_searchai",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-12T23:55:46.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vmusfu/we_built_a_cpufirst_inference_server_4b/",
-      "external_url": "/r/LLM/comments/1vmth1w/we_built_a_cpufirst_inference_server_4b/",
-      "excerpt": ""
-    },
-    {
-      "title": "There is a part of the LinkedIn outreach you should never automate, and this goes for every automated outreach",
-      "author": "cosankov",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-12T15:51:45.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vmhziq/there_is_a_part_of_the_linkedin_outreach_you/",
-      "external_url": null,
-      "excerpt": "Automation earns its keep at the top of the funnel - finding the right people, sending the connection requests, running the first couple of follow-ups so you're not doing that by hand at 200+ a week.…"
     }
   ]
 }
