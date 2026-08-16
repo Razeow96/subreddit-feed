@@ -1,18 +1,48 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-08-15T06:56:59.805Z",
+  "fetched_at": "2026-08-16T06:58:42.646Z",
   "count": 10,
   "posts": [
     {
-      "title": "I tried the “AI native business” idea for company setup",
-      "author": "Pretend-Club4637",
+      "title": "How automated my IT job has gotten (kinda freaks me out sometimes)",
+      "author": "Healthy_Outcome7897",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-14T18:29:26.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vofd0x/i_tried_the_ai_native_business_idea_for_company/",
-      "external_url": "https://x.com/alextalksai/status/2086042868875989462",
-      "excerpt": "Saw this X post about running a business through AI agents and tried a smaller version for company setup inside Claude My flow was: Explain the business idea Pick the company structure Gather the info…"
+      "created_utc": "2026-08-15T11:05:12.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vozzvp/how_automated_my_it_job_has_gotten_kinda_freaks/",
+      "external_url": null,
+      "excerpt": "Been chipping away at this for a while and looking back it's a lot more than I realized. I work in IT. At this point AI handles logging into our internal systems and doing stuff on its own — no me cli…"
+    },
+    {
+      "title": "Example of a real working loop orchestrator",
+      "author": "croovies",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-16T01:53:51.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vpkcet/example_of_a_real_working_loop_orchestrator/",
+      "external_url": "https://i.redd.it/bj5iz1gvk7jh1.png",
+      "excerpt": ""
+    },
+    {
+      "title": "Automation-In corporates",
+      "author": "Artistic-Ant-8055",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-15T20:12:47.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vpcv49/automationin_corporates/",
+      "external_url": null,
+      "excerpt": "Recently automation and AI tools like ChatGPT and Copliot are getting-in in our organization (TAX and FINANCE based) And employees are encouraged to learn those. And sessions are being held for the sa…"
+    },
+    {
+      "title": "Using NL-to-code to author the repetitive pipeline glue",
+      "author": "pretzels90210",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-15T17:16:32.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vp8fhi/using_nltocode_to_author_the_repetitive_pipeline/",
+      "external_url": null,
+      "excerpt": "When a new data source shows up I used to hand-write the whole ingest+transform each time. Genie Code (coding assistant) can author that pipeline from a plain-english spec and make agentic edits acros…"
     },
     {
       "title": "Automations to build my portfolio (as a student)",
@@ -23,6 +53,26 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1vosywj/automations_to_build_my_portfolio_as_a_student/",
       "external_url": null,
       "excerpt": "Hi everyone! Im a 16 year old starting automation, and I'm looking to do more increase my portfolio. Since last year, I have been working with n8n to build automations for me and my family. However, I…"
+    },
+    {
+      "title": "Here’s how I make $1,279 MRR from my vibe coded LinkedIn automation tool",
+      "author": "Downtown_Pudding9728",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-15T19:48:36.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vpc9c5/heres_how_i_make_1279_mrr_from_my_vibe_coded/",
+      "external_url": "https://i.redd.it/4e2nz3o3fljh1.jpeg",
+      "excerpt": "Ok so, I can’t retire just yet 😅 but getting a business off the ground and attracting customers is the hardest part in my opinion. There’s still a long way to go but considering it’s only been 4 mont…"
+    },
+    {
+      "title": "I tried the “AI native business” idea for company setup",
+      "author": "Pretend-Club4637",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-14T18:29:26.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vofd0x/i_tried_the_ai_native_business_idea_for_company/",
+      "external_url": "https://x.com/alextalksai/status/2086042868875989462",
+      "excerpt": "Saw this X post about running a business through AI agents and tried a smaller version for company setup inside Claude My flow was: Explain the business idea Pick the company structure Gather the info…"
     },
     {
       "title": "What's the most time-consuming manual document task you've automated?",
@@ -45,16 +95,6 @@
       "excerpt": ""
     },
     {
-      "title": "What actually moved NL-to-SQL accuracy for my metrics bot",
-      "author": "pretzels90210",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-14T23:43:36.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1von9tx/what_actually_moved_nltosql_accuracy_for_my/",
-      "external_url": null,
-      "excerpt": "I wired up a daily metrics bot and the thing that actually moved accuracy wasnt the model, it was curating the Databricks Genie Space. I added a few certified example SQL queries and plain-language in…"
-    },
-    {
       "title": "Just one quick question: how do people in this field compete with freelancers from India and Pakistan who charge so little for their services?",
       "author": "DayBeautiful2205",
       "score": null,
@@ -63,46 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1vnrfld/just_one_quick_question_how_do_people_in_this/",
       "external_url": null,
       "excerpt": ""
-    },
-    {
-      "title": "Need help with n8n workflow",
-      "author": "Perigrineafloat",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-13T18:43:42.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vnjgbq/need_help_with_n8n_workflow/",
-      "external_url": null,
-      "excerpt": "I built a workflow to output videos, but instead I am getting text script as an output despite trying many times."
-    },
-    {
-      "title": "Best AI transcription software for my use case? Currently using TurboScribe",
-      "author": "OlegRu",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-13T16:51:30.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vng9tv/best_ai_transcription_software_for_my_use_case/",
-      "external_url": null,
-      "excerpt": "Types of audio: I often audio-record on my iphone: - Important conversations - Medical appointments (in-person and online) - Dungeons and Dragons and other in-person TTRPG games I also transcribe a bu…"
-    },
-    {
-      "title": "Learning an industry's deep processes from scratch before offering automation",
-      "author": "DayBeautiful2205",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-13T12:49:04.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vn9sm2/learning_an_industrys_deep_processes_from_scratch/",
-      "external_url": null,
-      "excerpt": "Hey guys, Almost every post here says the best advice for an automation business is to target an industry you already know inside out. That makes total sense. But what about those of us starting as co…"
-    },
-    {
-      "title": "AI Agents that can truly work across different platforms with minimum settings required",
-      "author": "ZeinithKakashi",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-13T07:57:27.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vn4ci5/ai_agents_that_can_truly_work_across_different/",
-      "external_url": null,
-      "excerpt": "As a non-tech person, the thing i actually care about is what environment it can reach, and whether i need to wire up an API first. browser only: comet, atlas, browser-use. They are really good at res…"
     }
   ]
 }
