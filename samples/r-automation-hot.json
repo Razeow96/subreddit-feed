@@ -1,9 +1,59 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-08-16T06:58:42.646Z",
+  "fetched_at": "2026-08-17T07:15:56.828Z",
   "count": 10,
   "posts": [
+    {
+      "title": "Feeling stuck, trying but going nowhere.",
+      "author": "DustFuzzy1702",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-16T13:25:43.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vpx0nd/feeling_stuck_trying_but_going_nowhere/",
+      "external_url": null,
+      "excerpt": "So I can make business automations, a few real world solving automations and solutions, not just automations, but using crm, and entire solutions along with automation. But this is useless unless I ge…"
+    },
+    {
+      "title": "Letting an agent answer data questions without stuffing the schema into every prompt",
+      "author": "pretzels90210",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-16T15:24:20.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vpzvmm/letting_an_agent_answer_data_questions_without/",
+      "external_url": null,
+      "excerpt": "If your agent needs to answer data questions, the Databricks Genie Conversation API lets you POST a plain-english question over REST and get back the generated SQL plus results, with thread context. T…"
+    },
+    {
+      "title": "Photo renaming",
+      "author": "SuspiciousHair4621",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-16T18:59:30.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vq5foe/photo_renaming/",
+      "external_url": null,
+      "excerpt": "I have a few thousands of photos from our previous trips. That I wanna rename. I wanna have them set by: date (that part is easy), then facial recognition of me and /or my gf, where we are, city, coun…"
+    },
+    {
+      "title": "Youtube Comment Automation (how small YouTubers can make money)",
+      "author": "ApprehensiveCable641",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-16T22:31:01.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vqaocs/youtube_comment_automation_how_small_youtubers/",
+      "external_url": null,
+      "excerpt": "I run a YouTube channel in the tech space, and we wanted to automate top of funnel lead capture to build an email list and sell digital products (ebooks, courses, guides). The Problem: On Instagram, a…"
+    },
+    {
+      "title": "Need HELP!!!",
+      "author": "Curiosity9147",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-16T07:53:00.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vpqzv7/need_help/",
+      "external_url": "/r/n8n/comments/1vpqzfg/need_help/",
+      "excerpt": ""
+    },
     {
       "title": "How automated my IT job has gotten (kinda freaks me out sometimes)",
       "author": "Healthy_Outcome7897",
@@ -35,16 +85,6 @@
       "excerpt": "Recently automation and AI tools like ChatGPT and Copliot are getting-in in our organization (TAX and FINANCE based) And employees are encouraged to learn those. And sessions are being held for the sa…"
     },
     {
-      "title": "Using NL-to-code to author the repetitive pipeline glue",
-      "author": "pretzels90210",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-15T17:16:32.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vp8fhi/using_nltocode_to_author_the_repetitive_pipeline/",
-      "external_url": null,
-      "excerpt": "When a new data source shows up I used to hand-write the whole ingest+transform each time. Genie Code (coding assistant) can author that pipeline from a plain-english spec and make agentic edits acros…"
-    },
-    {
       "title": "Automations to build my portfolio (as a student)",
       "author": "Pickacks",
       "score": null,
@@ -63,46 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1vpc9c5/heres_how_i_make_1279_mrr_from_my_vibe_coded/",
       "external_url": "https://i.redd.it/4e2nz3o3fljh1.jpeg",
       "excerpt": "Ok so, I can’t retire just yet 😅 but getting a business off the ground and attracting customers is the hardest part in my opinion. There’s still a long way to go but considering it’s only been 4 mont…"
-    },
-    {
-      "title": "I tried the “AI native business” idea for company setup",
-      "author": "Pretend-Club4637",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-14T18:29:26.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vofd0x/i_tried_the_ai_native_business_idea_for_company/",
-      "external_url": "https://x.com/alextalksai/status/2086042868875989462",
-      "excerpt": "Saw this X post about running a business through AI agents and tried a smaller version for company setup inside Claude My flow was: Explain the business idea Pick the company structure Gather the info…"
-    },
-    {
-      "title": "What's the most time-consuming manual document task you've automated?",
-      "author": "HASAutomates",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-14T11:53:02.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vo54mi/whats_the_most_timeconsuming_manual_document_task/",
-      "external_url": null,
-      "excerpt": "I've been building extraction workflows for document-heavy processes (leases, insurance policies, medical billing docs) and I'm curious what others have tackled. The pattern I keep running into is ext…"
-    },
-    {
-      "title": "webarm24.online - Reworked the pipelines sidebar",
-      "author": "Radiant_Panda1679",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-14T21:56:15.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1voksrb/webarm24online_reworked_the_pipelines_sidebar/",
-      "external_url": "https://youtube.com/watch?v=7qmXSJWEz4s&si=X1VeUukrZ0DBm5lQ",
-      "excerpt": ""
-    },
-    {
-      "title": "Just one quick question: how do people in this field compete with freelancers from India and Pakistan who charge so little for their services?",
-      "author": "DayBeautiful2205",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-13T23:54:21.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vnrfld/just_one_quick_question_how_do_people_in_this/",
-      "external_url": null,
-      "excerpt": ""
     }
   ]
 }
