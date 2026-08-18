@@ -1,108 +1,108 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-08-17T07:15:56.828Z",
+  "fetched_at": "2026-08-18T07:04:18.627Z",
   "count": 10,
   "posts": [
     {
-      "title": "Feeling stuck, trying but going nowhere.",
-      "author": "DustFuzzy1702",
+      "title": "What is the most impressive automation you have come across this year?",
+      "author": "No-Marionberry8257",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-16T13:25:43.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vpx0nd/feeling_stuck_trying_but_going_nowhere/",
+      "created_utc": "2026-08-17T11:21:52.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vqpjag/what_is_the_most_impressive_automation_you_have/",
       "external_url": null,
-      "excerpt": "So I can make business automations, a few real world solving automations and solutions, not just automations, but using crm, and entire solutions along with automation. But this is useless unless I ge…"
+      "excerpt": "For example, I just saw that my friend has setup an automation that after every client meeting, Zooms AI Summary, is auto routed to Gamma. Gamma then generates the final PPT for him and client on what…"
     },
     {
-      "title": "Letting an agent answer data questions without stuffing the schema into every prompt",
+      "title": "Looking for someone good at sales to partner up on AI automation work",
+      "author": "Thunderbird435",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-18T02:48:33.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vrcxh8/looking_for_someone_good_at_sales_to_partner_up/",
+      "external_url": null,
+      "excerpt": "I build AI automations for small businesses, things like chatbots, follow up systems, scraping data, cleaning up workflows, whatever is eating up their time or costing them money. I'm solid on the tec…"
+    },
+    {
+      "title": "Is the solution for senior contract developers to start an agency?",
+      "author": "Fine-Market9841",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-17T15:30:21.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vqvld2/is_the_solution_for_senior_contract_developers_to/",
+      "external_url": null,
+      "excerpt": "Hi, I am a newbie exploring automation (like n8n, Make, Zapier) as a potential side hustle. So my question is for automation agency owners. I want to start as a freelancer, then one day build up to an…"
+    },
+    {
+      "title": "Wiring database branching into preview-deploy automation",
       "author": "pretzels90210",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-16T15:24:20.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vpzvmm/letting_an_agent_answer_data_questions_without/",
+      "created_utc": "2026-08-18T00:18:21.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vr9lnl/wiring_database_branching_into_previewdeploy/",
       "external_url": null,
-      "excerpt": "If your agent needs to answer data questions, the Databricks Genie Conversation API lets you POST a plain-english question over REST and get back the generated SQL plus results, with thread context. T…"
+      "excerpt": "How have people been wiring database branching into their preview-deploy automation? I've been putting per-preview databases into CI and Neon's been handy for it, the Vercel integration spins up an is…"
     },
     {
-      "title": "Photo renaming",
-      "author": "SuspiciousHair4621",
+      "title": "How we chained multiple LLMs to cut complex task errors by 45%",
+      "author": "Ok_pettech",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-16T18:59:30.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vq5foe/photo_renaming/",
-      "external_url": null,
-      "excerpt": "I have a few thousands of photos from our previous trips. That I wanna rename. I wanna have them set by: date (that part is easy), then facial recognition of me and /or my gf, where we are, city, coun…"
-    },
-    {
-      "title": "Youtube Comment Automation (how small YouTubers can make money)",
-      "author": "ApprehensiveCable641",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-16T22:31:01.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vqaocs/youtube_comment_automation_how_small_youtubers/",
-      "external_url": null,
-      "excerpt": "I run a YouTube channel in the tech space, and we wanted to automate top of funnel lead capture to build an email list and sell digital products (ebooks, courses, guides). The Problem: On Instagram, a…"
-    },
-    {
-      "title": "Need HELP!!!",
-      "author": "Curiosity9147",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-16T07:53:00.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vpqzv7/need_help/",
-      "external_url": "/r/n8n/comments/1vpqzfg/need_help/",
+      "created_utc": "2026-08-17T23:35:17.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vr8lu0/how_we_chained_multiple_llms_to_cut_complex_task/",
+      "external_url": "/r/theXeffect/comments/1vr8i8m/how_we_chained_multiple_llms_to_cut_complex_task/",
       "excerpt": ""
     },
     {
-      "title": "How automated my IT job has gotten (kinda freaks me out sometimes)",
-      "author": "Healthy_Outcome7897",
+      "title": "How to bypass google chrome captchas",
+      "author": "wannabeepsycho",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-15T11:05:12.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vozzvp/how_automated_my_it_job_has_gotten_kinda_freaks/",
+      "created_utc": "2026-08-17T23:11:55.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vr81wk/how_to_bypass_google_chrome_captchas/",
       "external_url": null,
-      "excerpt": "Been chipping away at this for a while and looking back it's a lot more than I realized. I work in IT. At this point AI handles logging into our internal systems and doing stuff on its own — no me cli…"
+      "excerpt": "Hey guys. Hope you all are doing greatt. Im stuck on my chrome automation project. I hope someone can help me w this. How can i deal with google captchas without being signed in?"
     },
     {
-      "title": "Example of a real working loop orchestrator",
-      "author": "croovies",
+      "title": "A simple browser automation/plugin to post on Substack?",
+      "author": "jonbristow",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-16T01:53:51.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vpkcet/example_of_a_real_working_loop_orchestrator/",
-      "external_url": "https://i.redd.it/bj5iz1gvk7jh1.png",
-      "excerpt": ""
-    },
-    {
-      "title": "Automation-In corporates",
-      "author": "Artistic-Ant-8055",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-15T20:12:47.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vpcv49/automationin_corporates/",
+      "created_utc": "2026-08-17T10:30:22.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vqojp9/a_simple_browser_automationplugin_to_post_on/",
       "external_url": null,
-      "excerpt": "Recently automation and AI tools like ChatGPT and Copliot are getting-in in our organization (TAX and FINANCE based) And employees are encouraged to learn those. And sessions are being held for the sa…"
+      "excerpt": "Substack doesnt have an API. I have done an automation to post articles on my website. Last step is to post a Note on Substack. A note is like a tweet. I want the automation to just open New Note, pas…"
     },
     {
-      "title": "Automations to build my portfolio (as a student)",
-      "author": "Pickacks",
+      "title": "My Monday report still depends on remembering last Monday’s prompt.",
+      "author": "That-Economist-2756",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-15T04:17:59.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vosywj/automations_to_build_my_portfolio_as_a_student/",
+      "created_utc": "2026-08-17T17:27:53.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vqyrg3/my_monday_report_still_depends_on_remembering/",
       "external_url": null,
-      "excerpt": "Hi everyone! Im a 16 year old starting automation, and I'm looking to do more increase my portfolio. Since last year, I have been working with n8n to build automations for me and my family. However, I…"
+      "excerpt": "Next Monday is where this reporting setup gets awkward. The current version can take a couple of marketplace exports and produce a comparison. It works once the date range and calculation rules have b…"
     },
     {
-      "title": "Here’s how I make $1,279 MRR from my vibe coded LinkedIn automation tool",
-      "author": "Downtown_Pudding9728",
+      "title": "I thought getting #1 on Product Hunt would feel different.",
+      "author": "Akarsh_Hegde",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-15T19:48:36.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vpc9c5/heres_how_i_make_1279_mrr_from_my_vibe_coded/",
-      "external_url": "https://i.redd.it/4e2nz3o3fljh1.jpeg",
-      "excerpt": "Ok so, I can’t retire just yet 😅 but getting a business off the ground and attracting customers is the hardest part in my opinion. There’s still a long way to go but considering it’s only been 4 mont…"
+      "created_utc": "2026-08-17T18:27:33.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vr0hg0/i_thought_getting_1_on_product_hunt_would_feel/",
+      "external_url": "https://i.redd.it/ibyo4ua5azjh1.png",
+      "excerpt": "We launched Meridian today and finished as the #1 Product of the Day. I spent the first few hours constantly refreshing Product Hunt, but the ranking quickly became less interesting than seeing strang…"
+    },
+    {
+      "title": "Getting consistent branding when automating Word document creation",
+      "author": "Tessalarius",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-17T10:16:47.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vqoara/getting_consistent_branding_when_automating_word/",
+      "external_url": null,
+      "excerpt": "Hi guys, I've been experimenting with automating the creation of consistently branded Microsoft Word documents, where the model needs to follow an existing template and populate it with additional con…"
     }
   ]
 }
