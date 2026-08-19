@@ -1,18 +1,58 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-08-18T07:04:18.627Z",
+  "fetched_at": "2026-08-19T07:04:46.836Z",
   "count": 10,
   "posts": [
     {
-      "title": "What is the most impressive automation you have come across this year?",
-      "author": "No-Marionberry8257",
+      "title": "I built a cloud automation for making short tutorial videos with real screenshots and clips... but I have a problem",
+      "author": "ollatv",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-17T11:21:52.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vqpjag/what_is_the_most_impressive_automation_you_have/",
+      "created_utc": "2026-08-19T03:53:05.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vsbfyn/i_built_a_cloud_automation_for_making_short/",
       "external_url": null,
-      "excerpt": "For example, I just saw that my friend has setup an automation that after every client meeting, Zooms AI Summary, is auto routed to Gamma. Gamma then generates the final PPT for him and client on what…"
+      "excerpt": "I am trying to build a cloud automation for making short tutorial videos... mainly with real screenshots, real screen recordings. Not those generic AI generated clips. The main problem I was trying to…"
+    },
+    {
+      "title": "Do I need an antidetect browser for managing multiple ad accounts, or mobile proxies enough?",
+      "author": "Happy_Nebula9406",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-19T03:29:07.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vsaymf/do_i_need_an_antidetect_browser_for_managing/",
+      "external_url": null,
+      "excerpt": "Running 6-8 client accounts on Meta and TikTok. Currently using Voidmob dedicated mobile proxies with TCP/IP fingerprint set to iOS and dedicated carrier DNS instead of Cloudfare. Each client get's th…"
+    },
+    {
+      "title": "Infographics I made for designing a safe and practical AI Agent system",
+      "author": "donotfire",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-18T15:14:38.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vrs15o/infographics_i_made_for_designing_a_safe_and/",
+      "external_url": "https://github.com/henrydaum/second-brain",
+      "excerpt": "I apologize if this isn't the right place to post this"
+    },
+    {
+      "title": "Pushing computed values back into your app's database automatically",
+      "author": "pretzels90210",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-18T15:37:09.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vrsmsp/pushing_computed_values_back_into_your_apps/",
+      "external_url": null,
+      "excerpt": "A pattern thats been working for me instead of a nightly reverse-ETL script copying aggregates from the warehouse into the app db: Lakebase synced tables keep a Postgres table continuously in sync wit…"
+    },
+    {
+      "title": "Best ai chatbot?",
+      "author": "Impressive_Pin6688",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-18T22:17:10.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vs3ukt/best_ai_chatbot/",
+      "external_url": null,
+      "excerpt": "Looking for a no-code chatbot that can answer from my own site/FAQs, not just give generic AI replies. Ideally it should work on website chat, WhatsApp, and Instagram, with human handoff when needed.…"
     },
     {
       "title": "Looking for someone good at sales to partner up on AI automation work",
@@ -25,6 +65,26 @@
       "excerpt": "I build AI automations for small businesses, things like chatbots, follow up systems, scraping data, cleaning up workflows, whatever is eating up their time or costing them money. I'm solid on the tec…"
     },
     {
+      "title": "What is the most impressive automation you have come across this year?",
+      "author": "No-Marionberry8257",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-17T11:21:52.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vqpjag/what_is_the_most_impressive_automation_you_have/",
+      "external_url": null,
+      "excerpt": "For example, I just saw that my friend has setup an automation that after every client meeting, Zooms AI Summary, is auto routed to Gamma. Gamma then generates the final PPT for him and client on what…"
+    },
+    {
+      "title": "New to n8n and not sure where to start?",
+      "author": "easybits_ai",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-18T09:14:50.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vrk0vb/new_to_n8n_and_not_sure_where_to_start/",
+      "external_url": "https://i.redd.it/isiw4jepn3kh1.png",
+      "excerpt": ""
+    },
+    {
       "title": "Is the solution for senior contract developers to start an agency?",
       "author": "Fine-Market9841",
       "score": null,
@@ -35,16 +95,6 @@
       "excerpt": "Hi, I am a newbie exploring automation (like n8n, Make, Zapier) as a potential side hustle. So my question is for automation agency owners. I want to start as a freelancer, then one day build up to an…"
     },
     {
-      "title": "Wiring database branching into preview-deploy automation",
-      "author": "pretzels90210",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-18T00:18:21.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vr9lnl/wiring_database_branching_into_previewdeploy/",
-      "external_url": null,
-      "excerpt": "How have people been wiring database branching into their preview-deploy automation? I've been putting per-preview databases into CI and Neon's been handy for it, the Vercel integration spins up an is…"
-    },
-    {
       "title": "How we chained multiple LLMs to cut complex task errors by 45%",
       "author": "Ok_pettech",
       "score": null,
@@ -53,56 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1vr8lu0/how_we_chained_multiple_llms_to_cut_complex_task/",
       "external_url": "/r/theXeffect/comments/1vr8i8m/how_we_chained_multiple_llms_to_cut_complex_task/",
       "excerpt": ""
-    },
-    {
-      "title": "How to bypass google chrome captchas",
-      "author": "wannabeepsycho",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-17T23:11:55.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vr81wk/how_to_bypass_google_chrome_captchas/",
-      "external_url": null,
-      "excerpt": "Hey guys. Hope you all are doing greatt. Im stuck on my chrome automation project. I hope someone can help me w this. How can i deal with google captchas without being signed in?"
-    },
-    {
-      "title": "A simple browser automation/plugin to post on Substack?",
-      "author": "jonbristow",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-17T10:30:22.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vqojp9/a_simple_browser_automationplugin_to_post_on/",
-      "external_url": null,
-      "excerpt": "Substack doesnt have an API. I have done an automation to post articles on my website. Last step is to post a Note on Substack. A note is like a tweet. I want the automation to just open New Note, pas…"
-    },
-    {
-      "title": "My Monday report still depends on remembering last Monday’s prompt.",
-      "author": "That-Economist-2756",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-17T17:27:53.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vqyrg3/my_monday_report_still_depends_on_remembering/",
-      "external_url": null,
-      "excerpt": "Next Monday is where this reporting setup gets awkward. The current version can take a couple of marketplace exports and produce a comparison. It works once the date range and calculation rules have b…"
-    },
-    {
-      "title": "I thought getting #1 on Product Hunt would feel different.",
-      "author": "Akarsh_Hegde",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-17T18:27:33.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vr0hg0/i_thought_getting_1_on_product_hunt_would_feel/",
-      "external_url": "https://i.redd.it/ibyo4ua5azjh1.png",
-      "excerpt": "We launched Meridian today and finished as the #1 Product of the Day. I spent the first few hours constantly refreshing Product Hunt, but the ranking quickly became less interesting than seeing strang…"
-    },
-    {
-      "title": "Getting consistent branding when automating Word document creation",
-      "author": "Tessalarius",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-17T10:16:47.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vqoara/getting_consistent_branding_when_automating_word/",
-      "external_url": null,
-      "excerpt": "Hi guys, I've been experimenting with automating the creation of consistently branded Microsoft Word documents, where the model needs to follow an existing template and populate it with additional con…"
     }
   ]
 }
