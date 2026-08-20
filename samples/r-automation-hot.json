@@ -1,9 +1,39 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-08-19T07:04:46.836Z",
+  "fetched_at": "2026-08-20T07:05:30.730Z",
   "count": 10,
   "posts": [
+    {
+      "title": "A recurring automation still needs a source of truth between runs",
+      "author": "PyRate_07",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-20T07:02:55.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vtc530/a_recurring_automation_still_needs_a_source_of/",
+      "external_url": null,
+      "excerpt": "Scheduling the next run is usually the easy part. The awkward bit is deciding what it should inherit after a human corrects the result. The obvious records fail differently. A transcript keeps context…"
+    },
+    {
+      "title": "Need a reliable automation tool for multitabs",
+      "author": "No-Spirit-9610",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-19T10:04:39.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vsi4n6/need_a_reliable_automation_tool_for_multitabs/",
+      "external_url": null,
+      "excerpt": "I have no experience in automation I am trying to automate a repetitive daily task that requires moving data across multiple tabs in Google Chrome. like opening a local file from windows download fold…"
+    },
+    {
+      "title": "Using Neon's point-in-time restore as an undo button for bad automated writes",
+      "author": "pretzels90210",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-19T15:43:40.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vsq37p/using_neons_pointintime_restore_as_an_undo_button/",
+      "external_url": null,
+      "excerpt": "Something that saved me after a scheduled job wrote garbage to prod: Neon (managed Postgres) does point-in-time restore by branching from any past timestamp, and Time Travel Assist lets you query the…"
+    },
     {
       "title": "I built a cloud automation for making short tutorial videos with real screenshots and clips... but I have a problem",
       "author": "ollatv",
@@ -15,14 +45,14 @@
       "excerpt": "I am trying to build a cloud automation for making short tutorial videos... mainly with real screenshots, real screen recordings. Not those generic AI generated clips. The main problem I was trying to…"
     },
     {
-      "title": "Do I need an antidetect browser for managing multiple ad accounts, or mobile proxies enough?",
-      "author": "Happy_Nebula9406",
+      "title": "Grab Cuts Mechanical Analytics Work From 44% to 30% with AI Agents",
+      "author": "rgancarz",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-19T03:29:07.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vsaymf/do_i_need_an_antidetect_browser_for_managing/",
-      "external_url": null,
-      "excerpt": "Running 6-8 client accounts on Meta and TikTok. Currently using Voidmob dedicated mobile proxies with TCP/IP fingerprint set to iOS and dedicated carrier DNS instead of Cloudfare. Each client get's th…"
+      "created_utc": "2026-08-19T09:27:24.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vshh29/grab_cuts_mechanical_analytics_work_from_44_to_30/",
+      "external_url": "https://www.infoq.com/news/2026/08/grab-ai-analytics-agents/",
+      "excerpt": "Grab is using AI agents to automate analytics workflows, reducing the share of routine work handled by analysts and shortening the time required to answer business questions. The company reports that…"
     },
     {
       "title": "Infographics I made for designing a safe and practical AI Agent system",
@@ -33,6 +63,16 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1vrs15o/infographics_i_made_for_designing_a_safe_and/",
       "external_url": "https://github.com/henrydaum/second-brain",
       "excerpt": "I apologize if this isn't the right place to post this"
+    },
+    {
+      "title": "I built an entire YouTube channel from scratch using only AI – here’s what’s possible right now.",
+      "author": "anuraginsg",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-19T11:44:39.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vsk22u/i_built_an_entire_youtube_channel_from_scratch/",
+      "external_url": null,
+      "excerpt": "I’ve been experimenting with the current state of generative AI for content creation, and I wanted to share a full case study of what I was able to accomplish without any traditional design or video e…"
     },
     {
       "title": "Pushing computed values back into your app's database automatically",
@@ -63,46 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1vrcxh8/looking_for_someone_good_at_sales_to_partner_up/",
       "external_url": null,
       "excerpt": "I build AI automations for small businesses, things like chatbots, follow up systems, scraping data, cleaning up workflows, whatever is eating up their time or costing them money. I'm solid on the tec…"
-    },
-    {
-      "title": "What is the most impressive automation you have come across this year?",
-      "author": "No-Marionberry8257",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-17T11:21:52.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vqpjag/what_is_the_most_impressive_automation_you_have/",
-      "external_url": null,
-      "excerpt": "For example, I just saw that my friend has setup an automation that after every client meeting, Zooms AI Summary, is auto routed to Gamma. Gamma then generates the final PPT for him and client on what…"
-    },
-    {
-      "title": "New to n8n and not sure where to start?",
-      "author": "easybits_ai",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-18T09:14:50.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vrk0vb/new_to_n8n_and_not_sure_where_to_start/",
-      "external_url": "https://i.redd.it/isiw4jepn3kh1.png",
-      "excerpt": ""
-    },
-    {
-      "title": "Is the solution for senior contract developers to start an agency?",
-      "author": "Fine-Market9841",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-17T15:30:21.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vqvld2/is_the_solution_for_senior_contract_developers_to/",
-      "external_url": null,
-      "excerpt": "Hi, I am a newbie exploring automation (like n8n, Make, Zapier) as a potential side hustle. So my question is for automation agency owners. I want to start as a freelancer, then one day build up to an…"
-    },
-    {
-      "title": "How we chained multiple LLMs to cut complex task errors by 45%",
-      "author": "Ok_pettech",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-17T23:35:17.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vr8lu0/how_we_chained_multiple_llms_to_cut_complex_task/",
-      "external_url": "/r/theXeffect/comments/1vr8i8m/how_we_chained_multiple_llms_to_cut_complex_task/",
-      "excerpt": ""
     }
   ]
 }
