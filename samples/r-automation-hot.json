@@ -1,18 +1,78 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-08-23T07:01:05.851Z",
+  "fetched_at": "2026-08-24T07:20:26.615Z",
   "count": 10,
   "posts": [
     {
-      "title": "How do you actually get subcontract work from other automation agencies??",
-      "author": "Regular_Ad_4015",
+      "title": "i built 12 api workflows at 2 am because the webhooks only took 5 minutes",
+      "author": "BarracudaMean9308",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-22T19:15:53.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vvl732/how_do_you_actually_get_subcontract_work_from/",
+      "created_utc": "2026-08-24T03:20:28.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vwrd8h/i_built_12_api_workflows_at_2_am_because_the/",
       "external_url": null,
-      "excerpt": "I'm a solo automation developer trying to get subcontract work from small automation agencies. Sent a few cold emails and honestly I can't figure out just why an agency owner would reply to a stranger…"
+      "excerpt": "i was staring at my bubble editor at 2 am with twelve active api workflows. they all ran perfectly. the only problem was that zero users actually needed them. i just built whatever was fast to impleme…"
+    },
+    {
+      "title": "I made an agent that doomscrolls instagram and finds viral videos where you can plug your app - exactly how humans do.",
+      "author": "Top-Nefariousness-28",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-23T21:16:01.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vwj9c4/i_made_an_agent_that_doomscrolls_instagram_and/",
+      "external_url": null,
+      "excerpt": "As someone who used to doomscroll to find inspiration for my next viral content where I can plug my product, it was a 24/7 job. I asked myself, whether agent are as good as taking inspiration as human…"
+    },
+    {
+      "title": "TeleSlash — New Update: Violet Blossom",
+      "author": "Express_Cup_4051",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-24T04:24:48.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vwsmoo/teleslash_new_update_violet_blossom/",
+      "external_url": null,
+      "excerpt": "TeleSlash was temporarily taken down for a few days after our beta testing so we could work through the feedback. One of the most requested features from beta testers was more login options, so we suc…"
+    },
+    {
+      "title": "Tiiny Meets DeepSeek Harness",
+      "author": "TiinyAI",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-24T02:06:25.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vwpu0l/tiiny_meets_deepseek_harness/",
+      "external_url": "https://i.redd.it/90alnj56b8lh1.png",
+      "excerpt": ""
+    },
+    {
+      "title": "Using AI to write the automation glue once instead of calling it every run",
+      "author": "pretzels90210",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-23T22:10:12.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vwkkfx/using_ai_to_write_the_automation_glue_once/",
+      "external_url": null,
+      "excerpt": "I have been leaning on Databricks Genie Code for the boring transform steps: describe the reshape between two systems in plain english and it authors the actual code, which you then run deterministica…"
+    },
+    {
+      "title": "Automating a system",
+      "author": "Secure_Solution_725",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-23T19:49:09.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vwh0zd/automating_a_system/",
+      "external_url": null,
+      "excerpt": "I am trying to automate the payroll system. I am using agentic software like VS code and antigravity to design it, and openai as the engine. Now it’s a simple task to extract the info from images or P…"
+    },
+    {
+      "title": "PAD consumed",
+      "author": "Dream_On_83",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-23T22:59:37.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vwlq9m/pad_consumed/",
+      "external_url": "/r/PowerAutomate/comments/1vuqiys/pad_consumed/",
+      "excerpt": ""
     },
     {
       "title": "he 2x2 that changed how I think about automating actions vs. just tasks",
@@ -35,74 +95,14 @@
       "excerpt": "It connects to 200+ business apps out of the box: Gmail, Slack, Notion, Linear, HubSpot, Salesforce, plus MCP servers and raw API endpoints if there’s no connector for what you need. The difference fr…"
     },
     {
-      "title": "I built Figranium — an open-source browser automation framework, looking for automation feedback",
-      "author": "AserNasr",
+      "title": "How do you actually get subcontract work from other automation agencies??",
+      "author": "Regular_Ad_4015",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-22T18:15:17.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vvjmen/i_built_figranium_an_opensource_browser/",
+      "created_utc": "2026-08-22T19:15:53.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vvl732/how_do_you_actually_get_subcontract_work_from/",
       "external_url": null,
-      "excerpt": "https://preview.redd.it/mtdvws29xykh1.png?width=2856&format=png&auto=webp&s=52e422cb89ec897e74c8fee9eff573cb444f1a3a Hey everyone, I've been building Figranium , an open-source browser automation fram…"
-    },
-    {
-      "title": "Built a full CA firms Automation Suite on n8n with 5 use cases, one workflow and zero human follow-up",
-      "author": "_no__regrets_",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-22T12:19:07.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vvayrv/built_a_full_ca_firms_automation_suite_on_n8n/",
-      "external_url": "https://www.reddit.com/gallery/1vvayrv",
-      "excerpt": "CA firms are drowning in manual work. Client WhatsApp messages. Document chasing. GST/ITR deadline reminders. Invoice follow-ups. Lead qualification. All of it done manually. All of it automatable. So…"
-    },
-    {
-      "title": "How do I get my first Automation client? outreach, skills etc. Yes I've read previous answers. Everything changes so fast.",
-      "author": "SnooHesitations8361",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-22T19:02:18.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vvkuid/how_do_i_get_my_first_automation_client_outreach/",
-      "external_url": null,
-      "excerpt": "I am new to this space. I come from a UX/ product background and am making a pivot. I started my own Ai community in San Diego a few months ago and now we are 300 members. I have met a couple members…"
-    },
-    {
-      "title": "Hitting your automation's state db over plain url instead of a driver",
-      "author": "pretzels90210",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-22T17:39:53.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vvip0x/hitting_your_automations_state_db_over_plain_url/",
-      "external_url": null,
-      "excerpt": "For automations running in serverless or edge spots, bundling a Postgres driver and babysitting a connection pool is a pain. Lakebase's Data API is PostgREST-compatible, so a webhook function or agent…"
-    },
-    {
-      "title": "Custom/ complex projects?",
-      "author": "reaperkillz36",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-22T00:59:54.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vuy6lw/custom_complex_projects/",
-      "external_url": null,
-      "excerpt": "Hey everyone been doing custom automations for a while now and looking to take on some projects. Does anyone have anything they need done? I like complex builds."
-    },
-    {
-      "title": "I wanted to see my rentals like my stock portfolio, so we built it",
-      "author": "Own-Moment-429",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-22T00:11:38.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vux4np/i_wanted_to_see_my_rentals_like_my_stock/",
-      "external_url": "https://i.redd.it/2nd827r9jtkh1.jpeg",
-      "excerpt": ""
-    },
-    {
-      "title": "Does automating knowledge kill knowledge?",
-      "author": "Past-Ad2067",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-21T17:56:57.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vunl8r/does_automating_knowledge_kill_knowledge/",
-      "external_url": null,
-      "excerpt": "Built a little tool because I got tired of digging through supplier PDFs every time a customer asked about tasting notes for a new single origin. It scrapes origin data, runs it through an AI summariz…"
+      "excerpt": "I'm a solo automation developer trying to get subcontract work from small automation agencies. Sent a few cold emails and honestly I can't figure out just why an agency owner would reply to a stranger…"
     }
   ]
 }
