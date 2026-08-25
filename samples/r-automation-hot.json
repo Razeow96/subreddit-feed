@@ -1,9 +1,69 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-08-24T07:20:26.615Z",
+  "fetched_at": "2026-08-25T07:08:08.303Z",
   "count": 10,
   "posts": [
+    {
+      "title": "Andrew Yang Warns That AI Is Set to Displace Millions of Workers, America Is ‘Terrible at Retraining’ Workers… ‘The Coal Miners Did Not Become Coders’",
+      "author": "BarchartNews",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-25T02:31:05.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vxnaul/andrew_yang_warns_that_ai_is_set_to_displace/",
+      "external_url": "http://barchart.com/story/news/4004959/andrew-yang-warns-that-ai-is-set-to-displace-millions-of-workers-america-is-terrible-at-retraining-workers-the-coal-miners-did-not-become-coders",
+      "excerpt": ""
+    },
+    {
+      "title": "I'm loving UI Automation! (Open Source optics-framework)",
+      "author": "chinmayjha_cj",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-24T21:13:52.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vxfq63/im_loving_ui_automation_open_source/",
+      "external_url": null,
+      "excerpt": "I have been interning at a firm for the past couple of months, just on the side with my academics at my institute. They have a their entire product line based on UI Automation, and they have an open s…"
+    },
+    {
+      "title": "Letting a scheduled job ask its data questions in plain English instead of hardcoding SQL",
+      "author": "pretzels90210",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-24T17:30:51.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vx9fv6/letting_a_scheduled_job_ask_its_data_questions_in/",
+      "external_url": null,
+      "excerpt": "I've been moving reporting jobs off hardcoded SQL. With the Databricks Genie Conversation API an automation can send a plain-english question like \"what changed week over week in signups\" and get gove…"
+    },
+    {
+      "title": "What do you'll use to automate your visual content?",
+      "author": "amu4biz",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-24T12:13:17.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vx12tn/what_do_youll_use_to_automate_your_visual_content/",
+      "external_url": null,
+      "excerpt": "Found some interesting ways to automate assets, whether it is header image, visuals or any graphics in that nature. n8n, workflow automation, self host or cloud. has nodes for the image APIs so you ca…"
+    },
+    {
+      "title": "Any good open-source automation for Gmail triage and follow-ups?",
+      "author": "codeRoman",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-24T17:22:11.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vx96qn/any_good_opensource_automation_for_gmail_triage/",
+      "external_url": null,
+      "excerpt": "My Gmail inbox mixes work requests, personal communication, reminders, and conversations I need to follow up on. I’ve considered building an assistant, but I’d rather use or contribute to something go…"
+    },
+    {
+      "title": "Which software helps automate lead generation processes?",
+      "author": "sibraan_",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-24T12:50:14.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vx1wu0/which_software_helps_automate_lead_generation/",
+      "external_url": null,
+      "excerpt": "Whenever we look for software to automate lead gen, we usually start by automating the wrong part of the funnel where the default playbook is typically: scrape a list of emails from a directory, plug…"
+    },
     {
       "title": "i built 12 api workflows at 2 am because the webhooks only took 5 minutes",
       "author": "BarracudaMean9308",
@@ -25,46 +85,6 @@
       "excerpt": "As someone who used to doomscroll to find inspiration for my next viral content where I can plug my product, it was a 24/7 job. I asked myself, whether agent are as good as taking inspiration as human…"
     },
     {
-      "title": "TeleSlash — New Update: Violet Blossom",
-      "author": "Express_Cup_4051",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-24T04:24:48.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vwsmoo/teleslash_new_update_violet_blossom/",
-      "external_url": null,
-      "excerpt": "TeleSlash was temporarily taken down for a few days after our beta testing so we could work through the feedback. One of the most requested features from beta testers was more login options, so we suc…"
-    },
-    {
-      "title": "Tiiny Meets DeepSeek Harness",
-      "author": "TiinyAI",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-24T02:06:25.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vwpu0l/tiiny_meets_deepseek_harness/",
-      "external_url": "https://i.redd.it/90alnj56b8lh1.png",
-      "excerpt": ""
-    },
-    {
-      "title": "Using AI to write the automation glue once instead of calling it every run",
-      "author": "pretzels90210",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-23T22:10:12.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vwkkfx/using_ai_to_write_the_automation_glue_once/",
-      "external_url": null,
-      "excerpt": "I have been leaning on Databricks Genie Code for the boring transform steps: describe the reshape between two systems in plain english and it authors the actual code, which you then run deterministica…"
-    },
-    {
-      "title": "Automating a system",
-      "author": "Secure_Solution_725",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-23T19:49:09.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vwh0zd/automating_a_system/",
-      "external_url": null,
-      "excerpt": "I am trying to automate the payroll system. I am using agentic software like VS code and antigravity to design it, and openai as the engine. Now it’s a simple task to extract the info from images or P…"
-    },
-    {
       "title": "PAD consumed",
       "author": "Dream_On_83",
       "score": null,
@@ -75,34 +95,14 @@
       "excerpt": ""
     },
     {
-      "title": "he 2x2 that changed how I think about automating actions vs. just tasks",
-      "author": "GeorgeHadjisavvas",
+      "title": "Tiiny Meets DeepSeek Harness",
+      "author": "TiinyAI",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-23T06:31:56.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vvzk7w/he_2x2_that_changed_how_i_think_about_automating/",
-      "external_url": null,
-      "excerpt": "been building automation workflows for a while, and the mental shift that actually mattered wasn't a tool or a framework, it was realizing \"can I automate this\" and \"should this run without me looking…"
-    },
-    {
-      "title": "dugong.live: Yet another AI Automation platform - worth a try?",
-      "author": "anurag-09",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-23T04:33:55.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vvxg0v/dugonglive_yet_another_ai_automation_platform/",
-      "external_url": null,
-      "excerpt": "It connects to 200+ business apps out of the box: Gmail, Slack, Notion, Linear, HubSpot, Salesforce, plus MCP servers and raw API endpoints if there’s no connector for what you need. The difference fr…"
-    },
-    {
-      "title": "How do you actually get subcontract work from other automation agencies??",
-      "author": "Regular_Ad_4015",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-22T19:15:53.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vvl732/how_do_you_actually_get_subcontract_work_from/",
-      "external_url": null,
-      "excerpt": "I'm a solo automation developer trying to get subcontract work from small automation agencies. Sent a few cold emails and honestly I can't figure out just why an agency owner would reply to a stranger…"
+      "created_utc": "2026-08-24T02:06:25.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vwpu0l/tiiny_meets_deepseek_harness/",
+      "external_url": "https://i.redd.it/90alnj56b8lh1.png",
+      "excerpt": ""
     }
   ]
 }
