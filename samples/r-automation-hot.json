@@ -1,108 +1,108 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-08-26T07:08:51.964Z",
+  "fetched_at": "2026-08-27T17:37:58.540Z",
   "count": 10,
   "posts": [
     {
-      "title": "I created a plugin that lets ChatGPT update your Home Screen",
-      "author": "Dense-Map-406",
+      "title": "How much does AI transcription cost if I'm recording 50 hours of audio?",
+      "author": "ZeldaLove2199",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-26T05:38:43.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vyo53h/i_created_a_plugin_that_lets_chatgpt_update_your/",
-      "external_url": "https://i.redd.it/x4aje8whpnlh1.jpeg",
-      "excerpt": "I created a custom plugin that lets ChatGPT update your Home Screen You connect Glance to ChatGPT via custom plugin using its MCP, the. You can tell it to design and create you a widget and update it…"
-    },
-    {
-      "title": "Anyone letting an AI actually run and fix the pipeline, not just write it?",
-      "author": "pretzels90210",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-25T20:19:12.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vyb93m/anyone_letting_an_ai_actually_run_and_fix_the/",
+      "created_utc": "2026-08-27T10:53:47.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vzqm3n/how_much_does_ai_transcription_cost_if_im/",
       "external_url": null,
-      "excerpt": "Been using Databricks Genie Code for pipeline work and the surprising part isnt the code gen, its that it runs the pipeline on serverless, reads the error when something breaks, and proposes a quick-f…"
+      "excerpt": "I am budgeting a project that will generate roughly 50 to 80 hours of recorded audio a month for the next 6 months. The quotes I have collected range between $0.10 and $0.25 a minte, which turns into…"
     },
     {
-      "title": "Andrew Yang Warns That AI Is Set to Displace Millions of Workers, America Is ‘Terrible at Retraining’ Workers… ‘The Coal Miners Did Not Become Coders’",
-      "author": "BarchartNews",
+      "title": "I didn't realize how much I was forgetting during remote meetings",
+      "author": "Temporary_Joke_7501",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-25T02:31:05.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vxnaul/andrew_yang_warns_that_ai_is_set_to_displace/",
-      "external_url": "http://barchart.com/story/news/4004959/andrew-yang-warns-that-ai-is-set-to-displace-millions-of-workers-america-is-terrible-at-retraining-workers-the-coal-miners-did-not-become-coders",
+      "created_utc": "2026-08-27T15:31:29.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vzx9k8/i_didnt_realize_how_much_i_was_forgetting_during/",
+      "external_url": null,
+      "excerpt": "I've been working remotely for a while and I thought I had it handled, but meetings are still where I lose things. It's not even the big stuff. It's that someone will mention a deadline or say they'll…"
+    },
+    {
+      "title": "How do you keep track of all your automations so they don't quietly pile up and break?",
+      "author": "OnlySecureWaltz",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-27T09:32:52.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vzp6ry/how_do_you_keep_track_of_all_your_automations_so/",
+      "external_url": null,
+      "excerpt": "I started with a few small automations and everything was easy to remember. Now there are enough of them that I've lost track of what runs where, what depends on what, and which ones I even still need…"
+    },
+    {
+      "title": "A fully local, simple CLI to automatically fetch invoices from your inbox",
+      "author": "pierreb5",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-27T11:05:47.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vzquf9/a_fully_local_simple_cli_to_automatically_fetch/",
+      "external_url": "https://github.com/visnia-ai/invoice-fetcher",
       "excerpt": ""
     },
     {
-      "title": "The thing that finally got my agent to run long tasks without dying was not a better model",
-      "author": "Efficient_Letter9480",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-25T12:03:49.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vxxw3y/the_thing_that_finally_got_my_agent_to_run_long/",
-      "external_url": null,
-      "excerpt": "Spent way too much of this year trying to get an agent through big refactors on an old codebase without babysitting it every ten minutes. Legacy Django thing, few hundred files. The model was never th…"
-    },
-    {
-      "title": "I built a Florida tax deed scrub for vacant land. Here’s what I look at before I ever consider bidding.",
-      "author": "Successful_Prize_286",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-25T14:42:45.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vy1t0g/i_built_a_florida_tax_deed_scrub_for_vacant_land/",
-      "external_url": "/r/land/comments/1vs20ec/i_built_a_florida_tax_deed_scrub_for_vacant_land/",
-      "excerpt": ""
-    },
-    {
-      "title": "Document Classification in n8n – classify PDFs with a confidence score and route the shaky ones to Slack [Workflow Included]",
-      "author": "easybits_ai",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-25T08:39:25.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vxu2bv/document_classification_in_n8n_classify_pdfs_with/",
-      "external_url": "https://i.redd.it/uzvcr2ueehlh1.png",
-      "excerpt": ""
-    },
-    {
-      "title": "I'm loving UI Automation! (Open Source optics-framework)",
-      "author": "chinmayjha_cj",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-24T21:13:52.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vxfq63/im_loving_ui_automation_open_source/",
-      "external_url": null,
-      "excerpt": "I have been interning at a firm for the past couple of months, just on the side with my academics at my institute. They have a their entire product line based on UI Automation, and they have an open s…"
-    },
-    {
-      "title": "What do you'll use to automate your visual content?",
-      "author": "amu4biz",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-24T12:13:17.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vx12tn/what_do_youll_use_to_automate_your_visual_content/",
-      "external_url": null,
-      "excerpt": "Found some interesting ways to automate assets, whether it is header image, visuals or any graphics in that nature. n8n, workflow automation, self host or cloud. has nodes for the image APIs so you ca…"
-    },
-    {
-      "title": "Any good open-source automation for Gmail triage and follow-ups?",
-      "author": "codeRoman",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-24T17:22:11.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vx96qn/any_good_opensource_automation_for_gmail_triage/",
-      "external_url": null,
-      "excerpt": "My Gmail inbox mixes work requests, personal communication, reminders, and conversations I need to follow up on. I’ve considered building an assistant, but I’d rather use or contribute to something go…"
-    },
-    {
-      "title": "Which software helps automate lead generation processes?",
+      "title": "Can you find a tool to automate sales outreach based on intent data?",
       "author": "sibraan_",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-24T12:50:14.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vx1wu0/which_software_helps_automate_lead_generation/",
+      "created_utc": "2026-08-27T13:57:28.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vzuqbs/can_you_find_a_tool_to_automate_sales_outreach/",
       "external_url": null,
-      "excerpt": "Whenever we look for software to automate lead gen, we usually start by automating the wrong part of the funnel where the default playbook is typically: scrape a list of emails from a directory, plug…"
+      "excerpt": "If you look at the tools built specifically to automate this loop end-to-end, the architecture basically comes down to how much engineering you want to maintain yourself: The autonomous GTM intent eng…"
+    },
+    {
+      "title": "What Research Says About Structuring LLM Agent Harnesses",
+      "author": "rush86999",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-27T12:45:06.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vzsyc4/what_research_says_about_structuring_llm_agent/",
+      "external_url": "https://github.com/rush86999/atom/blob/main/docs/architecture/AGENT_HARNESS_RESEARCH.md",
+      "excerpt": ""
+    },
+    {
+      "title": "Noob here, very frustrated",
+      "author": "surroundsounding",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-27T11:59:20.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vzrwyc/noob_here_very_frustrated/",
+      "external_url": null,
+      "excerpt": "Nothing works and it all keeps failing 😭 How do I reliably have forms filled? They're college application forms (not my main targets ofc) but I have all the data very neatly organized. But actually i…"
+    },
+    {
+      "title": "Thinking about working for an automation agency before starting my own, need some advice",
+      "author": "DayBeautiful2205",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-26T21:07:57.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vz9uy0/thinking_about_working_for_an_automation_agency/",
+      "external_url": null,
+      "excerpt": "I've been learning n8n to start an automation business, and I've seen how much people struggle with finding clients, especially juniors with no real-world experience. So I thought that I should first…"
+    },
+    {
+      "title": "For those automating their own jobs, do you tell your employer, and what happens if they find out?",
+      "author": "KlutzyKlutz",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-26T14:46:43.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vyz5n6/for_those_automating_their_own_jobs_do_you_tell/",
+      "external_url": null,
+      "excerpt": "Say you automate a big part of your daily work. A task that used to take hours now runs on its own in a few minutes. The question is what you do with that time, and whether you say anything about it.…"
+    },
+    {
+      "title": "Decoupling execution from governance in multi-agent setups",
+      "author": "Deepfeet-09",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-26T21:38:47.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1vzao7p/decoupling_execution_from_governance_in/",
+      "external_url": null,
+      "excerpt": "Once you go beyond a few simple scripts, putting together multi-agent systems becomes a messy affair. The initial configuration using basic frameworks generally proceeds quite smoothly, but the actual…"
     }
   ]
 }
