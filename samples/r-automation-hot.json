@@ -1,9 +1,89 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-08-28T18:42:02.731Z",
+  "fetched_at": "2026-08-29T12:40:56.045Z",
   "count": 10,
   "posts": [
+    {
+      "title": "I automated 90% of my long video to vertical clips workflow, and the tool is open source",
+      "author": "mutonbini",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-28T22:50:22.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1w15gop/i_automated_90_of_my_long_video_to_vertical_clips/",
+      "external_url": "https://i.redd.it/1dtau5p237mh1.jpeg",
+      "excerpt": "Disclosure first: I built it. Links are in the first comment because this sub blocks them in the body. I was tired of scrubbing through an hour of podcast looking for the 40 seconds worth posting, and…"
+    },
+    {
+      "title": "Ai automation is so easy now, what are you actually using everyday?",
+      "author": "Exact_Bar_6252",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-29T06:08:54.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1w1ei81/ai_automation_is_so_easy_now_what_are_you/",
+      "external_url": null,
+      "excerpt": "The bar for Al automation is so low now it's kind of crazy. Browser stuff, file management, API calls, scraping data, scheduled tasks, monitoring, reports, all this used to take half a day of coding,…"
+    },
+    {
+      "title": "What's one automation you built/used that genuinely saved you time?",
+      "author": "No-Purple6733",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-29T12:38:04.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1w1lgy3/whats_one_automation_you_builtused_that_genuinely/",
+      "external_url": null,
+      "excerpt": "I’m curious what automations people here have actually stuck with, not just cool experiments that sounded useful but never got used. Whats one workflow you automated that made a noticeable difference?…"
+    },
+    {
+      "title": "Which specifications actually matter when comparing acoustic cameras for electrical inspection?",
+      "author": "OwlZealousideal4779",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-29T05:02:23.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1w1d9h1/which_specifications_actually_matter_when/",
+      "external_url": null,
+      "excerpt": "I'm trying to understand which specifications are genuinely important when comparing acoustic imaging systems for applications such as partial-discharge detection. Manufacturers often provide a long l…"
+    },
+    {
+      "title": "My invoicing tool started making me forget my own pricing logic",
+      "author": "Past-Ad2067",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-29T12:22:30.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1w1l5ai/my_invoicing_tool_started_making_me_forget_my_own/",
+      "external_url": null,
+      "excerpt": "I set up an automation that pulls line items from my calendar and generates invoices. It pulls rates from a lookup table I built once and never opened again. First month it saved me a couple hours. Th…"
+    },
+    {
+      "title": "Every client says they want AI. But heres the issue with that",
+      "author": "Tricky_Mentiong",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-28T22:21:46.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1w14riu/every_client_says_they_want_ai_but_heres_the/",
+      "external_url": null,
+      "excerpt": "Everyone wants AI for something right now. Almost nobody means the same thing by it, and most people are picturing a slightly smarter version of the chat box they already have open in another tab. Mea…"
+    },
+    {
+      "title": "Building a mobile-first automation tool, what workflows should it support?",
+      "author": "IJagan",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-29T10:01:43.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1w1iide/building_a_mobilefirst_automation_tool_what/",
+      "external_url": "https://mechanly.app/",
+      "excerpt": "Hi everyone, I’ve been building Mechanly, a mobile-first automation app, and I’d love some feedback from people who know their way around automation. The idea is simple: you can create tasks that inte…"
+    },
+    {
+      "title": "How do people make the jack and jenny anime narration videos?",
+      "author": "Low-Lengthiness1356",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-28T19:59:50.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1w11460/how_do_people_make_the_jack_and_jenny_anime/",
+      "external_url": null,
+      "excerpt": "The videos are on tiktok they are basically just taking a episode of any anime and rename the main characters to jack and jenny, other characters are named george,anna etc. It's always the same voice…"
+    },
     {
       "title": "Which automation did you regret automating?",
       "author": "rulik587",
@@ -22,86 +102,6 @@
       "created_utc": "2026-08-28T16:28:28.000Z",
       "permalink": "https://www.reddit.com/r/automation/comments/1w0vcgo/everything_that_broke_while_i_was_building_a/",
       "external_url": "/r/n8n/comments/1w0r31n/everything_that_broke_while_i_was_building_a/",
-      "excerpt": ""
-    },
-    {
-      "title": "Instagram story bot",
-      "author": "Dnyktenstein",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-28T16:00:13.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w0ukpx/instagram_story_bot/",
-      "external_url": null,
-      "excerpt": "Hi there, I wrote a story sharing automation program for the Instagram accounts I manage. I log into the accounts through the mobile app and share stories on those accounts. I noticed Instagram gave m…"
-    },
-    {
-      "title": "B2B supplies procurement platform",
-      "author": "kapitonas_magelanas",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-28T04:54:28.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w0h16k/b2b_supplies_procurement_platform/",
-      "external_url": null,
-      "excerpt": "Hey. Im working on a platform for a procurement of industrial manufacturing supplies and materials. So far I managed to build search bot for clients and suppliers, chatbots for email communication and…"
-    },
-    {
-      "title": "AimLive Introduces an AI Powered Self-Development Platform Built on an Original 64 Type Psychotypology System",
-      "author": "Ragingboomerang",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-28T00:49:59.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w0byn0/aimlive_introduces_an_ai_powered_selfdevelopment/",
-      "external_url": "https://i.redd.it/6vfwb1hsj0mh1.jpeg",
-      "excerpt": "https://www.einpresswire.com/article/936639283/aimlive-introduces-an-ai-powered-self-development-platform-built-on-an-original-64-type-psychotypology-system"
-    },
-    {
-      "title": "What's actually stopping mobile manipulators from being everywhere in factories?",
-      "author": "controlbeyond",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-28T01:36:57.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w0czyi/whats_actually_stopping_mobile_manipulators_from/",
-      "external_url": "/r/u_controlbeyond/comments/1vzpaiq/whats_actually_stopping_mobile_manipulators_from/",
-      "excerpt": ""
-    },
-    {
-      "title": "How do you keep track of all your automations so they don't quietly pile up and break?",
-      "author": "OnlySecureWaltz",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-27T09:32:52.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vzp6ry/how_do_you_keep_track_of_all_your_automations_so/",
-      "external_url": null,
-      "excerpt": "I started with a few small automations and everything was easy to remember. Now there are enough of them that I've lost track of what runs where, what depends on what, and which ones I even still need…"
-    },
-    {
-      "title": "How much does AI transcription cost if I'm recording 50 hours of audio?",
-      "author": "ZeldaLove2199",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-27T10:53:47.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vzqm3n/how_much_does_ai_transcription_cost_if_im/",
-      "external_url": null,
-      "excerpt": "I am budgeting a project that will generate roughly 50 to 80 hours of recorded audio a month for the next 6 months. The quotes I have collected range between $0.10 and $0.25 a minte, which turns into…"
-    },
-    {
-      "title": "I didn't realize how much I was forgetting during remote meetings",
-      "author": "Temporary_Joke_7501",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-27T15:31:29.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vzx9k8/i_didnt_realize_how_much_i_was_forgetting_during/",
-      "external_url": null,
-      "excerpt": "I've been working remotely for a while and I thought I had it handled, but meetings are still where I lose things. It's not even the big stuff. It's that someone will mention a deadline or say they'll…"
-    },
-    {
-      "title": "What Research Says About Structuring LLM Agent Harnesses",
-      "author": "rush86999",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-27T12:45:06.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1vzsyc4/what_research_says_about_structuring_llm_agent/",
-      "external_url": "https://github.com/rush86999/atom/blob/main/docs/architecture/AGENT_HARNESS_RESEARCH.md",
       "excerpt": ""
     }
   ]
