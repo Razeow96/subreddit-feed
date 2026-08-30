@@ -1,28 +1,28 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-08-29T12:40:56.045Z",
+  "fetched_at": "2026-08-30T11:54:23.600Z",
   "count": 10,
   "posts": [
     {
-      "title": "I automated 90% of my long video to vertical clips workflow, and the tool is open source",
-      "author": "mutonbini",
+      "title": "Built an MCP server that turns data into branded images, so your agent doesn't have to keep wasting tokens to generate and image that doesn't match what you want",
+      "author": "canhelp",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-28T22:50:22.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w15gop/i_automated_90_of_my_long_video_to_vertical_clips/",
-      "external_url": "https://i.redd.it/1dtau5p237mh1.jpeg",
-      "excerpt": "Disclosure first: I built it. Links are in the first comment because this sub blocks them in the body. I was tired of scrubbing through an hour of podcast looking for the 40 seconds worth posting, and…"
+      "created_utc": "2026-08-30T07:24:17.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1w2as8o/built_an_mcp_server_that_turns_data_into_branded/",
+      "external_url": "https://www.reddit.com/gallery/1w2as8o",
+      "excerpt": "kept hitting the same problem: ask an agent for \"an image\" (a chart, a card, a banner) and it reaches for an image-gen model. That burns real tokens and credits, takes a while, and the output is a gue…"
     },
     {
-      "title": "Ai automation is so easy now, what are you actually using everyday?",
-      "author": "Exact_Bar_6252",
+      "title": "How do you prevent runaway automation costs? (guardrails, monitoring, kill switches)",
+      "author": "Grouchy-Conflict-211",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-08-29T06:08:54.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w1ei81/ai_automation_is_so_easy_now_what_are_you/",
+      "created_utc": "2026-08-29T23:27:07.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1w21d6b/how_do_you_prevent_runaway_automation_costs/",
       "external_url": null,
-      "excerpt": "The bar for Al automation is so low now it's kind of crazy. Browser stuff, file management, API calls, scraping data, scheduled tasks, monitoring, reports, all this used to take half a day of coding,…"
+      "excerpt": "We run ~200 daily n8n workflows in production. Last month a single bad IF condition caused an infinite loop: 47,000 runs in 6 hours before budget alert fired. Direct costs: ~$2.5k (API calls, scraping…"
     },
     {
       "title": "What's one automation you built/used that genuinely saved you time?",
@@ -35,16 +35,6 @@
       "excerpt": "I’m curious what automations people here have actually stuck with, not just cool experiments that sounded useful but never got used. Whats one workflow you automated that made a noticeable difference?…"
     },
     {
-      "title": "Which specifications actually matter when comparing acoustic cameras for electrical inspection?",
-      "author": "OwlZealousideal4779",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-29T05:02:23.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w1d9h1/which_specifications_actually_matter_when/",
-      "external_url": null,
-      "excerpt": "I'm trying to understand which specifications are genuinely important when comparing acoustic imaging systems for applications such as partial-discharge detection. Manufacturers often provide a long l…"
-    },
-    {
       "title": "My invoicing tool started making me forget my own pricing logic",
       "author": "Past-Ad2067",
       "score": null,
@@ -53,6 +43,46 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1w1l5ai/my_invoicing_tool_started_making_me_forget_my_own/",
       "external_url": null,
       "excerpt": "I set up an automation that pulls line items from my calendar and generates invoices. It pulls rates from a lookup table I built once and never opened again. First month it saved me a couple hours. Th…"
+    },
+    {
+      "title": "Ai automation is so easy now, what are you actually using everyday?",
+      "author": "Exact_Bar_6252",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-29T06:08:54.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1w1ei81/ai_automation_is_so_easy_now_what_are_you/",
+      "external_url": null,
+      "excerpt": "The bar for Al automation is so low now it's kind of crazy. Browser stuff, file management, API calls, scraping data, scheduled tasks, monitoring, reports, all this used to take half a day of coding,…"
+    },
+    {
+      "title": "I automated 90% of my long video to vertical clips workflow, and the tool is open source",
+      "author": "mutonbini",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-28T22:50:22.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1w15gop/i_automated_90_of_my_long_video_to_vertical_clips/",
+      "external_url": "https://i.redd.it/1dtau5p237mh1.jpeg",
+      "excerpt": "Disclosure first: I built it. Links are in the first comment because this sub blocks them in the body. I was tired of scrubbing through an hour of podcast looking for the 40 seconds worth posting, and…"
+    },
+    {
+      "title": "Feels like nobody talks about where to actually start with network automation",
+      "author": "Admirable_Claim_3203",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-29T12:48:25.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1w1lovt/feels_like_nobody_talks_about_where_to_actually/",
+      "external_url": "/r/u_Admirable_Claim_3203/comments/1w1i3m6/feels_like_nobody_talks_about_where_to_actually/",
+      "excerpt": ""
+    },
+    {
+      "title": "Which specifications actually matter when comparing acoustic cameras for electrical inspection?",
+      "author": "OwlZealousideal4779",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-08-29T05:02:23.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1w1d9h1/which_specifications_actually_matter_when/",
+      "external_url": null,
+      "excerpt": "I'm trying to understand which specifications are genuinely important when comparing acoustic imaging systems for applications such as partial-discharge detection. Manufacturers often provide a long l…"
     },
     {
       "title": "Every client says they want AI. But heres the issue with that",
@@ -73,36 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1w1iide/building_a_mobilefirst_automation_tool_what/",
       "external_url": "https://mechanly.app/",
       "excerpt": "Hi everyone, I’ve been building Mechanly, a mobile-first automation app, and I’d love some feedback from people who know their way around automation. The idea is simple: you can create tasks that inte…"
-    },
-    {
-      "title": "How do people make the jack and jenny anime narration videos?",
-      "author": "Low-Lengthiness1356",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-28T19:59:50.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w11460/how_do_people_make_the_jack_and_jenny_anime/",
-      "external_url": null,
-      "excerpt": "The videos are on tiktok they are basically just taking a episode of any anime and rename the main characters to jack and jenny, other characters are named george,anna etc. It's always the same voice…"
-    },
-    {
-      "title": "Which automation did you regret automating?",
-      "author": "rulik587",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-28T07:59:40.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w0k8nw/which_automation_did_you_regret_automating/",
-      "external_url": null,
-      "excerpt": "I’m curious about the workflows that looked like obvious time-savers but turned into maintenance work. API changes, flaky webhooks, duplicate runs, edge cases, credentials expiring, silent failures...…"
-    },
-    {
-      "title": "Everything that broke while I was building a WhatsApp automation on n8n",
-      "author": "Ahmiii_83",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-08-28T16:28:28.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w0vcgo/everything_that_broke_while_i_was_building_a/",
-      "external_url": "/r/n8n/comments/1w0r31n/everything_that_broke_while_i_was_building_a/",
-      "excerpt": ""
     }
   ]
 }
