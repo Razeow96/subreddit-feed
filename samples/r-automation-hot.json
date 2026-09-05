@@ -1,18 +1,58 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-09-04T11:24:34.962Z",
+  "fetched_at": "2026-09-05T10:34:48.967Z",
   "count": 10,
   "posts": [
     {
-      "title": "Error handling for document extraction: how I stop failed invoice extractions from silently breaking my automations [Workflow Included]",
-      "author": "easybits_ai",
+      "title": "Best omnichannel automation tool for WhatsApp + Instagram?",
+      "author": "Big_Ninja1751",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-04T11:08:38.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w71bvc/error_handling_for_document_extraction_how_i_stop/",
-      "external_url": "https://i.redd.it/16vsrxf7khnh1.png",
-      "excerpt": ""
+      "created_utc": "2026-09-05T10:16:02.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1w7wv8j/best_omnichannel_automation_tool_for_whatsapp/",
+      "external_url": null,
+      "excerpt": "We’re trying to clean up how we handle customer conversations across WhatsApp, Instagram and Messenger.Right now everything is separate, so messages sometimes get missed and it’s hard to know who on t…"
+    },
+    {
+      "title": "Trying to get into AI automation",
+      "author": "Ordinary_Web9333",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-05T07:37:47.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1w7u3wl/trying_to_get_into_ai_automation/",
+      "external_url": null,
+      "excerpt": "Hi everyone, I’ve been experimenting with AI tools lately and I’m starting to realize there’s a lot more to automation than just using ChatGPT. I’d like to learn how people are actually building workf…"
+    },
+    {
+      "title": "Is anyone here making money?",
+      "author": "Syneptic",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-04T18:32:14.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1w7coom/is_anyone_here_making_money/",
+      "external_url": null,
+      "excerpt": "Especially the people in Maker School Communities. Would love to know all of your experiences and what's currently happening. I've been building stuff since last december, working every day & nothing…"
+    },
+    {
+      "title": "Any automated invoicing tools worth trying? Looking for recommendations",
+      "author": "onetwothreefish",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-04T20:04:53.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1w7f9gu/any_automated_invoicing_tools_worth_trying/",
+      "external_url": null,
+      "excerpt": "Hey guys. Need some recommendations for invoice and billing automation tools. Quick context, tried running this myself with Python scripts and Claude, but constantly broke when faced with custom deal…"
+    },
+    {
+      "title": "How are you managing automation request in your team?",
+      "author": "ticklemenuts_",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-04T14:56:55.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1w76psj/how_are_you_managing_automation_request_in_your/",
+      "external_url": "/r/startups/comments/1w76nw1/how_are_you_managing_automation_request_in_your/",
+      "excerpt": "Running a team of 20 people, we are trying to automate everything that is repetitive, the problem comes in capturing the job and handling all the automation request without spending time in meetings a…"
     },
     {
       "title": "What have you tried to get AI to work with that became way more of a pain than you expected?",
@@ -25,6 +65,36 @@
       "excerpt": "I keep running into this lately. I know what I want it to do, but getting it to actually work with the other thing is where I lose hours. What’s been the worst one for you? Could be something you even…"
     },
     {
+      "title": "I built h5i, a pure-Rust headless browser for automated web browsing and web app testing with AI agents",
+      "author": "OkBreath9382",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-04T15:36:44.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1w77sjt/i_built_h5i_a_purerust_headless_browser_for/",
+      "external_url": "https://github.com/h5i-dev/h5i",
+      "excerpt": "Most browser automation tools for AI agents use Chromium underneath. It made me wonder whether we could build a pure-Rust browser that uses Rust engines for everything from JavaScript and HTML to the…"
+    },
+    {
+      "title": "Error handling for document extraction: how I stop failed invoice extractions from silently breaking my automations [Workflow Included]",
+      "author": "easybits_ai",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-04T11:08:38.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1w71bvc/error_handling_for_document_extraction_how_i_stop/",
+      "external_url": "https://i.redd.it/16vsrxf7khnh1.png",
+      "excerpt": ""
+    },
+    {
+      "title": "AI Cut Entry-Level Job Posts Up To 9%. Welcome To The Invisible Layoff",
+      "author": "KeanuRave100",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-04T14:51:49.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1w76l1v/ai_cut_entrylevel_job_posts_up_to_9_welcome_to/",
+      "external_url": "https://www.forbes.com/sites/rachelwells/2026/09/02/ai-cut-entry-level-job-posts-up-to-9-welcome-to-the-invisible-layoff",
+      "excerpt": ""
+    },
+    {
       "title": "What's the best custom FinOps tool you built for your company?",
       "author": "TheDarkPapa",
       "score": null,
@@ -32,76 +102,6 @@
       "created_utc": "2026-09-04T09:06:58.000Z",
       "permalink": "https://www.reddit.com/r/automation/comments/1w6z4ai/whats_the_best_custom_finops_tool_you_built_for/",
       "external_url": "/r/FinOps/comments/1w6z43f/whats_the_best_custom_finops_tool_you_built_for/",
-      "excerpt": ""
-    },
-    {
-      "title": "What are people using as UiPath alternatives for task mining these days?",
-      "author": "strawberryjuicefr",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-03T18:50:19.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w6gcid/what_are_people_using_as_uipath_alternatives_for/",
-      "external_url": null,
-      "excerpt": "hey hey UiPath ships its own task mining, so on paper that layer is covered. Does anyone actually use it to decide what to automate, or does everyone end up bringing in something separate once they ar…"
-    },
-    {
-      "title": "What do you monitor in production automations besides errors?",
-      "author": "rulik587",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-03T07:57:58.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w60x93/what_do_you_monitor_in_production_automations/",
-      "external_url": null,
-      "excerpt": "I’ve been thinking about the difference between an automation that technically “works” and one that is actually safe to run in production. Error alerts are the obvious part, but some of the more expen…"
-    },
-    {
-      "title": "AutoRewarder v4.2 is here! Visual Search Integration, LLM Query Generation, and Humanized Typos",
-      "author": "18safarov",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-03T19:00:58.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w6gnke/autorewarder_v42_is_here_visual_search/",
-      "external_url": "https://www.reddit.com/gallery/1w6gnke",
-      "excerpt": "Hi everyone! First, thank you for the continued support for the previous releases. AutoRewarder already has +6.3k downloads and +268 stars on GitHub . I'm combining the release notes to share a massiv…"
-    },
-    {
-      "title": "WhatsApp bots: official API vs web automation - tradeoffs I wish I knew earlier",
-      "author": "uriwa",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-03T02:56:44.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w5vdkj/whatsapp_bots_official_api_vs_web_automation/",
-      "external_url": null,
-      "excerpt": "Two ways to get a bot on WhatsApp, very different tradeoffs. Learned setting this up for clients: Official Business API: Meta developer app + business portfolio + verified number + system user token +…"
-    },
-    {
-      "title": "BRING CLIENT , TAKE % OF MRR FOR LIFE TILL CLIENT IS THERE.",
-      "author": "dominator__45",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-03T09:46:01.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w62rez/bring_client_take_of_mrr_for_life_till_client_is/",
-      "external_url": null,
-      "excerpt": "I’m building an AI voice-agent agency focused on automating inbound phone calls 24/7, handle common questions, qualify leads, collect customer information, book appointments. it can also be connected…"
-    },
-    {
-      "title": "In next 1.5 hours. How Do You Build an AI Web Scraper Without Code? AMA with BrowserAct",
-      "author": "ian_k93",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-03T06:00:00.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w5yvpo/in_next_15_hours_how_do_you_build_an_ai_web/",
-      "external_url": "/r/WebScrapingInsider/comments/1w2ggvj/how_do_you_build_an_ai_web_scraper_without_code/",
-      "excerpt": ""
-    },
-    {
-      "title": "The harsh reality of monetizing bots: People expect enterprise uptime for $0",
-      "author": "TheoremWhisperer",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-03T08:04:43.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w611c3/the_harsh_reality_of_monetizing_bots_people/",
-      "external_url": "/r/BotNation/comments/1w60fp6/the_harsh_reality_of_monetizing_bots_people/",
       "excerpt": ""
     }
   ]
