@@ -1,18 +1,18 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-09-05T10:34:48.967Z",
+  "fetched_at": "2026-09-06T10:56:04.842Z",
   "count": 10,
   "posts": [
     {
-      "title": "Best omnichannel automation tool for WhatsApp + Instagram?",
-      "author": "Big_Ninja1751",
+      "title": "When is PLC programming done",
+      "author": "Electronic-Run8836",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-05T10:16:02.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w7wv8j/best_omnichannel_automation_tool_for_whatsapp/",
-      "external_url": null,
-      "excerpt": "We’re trying to clean up how we handle customer conversations across WhatsApp, Instagram and Messenger.Right now everything is separate, so messages sometimes get missed and it’s hard to know who on t…"
+      "created_utc": "2026-09-06T10:08:27.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1w8s6xa/when_is_plc_programming_done/",
+      "external_url": "https://www.reddit.com/gallery/1w8s6xa",
+      "excerpt": "I work in assembly and testing, but was self teaching myself plc part. So we use Beckhoff terminals. I do the wiring as per the schematic. My question is, what comes first, electrical schematic or plc…"
     },
     {
       "title": "Trying to get into AI automation",
@@ -23,6 +23,16 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1w7u3wl/trying_to_get_into_ai_automation/",
       "external_url": null,
       "excerpt": "Hi everyone, I’ve been experimenting with AI tools lately and I’m starting to realize there’s a lot more to automation than just using ChatGPT. I’d like to learn how people are actually building workf…"
+    },
+    {
+      "title": "It took me 3 tries to get this automation fully working",
+      "author": "Ok_West333",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-05T11:53:59.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1w7yq2o/it_took_me_3_tries_to_get_this_automation_fully/",
+      "external_url": "https://i.redd.it/31igcpwfmonh1.png",
+      "excerpt": ""
     },
     {
       "title": "Is anyone here making money?",
@@ -73,16 +83,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1w77sjt/i_built_h5i_a_purerust_headless_browser_for/",
       "external_url": "https://github.com/h5i-dev/h5i",
       "excerpt": "Most browser automation tools for AI agents use Chromium underneath. It made me wonder whether we could build a pure-Rust browser that uses Rust engines for everything from JavaScript and HTML to the…"
-    },
-    {
-      "title": "Error handling for document extraction: how I stop failed invoice extractions from silently breaking my automations [Workflow Included]",
-      "author": "easybits_ai",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-04T11:08:38.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w71bvc/error_handling_for_document_extraction_how_i_stop/",
-      "external_url": "https://i.redd.it/16vsrxf7khnh1.png",
-      "excerpt": ""
     },
     {
       "title": "AI Cut Entry-Level Job Posts Up To 9%. Welcome To The Invisible Layoff",
