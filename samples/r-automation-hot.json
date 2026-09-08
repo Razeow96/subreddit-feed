@@ -1,107 +1,107 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-09-07T12:32:14.856Z",
+  "fetched_at": "2026-09-08T11:18:58.850Z",
   "count": 10,
   "posts": [
     {
-      "title": "What are people actually using AI agents for on a regular basis?",
-      "author": "Erenaa04",
+      "title": "how are you automating social posts from your product catalog?",
+      "author": "UpstairsCap5679",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-07T01:07:30.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w9duly/what_are_people_actually_using_ai_agents_for_on_a/",
+      "created_utc": "2026-09-08T08:43:40.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wairg5/how_are_you_automating_social_posts_from_your/",
       "external_url": null,
-      "excerpt": "I keep seeing really impressive agent demos, but when I think about my own work, I’m still not sure where an agent actually makes more sense than a normal ChatGPT prompt + some automation. For example…"
+      "excerpt": "hi everyone, i run an ecommerce store and i’m trying to find a less manual way to create social media content whenever i add or update a product. ideally, i’d like something that can pull from my prod…"
     },
     {
-      "title": "What are clients actually paying you to automate?",
-      "author": "fallart_live",
+      "title": "We automated a bunch of stuff and still got stuck",
+      "author": "OkReception6496",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-07T10:45:05.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w9oqxk/what_are_clients_actually_paying_you_to_automate/",
+      "created_utc": "2026-09-07T22:17:39.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wa69sp/we_automated_a_bunch_of_stuff_and_still_got_stuck/",
       "external_url": null,
-      "excerpt": "Hey everyone, I'm a software developer currently exploring the AI automation space. I've spent the last few weeks talking directly to small businesses to understand where automation could genuinely cr…"
+      "excerpt": "We started automating more of the boring marketing work a few months ago and at first it was great reports were getting pulled without someone touching them, campaign issues were getting flagged, crea…"
     },
     {
-      "title": "Real browser automation on VPS?",
-      "author": "Mozart-20",
+      "title": "How to build a real-time voice assistant (with live web access)",
+      "author": "binarymako",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-07T10:49:17.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w9otlk/real_browser_automation_on_vps/",
-      "external_url": "/r/hermesagent/comments/1w9otc6/real_browser_automation_on_vps/",
-      "excerpt": ""
-    },
-    {
-      "title": "Are enterprise task mining platforms worth it when your documentation is actually current?",
-      "author": "crazycrowww",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-06T15:51:37.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w8zs0m/are_enterprise_task_mining_platforms_worth_it/",
+      "created_utc": "2026-09-08T10:20:19.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wakfzq/how_to_build_a_realtime_voice_assistant_with_live/",
       "external_url": null,
-      "excerpt": "Slightly heretical position: I think the pitch for enterprise task mining platforms is aimed at places that let their documentation rot, and it does not really transfer if you keep yours current. If t…"
+      "excerpt": "I’ve been playing around with a lot of different AI voice assistants lately and the biggest friction point across almost all of them is the awkward pause. You ask a question and there's this weird 3 t…"
     },
     {
-      "title": "I built an open source desktop app that turns a plain English description into recurring automations that run locally",
-      "author": "hansololz",
+      "title": "Has anyone solved the 'missed calls' problem with AI?",
+      "author": "Dizzy_Badger_9294",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-07T00:56:06.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w9dlvw/i_built_an_open_source_desktop_app_that_turns_a/",
-      "external_url": "https://www.reddit.com/gallery/1w9dlvw",
-      "excerpt": "It's free and MIT licensed. It's called Autowright. You can find it on autowright.ai and the website links to the GitHub. To use it, you describe a job in plain text, a coding agent you already have w…"
-    },
-    {
-      "title": "Building an internship finder because I’m tired of missing openings",
-      "author": "Distinct-Purple-2339",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-06T19:23:11.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w95j12/building_an_internship_finder_because_im_tired_of/",
-      "external_url": "/r/n8n/comments/1w95hge/building_an_internship_finder_because_im_tired_of/",
-      "excerpt": ""
-    },
-    {
-      "title": "The phone automation I kept sends four lines every morning",
-      "author": "Anxious_Abrocoma_596",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-06T21:21:16.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w98n36/the_phone_automation_i_kept_sends_four_lines/",
+      "created_utc": "2026-09-07T19:36:13.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wa22z8/has_anyone_solved_the_missed_calls_problem_with_ai/",
       "external_url": null,
-      "excerpt": "I started this after leaving a package at my student housing front desk for six hours. The UPS delivery window had moved twice, and I did not look at the app again until after class. Around the same t…"
+      "excerpt": "We've been looking at how many inbound calls we miss outside of normal hours, during spikes or simply because the right person isn’t available. It’s enough that we suspect there’s a real cost attached…"
     },
     {
-      "title": "Tried automating my true crime podcast notes and accidentally ruined the fun",
-      "author": "Past-Ad2067",
+      "title": "the only commit message allowed to trigger my site's build is one literal string, enforced by a git hook — is a reserved keyword the right way to gate a shared expensive action?",
+      "author": "Most-Agent-7566",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-06T12:24:11.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w8uspw/tried_automating_my_true_crime_podcast_notes_and/",
+      "created_utc": "2026-09-08T11:12:13.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1walf9h/the_only_commit_message_allowed_to_trigger_my/",
       "external_url": null,
-      "excerpt": "I listen to a lot of true crime podcasts during cafe prep and closing. I kept missing details I wanted to look up later, so I set up a workflow that grabs audio transcripts and runs them through an AI…"
+      "excerpt": "Every one of my agents pushes to the same repo throughout the day — mirrors refreshing, state snapshots, memory files. Every push spins up a build container on my host, even when the build decides to…"
     },
     {
-      "title": "Trying to automate theClay -> cold email handoff so leads dont sit in a spreadsheet purgatory for 2 days",
-      "author": "Monu_25",
+      "title": "Automation handles the repetitive work fine but nobody owns the actual decision when signals conflict",
+      "author": "Consistent_Dog_3874",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-06T10:57:46.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w8t3di/trying_to_automate_theclay_cold_email_handoff_so/",
+      "created_utc": "2026-09-08T08:59:16.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1waj0o1/automation_handles_the_repetitive_work_fine_but/",
       "external_url": null,
-      "excerpt": "Growth role at a 25-person B2B SaaS. Our current process: pull leads, enrich in Clay (waterfall enrichment, some intent signals), export CSV, manually upload to our sending tool, launch. This works bu…"
+      "excerpt": "Pulled reports automatically, flagged issues, sorted creative performance. Then sat in a meeting where everything looked fine and nobody could say what to change. The manual work was gone but the mess…"
     },
     {
-      "title": "Is AI automation worth it in 2026?",
-      "author": "TheoremWhisperer",
+      "title": "How difficult is acting as a retainer for your automation?",
+      "author": "Fine-Market9841",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-06T13:54:04.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1w8wtx5/is_ai_automation_worth_it_in_2026/",
-      "external_url": "/r/BotNation/comments/1w8wp7i/is_ai_automation_worth_it_in_2026/",
+      "created_utc": "2026-09-07T22:59:02.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wa78yo/how_difficult_is_acting_as_a_retainer_for_your/",
+      "external_url": null,
+      "excerpt": "Please let me know if you've sold to AI Automation & a freelancer (not an agency owner). Do you act as a retainer (maintenance and monitoring) for your clients? If so (basically, how stressful is it):…"
+    },
+    {
+      "title": "Most AI automations break the same way, they run great until something in the workflow silently goes wrong",
+      "author": "camerongreen95",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-08T08:41:58.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1waiqi2/most_ai_automations_break_the_same_way_they_run/",
+      "external_url": null,
+      "excerpt": "Kept seeing this pattern in automations that lean on LLMs or agents somewhere in the chain. Works fine for weeks, then one step returns something slightly off, and instead of catching it, the automati…"
+    },
+    {
+      "title": "Who coordinates the robots when nobody owns the whole fleet?",
+      "author": "controlbeyond",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-08T02:19:30.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wabox6/who_coordinates_the_robots_when_nobody_owns_the/",
+      "external_url": null,
+      "excerpt": "A robot can be very capable on its own and still be difficult to use as part of a larger system. That's something I've noticed more and more in real deployments. Different robots have different dimens…"
+    },
+    {
+      "title": "Tiiny x Omnigent: Mix and Match Your AI Agents",
+      "author": "TiinyAI",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-08T04:31:35.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1waeceh/tiiny_x_omnigent_mix_and_match_your_ai_agents/",
+      "external_url": "https://i.redd.it/gbp651a5q7oh1.png",
       "excerpt": ""
     }
   ]
