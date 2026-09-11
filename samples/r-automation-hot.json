@@ -1,18 +1,58 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-09-10T11:19:03.570Z",
+  "fetched_at": "2026-09-11T11:20:45.104Z",
   "count": 10,
   "posts": [
     {
-      "title": "Does GEO work differently for MENA / non-US markets?",
-      "author": "trueharshit",
+      "title": "A shared API key broke five of my workflows at once and it changed how I handle keys now",
+      "author": "KlutzyKlutz",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-10T09:05:41.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wcdsai/does_geo_work_differently_for_mena_nonus_markets/",
+      "created_utc": "2026-09-10T21:43:57.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wcwuez/a_shared_api_key_broke_five_of_my_workflows_at/",
       "external_url": null,
-      "excerpt": "We're a B2B SaaS based in Dubai, selling to US/EU and Russian-speaking clients. Been working with an AEO agency (HumansWith.AI) on our AI visibility, and I've learned some things about non-US markets…"
+      "excerpt": "A while back I did the lazy thing and used one API key across every workflow that touched the same service. Then one day all of them stopped working at the same time. Took me a bit to understand why,…"
+    },
+    {
+      "title": "Peec alternatives that help you act, not just watch?",
+      "author": "-_-Trainer_Blue-_-",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-11T08:31:20.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wdab5e/peec_alternatives_that_help_you_act_not_just_watch/",
+      "external_url": null,
+      "excerpt": "Used Peec for a few months. Fine for the basics, but two gripes keep coming back: · I don't want to type prompts in manually. Just show me where my brand appears. · The data is there, but turning it i…"
+    },
+    {
+      "title": "Can You Do Automation Freelancing Without Experience?",
+      "author": "RelationshipSad4168",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-10T17:45:49.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wcq907/can_you_do_automation_freelancing_without/",
+      "external_url": null,
+      "excerpt": "How did you all break into the industry? I am coming from a dead end IT diploma, and want to upskill myself into a job, freelance or not. Any suggestions? Or do you really need an “in” through industr…"
+    },
+    {
+      "title": "Seeking advice on AI ideas for internal company use.",
+      "author": "AccomplishedLunch468",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-11T05:59:13.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wd7oxr/seeking_advice_on_ai_ideas_for_internal_company/",
+      "external_url": "/r/developersIndia/comments/1wd66qa/seeking_advice_on_ai_ideas_for_internal_company/",
+      "excerpt": ""
+    },
+    {
+      "title": "How many active workflows are you running in n8n right now and what's the wildest one?",
+      "author": "highmountainwizard",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-10T21:12:25.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wcw0z1/how_many_active_workflows_are_you_running_in_n8n/",
+      "external_url": null,
+      "excerpt": "Some folks run 2 or 3 simple things, others have dozens quietly working in the background. How many active workflows do you have running right now? And more fun than the number, what's the strangest o…"
     },
     {
       "title": "every automation demo starts with perfect data. my business starts with “hey quick question” in an email",
@@ -25,84 +65,44 @@
       "excerpt": "automation demos always start somewhere beautiful \"new row added\" \"form submitted\" \"when status=approved\" meanwhile actual business input is: followed by 11 emails, a pdf called FINAL_v7, and somebody…"
     },
     {
-      "title": "Unpopular opinion: most SMBs are not ready for AI",
-      "author": "tototoru",
+      "title": "In almost 10 years of leading outbound teams, I found that all the automation “tactics” that made quick money had a short half-life",
+      "author": "cosankov",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-09T18:23:51.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wbtqb6/unpopular_opinion_most_smbs_are_not_ready_for_ai/",
+      "created_utc": "2026-09-10T15:51:51.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wcn21a/in_almost_10_years_of_leading_outbound_teams_i/",
       "external_url": null,
-      "excerpt": "Pick any process in the business and ask two people how it gets completed, start to finish. Write the steps down and see whether they agree on the written version. Across the businesses we have worked…"
+      "excerpt": "Something I've seen play out exactly the same in the B2B business is the quick succession of fads that generate traction seemingly out of nowhere and aim for that brief popularity of being the ones th…"
     },
     {
-      "title": "I built At0mFlow to make inherited automations easier to understand before anyone changes them",
-      "author": "fradan12",
+      "title": "How to automate B2B lead pipeline without duct-taping 5 different tools together",
+      "author": "sibraan_",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-10T11:06:29.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wcg1iu/i_built_at0mflow_to_make_inherited_automations/",
-      "external_url": "/r/SideProject/comments/1wcg1by/i_built_at0mflow_to_make_inherited_automations/",
-      "excerpt": ""
+      "created_utc": "2026-09-10T20:21:10.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wcunie/how_to_automate_b2b_lead_pipeline_without/",
+      "external_url": null,
+      "excerpt": "The standard modern GTM stack has become an operational nightmare where a typical signal-based setup usually looks like this: One tool to scrape job postings or social mentions. Webhooks pushed into Z…"
     },
     {
-      "title": "Custom UI Code vs ToolJet/Retool",
-      "author": "Fine-Market9841",
+      "title": "Does GEO work differently for MENA / non-US markets?",
+      "author": "trueharshit",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-10T00:28:52.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wc3gd2/custom_ui_code_vs_tooljetretool/",
+      "created_utc": "2026-09-10T09:05:41.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wcdsai/does_geo_work_differently_for_mena_nonus_markets/",
       "external_url": null,
-      "excerpt": "My stack for building workflows and internal tools is Python. Can ToolJet or Retool be used by EU freelancers (I plan to use client credentials, not my own)? So I wanted to know: FastAPI + Retool vs D…"
+      "excerpt": "We're a B2B SaaS based in Dubai, selling to US/EU and Russian-speaking clients. Been working with an AEO agency (HumansWith.AI) on our AI visibility, and I've learned some things about non-US markets…"
     },
     {
-      "title": "I am building free automation from any real business to collect good reviews for my freelance buisness.",
-      "author": "Any_Amount_106",
+      "title": "For AI data extraction, missing, zero, and not applicable need different outcomes",
+      "author": "OriginalHospital",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-09T16:06:08.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wbptph/i_am_building_free_automation_from_any_real/",
+      "created_utc": "2026-09-10T11:52:40.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wcgzcj/for_ai_data_extraction_missing_zero_and_not/",
       "external_url": null,
-      "excerpt": "Hi I am a Professional developer working full time as software engineer. I am looking to start work as freelancer. To gain some experience I am offering free service to real business in exchange for r…"
-    },
-    {
-      "title": "AI visibility jumped 40 percent in a week and that seems way too convenient",
-      "author": "Different_Pain5781",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-09T16:40:12.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wbqs37/ai_visibility_jumped_40_percent_in_a_week_and/",
-      "external_url": null,
-      "excerpt": "AI visibility across three assistants jumped 40 percent in one week. Nothing shipped that week. No campaign. No coverage. Just a sudden jump. Then I noticed the datasets seem to get expanded periodica…"
-    },
-    {
-      "title": "What is the best automation tool for Wordpress and Shopify blogs?",
-      "author": "No-Marionberry8257",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-09T08:46:04.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wbfyrt/what_is_the_best_automation_tool_for_wordpress/",
-      "external_url": null,
-      "excerpt": "Hi all- I am looking to automate blogs for Wordpress and Shopify for my clients. Goal is to signal activity, and improve Google ranking and visibility on platforms like ChatGPT. Any pointers? Thanks i…"
-    },
-    {
-      "title": "Multiple agents in browser/systems",
-      "author": "Necessary-Raisin-282",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-09T17:00:24.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wbrcoj/multiple_agents_in_browsersystems/",
-      "external_url": null,
-      "excerpt": "I’ve got some automations set up for day job 1 but my agents keep competing for access to my browser. Whoever’s the first agent in doesn’t let the next in, tried using edge in chatgpt and that for som…"
-    },
-    {
-      "title": "How to automate Google searches with Google AI",
-      "author": "Twenty069",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-09T10:06:37.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wbhdg6/how_to_automate_google_searches_with_google_ai/",
-      "external_url": null,
-      "excerpt": "Hi, I'm currently building a database focused specifically on sport-related businesses. I used Claude Cowork to identify companies, and it also found a few relevant contacts. When I search for a compa…"
+      "excerpt": "Here is a small design choice worth making before connecting an LLM extractor to a spreadsheet or workflow: what does an empty field mean? Imagine extracting quantities from supplier emails. \"We canno…"
     }
   ]
 }
