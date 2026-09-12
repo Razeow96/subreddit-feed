@@ -1,18 +1,68 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-09-11T11:20:45.104Z",
+  "fetched_at": "2026-09-12T10:46:04.223Z",
   "count": 10,
   "posts": [
     {
-      "title": "A shared API key broke five of my workflows at once and it changed how I handle keys now",
-      "author": "KlutzyKlutz",
+      "title": "In an AI email workflow, a forwarded request is not automatically a new request",
+      "author": "OriginalHospital",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-10T21:43:57.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wcwuez/a_shared_api_key_broke_five_of_my_workflows_at/",
+      "created_utc": "2026-09-12T07:20:06.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1we5t02/in_an_ai_email_workflow_a_forwarded_request_is/",
       "external_url": null,
-      "excerpt": "A while back I did the lazy thing and used one API key across every workflow that touched the same service. Then one day all of them stopped working at the same time. Took me a bit to understand why,…"
+      "excerpt": "A fictional workflow: a customer emails \"please change my delivery address.\" An employee forwards the email to operations, and the customer later replies \"thanks\" with the original message quoted unde…"
+    },
+    {
+      "title": "Ocr / extraction help",
+      "author": "Competitive_Pop9002",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-11T18:32:58.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wdokwx/ocr_extraction_help/",
+      "external_url": null,
+      "excerpt": "I might be behind or just clueless. But what are you guys using for OCR/data extraction now? i’m using claude/gemini but it’s making mistakes and I run out of credits like super fast. I need to pull s…"
+    },
+    {
+      "title": "An AI workflow dry run should show the messages it would send, not just the rows it would change",
+      "author": "OriginalHospital",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-11T20:02:42.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wdr3gf/an_ai_workflow_dry_run_should_show_the_messages/",
+      "external_url": null,
+      "excerpt": "A proposed dry-run format for an AI-assisted support workflow: Input: a fictional customer asks to move a delivery to Friday. Instead of only showing \"delivery_date: Thursday -> Friday\", show three se…"
+    },
+    {
+      "title": "What are you currently automating in your company?",
+      "author": "BodyPartParty",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-11T16:29:02.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wdl4hl/what_are_you_currently_automating_in_your_company/",
+      "external_url": null,
+      "excerpt": "A few days ago, I did a post that I feel like started an interesting discussion on whether automating from the bottom-up was the right way to go? Now, I'm curious as to where you all (or rather your c…"
+    },
+    {
+      "title": "Built a competitor hiring tracker in n8n, not sure what to use for the dashboard",
+      "author": "snowingbol",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-11T13:25:53.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wdg9jv/built_a_competitor_hiring_tracker_in_n8n_not_sure/",
+      "external_url": null,
+      "excerpt": "I've been working on a small workflow to keep an eye on competitor hiring. It pulls job postings from Coresignal, has Claude tag them by department and seniority, and then saves everything into Postgr…"
+    },
+    {
+      "title": "How to make your own AI agents: Clanker Cloud",
+      "author": "tekbog",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-11T12:19:02.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wdeoj1/how_to_make_your_own_ai_agents_clanker_cloud/",
+      "external_url": null,
+      "excerpt": "Hey everyone, I'm the co-founder and CEO of Clanker Cloud, we built a new web AI Workspace where you can make your own agents and then you can use them from anywhere, including in websites and apps. W…"
     },
     {
       "title": "Peec alternatives that help you act, not just watch?",
@@ -25,14 +75,14 @@
       "excerpt": "Used Peec for a few months. Fine for the basics, but two gripes keep coming back: · I don't want to type prompts in manually. Just show me where my brand appears. · The data is there, but turning it i…"
     },
     {
-      "title": "Can You Do Automation Freelancing Without Experience?",
-      "author": "RelationshipSad4168",
+      "title": "After a bunch of AI workflows, these are the 5 money leaks I learned to watch for",
+      "author": "easybits_ai",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-10T17:45:49.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wcq907/can_you_do_automation_freelancing_without/",
-      "external_url": null,
-      "excerpt": "How did you all break into the industry? I am coming from a dead end IT diploma, and want to upskill myself into a job, freelance or not. Any suggestions? Or do you really need an “in” through industr…"
+      "created_utc": "2026-09-11T11:27:20.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wddjx1/after_a_bunch_of_ai_workflows_these_are_the_5/",
+      "external_url": "https://i.redd.it/8upu2jjblvoh1.png",
+      "excerpt": ""
     },
     {
       "title": "Seeking advice on AI ideas for internal company use.",
@@ -45,64 +95,14 @@
       "excerpt": ""
     },
     {
-      "title": "How many active workflows are you running in n8n right now and what's the wildest one?",
-      "author": "highmountainwizard",
+      "title": "A shared API key broke five of my workflows at once and it changed how I handle keys now",
+      "author": "KlutzyKlutz",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-10T21:12:25.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wcw0z1/how_many_active_workflows_are_you_running_in_n8n/",
+      "created_utc": "2026-09-10T21:43:57.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wcwuez/a_shared_api_key_broke_five_of_my_workflows_at/",
       "external_url": null,
-      "excerpt": "Some folks run 2 or 3 simple things, others have dozens quietly working in the background. How many active workflows do you have running right now? And more fun than the number, what's the strangest o…"
-    },
-    {
-      "title": "every automation demo starts with perfect data. my business starts with “hey quick question” in an email",
-      "author": "naridubs",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-10T06:24:41.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wcaz31/every_automation_demo_starts_with_perfect_data_my/",
-      "external_url": null,
-      "excerpt": "automation demos always start somewhere beautiful \"new row added\" \"form submitted\" \"when status=approved\" meanwhile actual business input is: followed by 11 emails, a pdf called FINAL_v7, and somebody…"
-    },
-    {
-      "title": "In almost 10 years of leading outbound teams, I found that all the automation “tactics” that made quick money had a short half-life",
-      "author": "cosankov",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-10T15:51:51.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wcn21a/in_almost_10_years_of_leading_outbound_teams_i/",
-      "external_url": null,
-      "excerpt": "Something I've seen play out exactly the same in the B2B business is the quick succession of fads that generate traction seemingly out of nowhere and aim for that brief popularity of being the ones th…"
-    },
-    {
-      "title": "How to automate B2B lead pipeline without duct-taping 5 different tools together",
-      "author": "sibraan_",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-10T20:21:10.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wcunie/how_to_automate_b2b_lead_pipeline_without/",
-      "external_url": null,
-      "excerpt": "The standard modern GTM stack has become an operational nightmare where a typical signal-based setup usually looks like this: One tool to scrape job postings or social mentions. Webhooks pushed into Z…"
-    },
-    {
-      "title": "Does GEO work differently for MENA / non-US markets?",
-      "author": "trueharshit",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-10T09:05:41.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wcdsai/does_geo_work_differently_for_mena_nonus_markets/",
-      "external_url": null,
-      "excerpt": "We're a B2B SaaS based in Dubai, selling to US/EU and Russian-speaking clients. Been working with an AEO agency (HumansWith.AI) on our AI visibility, and I've learned some things about non-US markets…"
-    },
-    {
-      "title": "For AI data extraction, missing, zero, and not applicable need different outcomes",
-      "author": "OriginalHospital",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-10T11:52:40.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wcgzcj/for_ai_data_extraction_missing_zero_and_not/",
-      "external_url": null,
-      "excerpt": "Here is a small design choice worth making before connecting an LLM extractor to a spreadsheet or workflow: what does an empty field mean? Imagine extracting quantities from supplier emails. \"We canno…"
+      "excerpt": "A while back I did the lazy thing and used one API key across every workflow that touched the same service. Then one day all of them stopped working at the same time. Took me a bit to understand why,…"
     }
   ]
 }
