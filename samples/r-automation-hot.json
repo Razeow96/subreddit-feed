@@ -1,9 +1,59 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-09-12T10:46:04.223Z",
+  "fetched_at": "2026-09-13T11:51:33.388Z",
   "count": 10,
   "posts": [
+    {
+      "title": "Which Email Platform Has the Best Automation Builder Right Now?",
+      "author": "polnikale",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-13T11:06:19.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wf4qnz/which_email_platform_has_the_best_automation/",
+      "external_url": "/r/AI_EmailMarketing/comments/1wf4qex/which_email_platform_has_the_best_automation/",
+      "excerpt": ""
+    },
+    {
+      "title": "When too many small automation starts adding up",
+      "author": "NOTyNoobster",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-12T16:01:49.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wegd88/when_too_many_small_automation_starts_adding_up/",
+      "external_url": null,
+      "excerpt": "So, initially my goal was to automate some small process that took a lot of my time. They were not very difficult initially but when i started adding new automation scripts then I found out that I alr…"
+    },
+    {
+      "title": "The missing automation status is \"unknown\"",
+      "author": "arthaudm",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-12T18:04:53.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wejkha/the_missing_automation_status_is_unknown/",
+      "external_url": null,
+      "excerpt": "Most workflows have success and failed. That is not enough once tools can time out, continue in the background, or lose the response after the write landed. A timeout can mean: nothing happened the ac…"
+    },
+    {
+      "title": "Built an AI lead qualifier in n8n — scores leads 1-10 vs my ICP, routes HOT/WARM/COLD, auto-replies. Sharing the structure + prompt approach",
+      "author": "Icy-Singer-6934",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-12T22:17:09.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wepzda/built_an_ai_lead_qualifier_in_n8n_scores_leads/",
+      "external_url": null,
+      "excerpt": "Been running this for a while for my agency, figured the structure might help others. Flow: Form Trigger -> Set node with my \"ideal customer\" in plain English (business, ideal client, deal breakers, b…"
+    },
+    {
+      "title": "Stop repeating the same AI prompts, Scheduled Tasks are now on SurfMind",
+      "author": "Unlikely_Resist281",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-12T13:51:43.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wed7io/stop_repeating_the_same_ai_prompts_scheduled/",
+      "external_url": "https://www.youtube.com/watch?v=RPpuSBRbr1I",
+      "excerpt": ""
+    },
     {
       "title": "In an AI email workflow, a forwarded request is not automatically a new request",
       "author": "OriginalHospital",
@@ -53,56 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1wdg9jv/built_a_competitor_hiring_tracker_in_n8n_not_sure/",
       "external_url": null,
       "excerpt": "I've been working on a small workflow to keep an eye on competitor hiring. It pulls job postings from Coresignal, has Claude tag them by department and seniority, and then saves everything into Postgr…"
-    },
-    {
-      "title": "How to make your own AI agents: Clanker Cloud",
-      "author": "tekbog",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-11T12:19:02.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wdeoj1/how_to_make_your_own_ai_agents_clanker_cloud/",
-      "external_url": null,
-      "excerpt": "Hey everyone, I'm the co-founder and CEO of Clanker Cloud, we built a new web AI Workspace where you can make your own agents and then you can use them from anywhere, including in websites and apps. W…"
-    },
-    {
-      "title": "Peec alternatives that help you act, not just watch?",
-      "author": "-_-Trainer_Blue-_-",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-11T08:31:20.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wdab5e/peec_alternatives_that_help_you_act_not_just_watch/",
-      "external_url": null,
-      "excerpt": "Used Peec for a few months. Fine for the basics, but two gripes keep coming back: · I don't want to type prompts in manually. Just show me where my brand appears. · The data is there, but turning it i…"
-    },
-    {
-      "title": "After a bunch of AI workflows, these are the 5 money leaks I learned to watch for",
-      "author": "easybits_ai",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-11T11:27:20.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wddjx1/after_a_bunch_of_ai_workflows_these_are_the_5/",
-      "external_url": "https://i.redd.it/8upu2jjblvoh1.png",
-      "excerpt": ""
-    },
-    {
-      "title": "Seeking advice on AI ideas for internal company use.",
-      "author": "AccomplishedLunch468",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-11T05:59:13.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wd7oxr/seeking_advice_on_ai_ideas_for_internal_company/",
-      "external_url": "/r/developersIndia/comments/1wd66qa/seeking_advice_on_ai_ideas_for_internal_company/",
-      "excerpt": ""
-    },
-    {
-      "title": "A shared API key broke five of my workflows at once and it changed how I handle keys now",
-      "author": "KlutzyKlutz",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-10T21:43:57.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wcwuez/a_shared_api_key_broke_five_of_my_workflows_at/",
-      "external_url": null,
-      "excerpt": "A while back I did the lazy thing and used one API key across every workflow that touched the same service. Then one day all of them stopped working at the same time. Took me a bit to understand why,…"
     }
   ]
 }
