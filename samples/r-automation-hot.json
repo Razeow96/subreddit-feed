@@ -1,18 +1,68 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-09-14T12:46:27.914Z",
+  "fetched_at": "2026-09-15T11:44:15.658Z",
   "count": 10,
   "posts": [
     {
-      "title": "What's everyone using for browser automation these days?",
-      "author": "WideSuccotash2383",
+      "title": "We talk to a lot of people automating workflows that eventually hit CAPTCHA walls — here are the patterns we keep seeing",
+      "author": "CapMonster1",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-13T20:22:12.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wfilrv/whats_everyone_using_for_browser_automation_these/",
+      "created_utc": "2026-09-15T10:23:26.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wgwgn1/we_talk_to_a_lot_of_people_automating_workflows/",
       "external_url": null,
-      "excerpt": "Getting tired of maintaining brittle scripts every time a site changes. Started testing SKYVERN recently and it's handling layout changes better than the scripts I was maintaining before. Early impres…"
+      "excerpt": "Full disclosure upfront: we're the team behind CapMonster Cloud, a CAPTCHA-solving API, so take this with that context. Not pitching anything here — just sharing what we consistently hear from people…"
+    },
+    {
+      "title": "Tried to automate my weekly coffee supplier reordering and ended up creating more work",
+      "author": "Past-Ad2067",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-14T19:53:17.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wge4qw/tried_to_automate_my_weekly_coffee_supplier/",
+      "external_url": null,
+      "excerpt": "I got tired of manually checking inventory every week before placing orders. So I set up a simple script that pulls sales data from the POS, estimates what we'll need, and generates a draft order. It…"
+    },
+    {
+      "title": "Integration developers: what are you tired of dealing with?",
+      "author": "Designer_Breath9631",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-15T09:23:25.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wgvdoe/integration_developers_what_are_you_tired_of/",
+      "external_url": null,
+      "excerpt": "Curious what kind of integration work developers here are actually getting asked to build these days. SaaS-to-SaaS? APIs? SFTP/files? Data sync? Event-driven workflows? AI/agent integrations? A few th…"
+    },
+    {
+      "title": "New OSS Codex harness optimized for privacy, simple installs, ease of use and long horizon tasks via voice control (OS World 2.0, other benchmark scores incl)",
+      "author": "demeyer1",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-15T05:08:32.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wgqzrf/new_oss_codex_harness_optimized_for_privacy/",
+      "external_url": "https://www.reddit.com/gallery/1wgifa2",
+      "excerpt": ""
+    },
+    {
+      "title": "How are n8n agencies handling client ownership without exposing their workflows?",
+      "author": "BrothaEj",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-14T22:36:53.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wgigja/how_are_n8n_agencies_handling_client_ownership/",
+      "external_url": null,
+      "excerpt": "I’m starting an automation agency and trying to figure out the best n8n setup for clients. From what I understand, if I host/manage client workflows and credentials in my own n8n instance, n8n require…"
+    },
+    {
+      "title": "I need a clear handover point for AI integration projects",
+      "author": "Certain_Pension6305",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-14T15:00:21.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wg5th7/i_need_a_clear_handover_point_for_ai_integration/",
+      "external_url": null,
+      "excerpt": "I do integration work for small businesses. For an AI order assistant, the handover I'd worry about is the first email the system can't match to the product list. I don't want the customer to need me…"
     },
     {
       "title": "We gave up on Xero search and indexed every PO",
@@ -53,56 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1wf4qnz/which_email_platform_has_the_best_automation/",
       "external_url": "/r/AI_EmailMarketing/comments/1wf4qex/which_email_platform_has_the_best_automation/",
       "excerpt": ""
-    },
-    {
-      "title": "When too many small automation starts adding up",
-      "author": "NOTyNoobster",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-12T16:01:49.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wegd88/when_too_many_small_automation_starts_adding_up/",
-      "external_url": null,
-      "excerpt": "So, initially my goal was to automate some small process that took a lot of my time. They were not very difficult initially but when i started adding new automation scripts then I found out that I alr…"
-    },
-    {
-      "title": "The missing automation status is \"unknown\"",
-      "author": "arthaudm",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-12T18:04:53.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wejkha/the_missing_automation_status_is_unknown/",
-      "external_url": null,
-      "excerpt": "Most workflows have success and failed. That is not enough once tools can time out, continue in the background, or lose the response after the write landed. A timeout can mean: nothing happened the ac…"
-    },
-    {
-      "title": "Built an AI lead qualifier in n8n — scores leads 1-10 vs my ICP, routes HOT/WARM/COLD, auto-replies. Sharing the structure + prompt approach",
-      "author": "Icy-Singer-6934",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-12T22:17:09.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wepzda/built_an_ai_lead_qualifier_in_n8n_scores_leads/",
-      "external_url": null,
-      "excerpt": "Been running this for a while for my agency, figured the structure might help others. Flow: Form Trigger -> Set node with my \"ideal customer\" in plain English (business, ideal client, deal breakers, b…"
-    },
-    {
-      "title": "Stop repeating the same AI prompts, Scheduled Tasks are now on SurfMind",
-      "author": "Unlikely_Resist281",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-12T13:51:43.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wed7io/stop_repeating_the_same_ai_prompts_scheduled/",
-      "external_url": "https://www.youtube.com/watch?v=RPpuSBRbr1I",
-      "excerpt": ""
-    },
-    {
-      "title": "In an AI email workflow, a forwarded request is not automatically a new request",
-      "author": "OriginalHospital",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-12T07:20:06.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1we5t02/in_an_ai_email_workflow_a_forwarded_request_is/",
-      "external_url": null,
-      "excerpt": "A fictional workflow: a customer emails \"please change my delivery address.\" An employee forwards the email to operations, and the customer later replies \"thanks\" with the original message quoted unde…"
     }
   ]
 }
