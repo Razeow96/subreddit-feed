@@ -1,9 +1,69 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-09-15T11:44:15.658Z",
+  "fetched_at": "2026-09-16T11:33:14.593Z",
   "count": 10,
   "posts": [
+    {
+      "title": "AI video editing automation",
+      "author": "csgeek-coder",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-16T10:49:13.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1whtryj/ai_video_editing_automation/",
+      "external_url": null,
+      "excerpt": "Most of the solutions I found for video editing using AI seem to rely on a $200 per month subscription of some AI LLM. Has anyone found an AI solution that creates tools that you can reuse without a c…"
+    },
+    {
+      "title": "How do you split a hard daily API cap across a job that runs hourly, without just guessing?",
+      "author": "OtherwiseWeekend2222",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-15T15:01:35.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wh2tof/how_do_you_split_a_hard_daily_api_cap_across_a/",
+      "external_url": null,
+      "excerpt": "Im a data guy who runs a scan on a schedule, and the API behind it has a hard cap of 150 calls a day, where one request covers 15 date combos. My job needs 28 combos, so every run costs 2 calls, and g…"
+    },
+    {
+      "title": "Learn how to automate, can anyone guide me how to pull GitHub repo make a video about it. Like tell what this repo does is there any workflow?",
+      "author": "Beginning_Flow7340",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-16T00:47:06.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1whi9xk/learn_how_to_automate_can_anyone_guide_me_how_to/",
+      "external_url": "/r/n8n/comments/1whi4li/learn_how_to_automate_can_anyone_guide_me_how_to/",
+      "excerpt": ""
+    },
+    {
+      "title": "Integration developers: what are you tired of dealing with?",
+      "author": "Designer_Breath9631",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-15T09:23:25.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wgvdoe/integration_developers_what_are_you_tired_of/",
+      "external_url": null,
+      "excerpt": "Curious what kind of integration work developers here are actually getting asked to build these days. SaaS-to-SaaS? APIs? SFTP/files? Data sync? Event-driven workflows? AI/agent integrations? A few th…"
+    },
+    {
+      "title": "Tickets 2.3.0: a self-hosted issue tracker that can also act as a coordination layer for AI agents",
+      "author": "ajbapps",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-15T18:29:39.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wh8lpv/tickets_230_a_selfhosted_issue_tracker_that_can/",
+      "external_url": "/r/OpenSourceAI/comments/1wh8jg9/tickets_230_a_selfhosted_issue_tracker_that_can/",
+      "excerpt": ""
+    },
+    {
+      "title": "I built an automated value betting tool for UK and international racing markets",
+      "author": "Yianni-S",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-15T12:03:57.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wgyh31/i_built_an_automated_value_betting_tool_for_uk/",
+      "external_url": null,
+      "excerpt": "So I built a tool that scans exchanges to find true odds of an option then also scans the bookmakers odds to find any difference. It also has many built in markers for how reliable the hard odds (true…"
+    },
     {
       "title": "We talk to a lot of people automating workflows that eventually hit CAPTCHA walls — here are the patterns we keep seeing",
       "author": "CapMonster1",
@@ -15,24 +75,14 @@
       "excerpt": "Full disclosure upfront: we're the team behind CapMonster Cloud, a CAPTCHA-solving API, so take this with that context. Not pitching anything here — just sharing what we consistently hear from people…"
     },
     {
-      "title": "Tried to automate my weekly coffee supplier reordering and ended up creating more work",
-      "author": "Past-Ad2067",
+      "title": "Before I Hand a Workflow to a Client, This Is How I Test It",
+      "author": "easybits_ai",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-14T19:53:17.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wge4qw/tried_to_automate_my_weekly_coffee_supplier/",
-      "external_url": null,
-      "excerpt": "I got tired of manually checking inventory every week before placing orders. So I set up a simple script that pulls sales data from the POS, estimates what we'll need, and generates a draft order. It…"
-    },
-    {
-      "title": "Integration developers: what are you tired of dealing with?",
-      "author": "Designer_Breath9631",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-15T09:23:25.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wgvdoe/integration_developers_what_are_you_tired_of/",
-      "external_url": null,
-      "excerpt": "Curious what kind of integration work developers here are actually getting asked to build these days. SaaS-to-SaaS? APIs? SFTP/files? Data sync? Event-driven workflows? AI/agent integrations? A few th…"
+      "created_utc": "2026-09-15T15:13:18.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wh353u/before_i_hand_a_workflow_to_a_client_this_is_how/",
+      "external_url": "https://i.redd.it/ild0l91b9pph1.jpeg",
+      "excerpt": ""
     },
     {
       "title": "New OSS Codex harness optimized for privacy, simple installs, ease of use and long horizon tasks via voice control (OS World 2.0, other benchmark scores incl)",
@@ -53,56 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1wgigja/how_are_n8n_agencies_handling_client_ownership/",
       "external_url": null,
       "excerpt": "I’m starting an automation agency and trying to figure out the best n8n setup for clients. From what I understand, if I host/manage client workflows and credentials in my own n8n instance, n8n require…"
-    },
-    {
-      "title": "I need a clear handover point for AI integration projects",
-      "author": "Certain_Pension6305",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-14T15:00:21.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wg5th7/i_need_a_clear_handover_point_for_ai_integration/",
-      "external_url": null,
-      "excerpt": "I do integration work for small businesses. For an AI order assistant, the handover I'd worry about is the first email the system can't match to the product list. I don't want the customer to need me…"
-    },
-    {
-      "title": "We gave up on Xero search and indexed every PO",
-      "author": "tototoru",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-13T16:30:06.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wfccln/we_gave_up_on_xero_search_and_indexed_every_po/",
-      "external_url": "/r/xero/comments/1wfadrm/we_gave_up_on_xero_search_and_indexed_every_po/",
-      "excerpt": ""
-    },
-    {
-      "title": "Better than AI for retail signage",
-      "author": "Pleasant_Tangelo6791",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-13T21:33:52.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wfkf5a/better_than_ai_for_retail_signage/",
-      "external_url": "https://i.redd.it/2za2p5fbwcph1.jpeg",
-      "excerpt": "Used as late as 2015. Hand painted. Effective."
-    },
-    {
-      "title": "I built a way for automations to update your iPhone Home Screen",
-      "author": "Dense-Map-406",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-13T20:03:49.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wfi447/i_built_a_way_for_automations_to_update_your/",
-      "external_url": "https://i.redd.it/rbaww319gcph1.jpeg",
-      "excerpt": "I’ve been building Glance, an iOS app where you can create dynamic Home Screen widgets and have automations or AI agents continuously push information to them. Instead of an automation ending with an…"
-    },
-    {
-      "title": "Which Email Platform Has the Best Automation Builder Right Now?",
-      "author": "polnikale",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-13T11:06:19.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wf4qnz/which_email_platform_has_the_best_automation/",
-      "external_url": "/r/AI_EmailMarketing/comments/1wf4qex/which_email_platform_has_the_best_automation/",
-      "excerpt": ""
     }
   ]
 }
