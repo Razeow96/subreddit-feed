@@ -1,108 +1,108 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-09-16T11:33:14.593Z",
+  "fetched_at": "2026-09-17T11:40:52.534Z",
   "count": 10,
   "posts": [
     {
-      "title": "AI video editing automation",
-      "author": "csgeek-coder",
+      "title": "Peec alternatives that help you act, not just watch?",
+      "author": "fr4ntic-rye",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-16T10:49:13.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1whtryj/ai_video_editing_automation/",
+      "created_utc": "2026-09-17T07:26:44.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1win461/peec_alternatives_that_help_you_act_not_just_watch/",
       "external_url": null,
-      "excerpt": "Most of the solutions I found for video editing using AI seem to rely on a $200 per month subscription of some AI LLM. Has anyone found an AI solution that creates tools that you can reuse without a c…"
+      "excerpt": "Used Peec for a few months. Fine for the basics, but two gripes keep coming back: · I don't want to type prompts in manually. Just show me where my brand appears. · The data is there, but turning it i…"
     },
     {
-      "title": "How do you split a hard daily API cap across a job that runs hourly, without just guessing?",
-      "author": "OtherwiseWeekend2222",
+      "title": "Are AI Agents Better Than Automation?",
+      "author": "Signal-Heron5805",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-15T15:01:35.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wh2tof/how_do_you_split_a_hard_daily_api_cap_across_a/",
+      "created_utc": "2026-09-16T22:04:24.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wibcgg/are_ai_agents_better_than_automation/",
       "external_url": null,
-      "excerpt": "Im a data guy who runs a scan on a schedule, and the API behind it has a hard cap of 150 calls a day, where one request covers 15 date combos. My job needs 28 combos, so every run costs 2 calls, and g…"
+      "excerpt": "I’ve been cleaning up some automations we use for sales and something feels off with how everything is becoming an AI agent now a bunch of our workflows are boring stuff like moving data, updating fie…"
     },
     {
-      "title": "Learn how to automate, can anyone guide me how to pull GitHub repo make a video about it. Like tell what this repo does is there any workflow?",
-      "author": "Beginning_Flow7340",
+      "title": "Anyone been able to message open profiles on LinkedIn?",
+      "author": "concisehacker",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-16T00:47:06.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1whi9xk/learn_how_to_automate_can_anyone_guide_me_how_to/",
-      "external_url": "/r/n8n/comments/1whi4li/learn_how_to_automate_can_anyone_guide_me_how_to/",
+      "created_utc": "2026-09-17T06:27:20.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wim31u/anyone_been_able_to_message_open_profiles_on/",
+      "external_url": null,
+      "excerpt": "Does anyone know of a platform whereby we can have our linkedin profiles message Open Profiles? HeyReach does not do this Anyone other tools that actually do this?"
+    },
+    {
+      "title": "Line-side replenishment + empty-container return. What actually works?",
+      "author": "theCOLLECTOR7250",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-17T09:27:24.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wip527/lineside_replenishment_emptycontainer_return_what/",
+      "external_url": null,
+      "excerpt": "We’re looking at automating a simple loop: deliver full bins or carts to the production line, then bring the empties back. For those already running this with AMRs, what works best for triggering jobs…"
+    },
+    {
+      "title": "Anyone else frustrated by how invisible agent work is?",
+      "author": "LeviYagami",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-16T18:22:16.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wi5blc/anyone_else_frustrated_by_how_invisible_agent/",
+      "external_url": null,
+      "excerpt": "Spent the last week with an agent building out a feature. Today the session timed out and I realized - I have no idea how to resume where we left off. All those iterations, failed attempts, tool calls…"
+    },
+    {
+      "title": "The first AI agent is easy. The fifth is where companies get into trouble.",
+      "author": "luckytobi",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-16T23:43:18.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1widong/the_first_ai_agent_is_easy_the_fifth_is_where/",
+      "external_url": "/r/AI_Agents/comments/1wid19u/the_first_ai_agent_is_easy_the_fifth_is_where/",
       "excerpt": ""
     },
     {
-      "title": "Integration developers: what are you tired of dealing with?",
-      "author": "Designer_Breath9631",
+      "title": "Peec vs Otterly vs Profound after 4 months of client work",
+      "author": "HyperVenom23",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-15T09:23:25.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wgvdoe/integration_developers_what_are_you_tired_of/",
+      "created_utc": "2026-09-16T19:39:17.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wi7hxb/peec_vs_otterly_vs_profound_after_4_months_of/",
       "external_url": null,
-      "excerpt": "Curious what kind of integration work developers here are actually getting asked to build these days. SaaS-to-SaaS? APIs? SFTP/files? Data sync? Event-driven workflows? AI/agent integrations? A few th…"
+      "excerpt": "I’ve been running AI visibility tracking for a couple of B2B clients and have rotated through the three tools I keep seeing people ask about. Short version: • Peec: best for research, IMO. It shows wh…"
     },
     {
-      "title": "Tickets 2.3.0: a self-hosted issue tracker that can also act as a coordination layer for AI agents",
-      "author": "ajbapps",
+      "title": "How did you all get your first automation client",
+      "author": "Big-Cat-3673",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-15T18:29:39.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wh8lpv/tickets_230_a_selfhosted_issue_tracker_that_can/",
-      "external_url": "/r/OpenSourceAI/comments/1wh8jg9/tickets_230_a_selfhosted_issue_tracker_that_can/",
-      "excerpt": ""
-    },
-    {
-      "title": "I built an automated value betting tool for UK and international racing markets",
-      "author": "Yianni-S",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-15T12:03:57.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wgyh31/i_built_an_automated_value_betting_tool_for_uk/",
+      "created_utc": "2026-09-16T16:32:48.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wi28rw/how_did_you_all_get_your_first_automation_client/",
       "external_url": null,
-      "excerpt": "So I built a tool that scans exchanges to find true odds of an option then also scans the bookmakers odds to find any difference. It also has many built in markers for how reliable the hard odds (true…"
+      "excerpt": "I am currently learning n8n as my automation tool and I have learned how to make end to end workflows but not stuff like custom scripts tho I will learn them later on, my worry isnt the skill gap sear…"
     },
     {
-      "title": "We talk to a lot of people automating workflows that eventually hit CAPTCHA walls — here are the patterns we keep seeing",
-      "author": "CapMonster1",
+      "title": "Most AI automations break the same way, they run great until something in the retrieval layer silently goes wrong",
+      "author": "camerongreen95",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-15T10:23:26.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wgwgn1/we_talk_to_a_lot_of_people_automating_workflows/",
+      "created_utc": "2026-09-16T21:41:57.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wias97/most_ai_automations_break_the_same_way_they_run/",
       "external_url": null,
-      "excerpt": "Full disclosure upfront: we're the team behind CapMonster Cloud, a CAPTCHA-solving API, so take this with that context. Not pitching anything here — just sharing what we consistently hear from people…"
+      "excerpt": "If you're automating anything that touches documents or records, retrieval quality is where reliability problems actually live, an automation that confidently produces a wrong answer looks a lot worse…"
     },
     {
-      "title": "Before I Hand a Workflow to a Client, This Is How I Test It",
-      "author": "easybits_ai",
+      "title": "AI to build workflows within a platform that runs and monitors them",
+      "author": "Lecontodereddit",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-15T15:13:18.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wh353u/before_i_hand_a_workflow_to_a_client_this_is_how/",
-      "external_url": "https://i.redd.it/ild0l91b9pph1.jpeg",
-      "excerpt": ""
-    },
-    {
-      "title": "New OSS Codex harness optimized for privacy, simple installs, ease of use and long horizon tasks via voice control (OS World 2.0, other benchmark scores incl)",
-      "author": "demeyer1",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-15T05:08:32.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wgqzrf/new_oss_codex_harness_optimized_for_privacy/",
-      "external_url": "https://www.reddit.com/gallery/1wgifa2",
-      "excerpt": ""
-    },
-    {
-      "title": "How are n8n agencies handling client ownership without exposing their workflows?",
-      "author": "BrothaEj",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-14T22:36:53.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wgigja/how_are_n8n_agencies_handling_client_ownership/",
+      "created_utc": "2026-09-16T20:46:44.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wi9bz5/ai_to_build_workflows_within_a_platform_that_runs/",
       "external_url": null,
-      "excerpt": "I’m starting an automation agency and trying to figure out the best n8n setup for clients. From what I understand, if I host/manage client workflows and credentials in my own n8n instance, n8n require…"
+      "excerpt": "Shared a while back here that I’ve been experimenting with building an automation tool for my team and received lots of helpful perspectives and feedback. The tool has been super useful for us but def…"
     }
   ]
 }
