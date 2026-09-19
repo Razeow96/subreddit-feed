@@ -1,9 +1,49 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-09-18T11:14:12.800Z",
+  "fetched_at": "2026-09-19T10:58:31.220Z",
   "count": 10,
   "posts": [
+    {
+      "title": "Tasket++ : Simulate your Windows actions automatically (free & open source)",
+      "author": "AmirHammoutene",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-19T04:36:10.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wkcepd/tasket_simulate_your_windows_actions/",
+      "external_url": "https://www.reddit.com/gallery/1wkcepd",
+      "excerpt": "Tasket++ lets you define your own clicks, cursor positions, keystrokes, and routines, then replay them exactly when you want. It’s a simple Windows tool that handles repetitive workflows for you: auto…"
+    },
+    {
+      "title": "Uber layoffs!",
+      "author": "swaro7",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-18T19:25:59.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wjztm8/uber_layoffs/",
+      "external_url": "https://i.redd.it/3fxrbgsixbqh1.jpeg",
+      "excerpt": ""
+    },
+    {
+      "title": "I tried automating my entire job using triage as funnel to coding agents",
+      "author": "Appropriate-Path-461",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-18T19:26:54.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wjzuii/i_tried_automating_my_entire_job_using_triage_as/",
+      "external_url": "https://i.redd.it/4dib6matxbqh1.gif",
+      "excerpt": ""
+    },
+    {
+      "title": "What’s the most useful OpenClaw automation you’ve built?",
+      "author": "techlatest_net",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-18T18:29:13.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wjy9il/whats_the_most_useful_openclaw_automation_youve/",
+      "external_url": "/r/openclaw/comments/1wisesf/whats_the_most_useful_openclaw_automation_youve/",
+      "excerpt": ""
+    },
     {
       "title": "I thought more automation = better automation. I was wrong.",
       "author": "Not-A_Bot_Probably",
@@ -45,46 +85,6 @@
       "excerpt": "This isn't a bot for grabbing limited stock. I use the same Filtrete 1900 20x25x1 HVAC filter at home and wanted a message when my local Home Depot showed it as available for pickup. The alert doesn't…"
     },
     {
-      "title": "Line-side replenishment + empty-container return. What actually works?",
-      "author": "theCOLLECTOR7250",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-17T09:27:24.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wip527/lineside_replenishment_emptycontainer_return_what/",
-      "external_url": null,
-      "excerpt": "We’re looking at automating a simple loop: deliver full bins or carts to the production line, then bring the empties back. For those already running this with AMRs, what works best for triggering jobs…"
-    },
-    {
-      "title": "Peec alternatives that help you act, not just watch?",
-      "author": "fr4ntic-rye",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-17T07:26:44.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1win461/peec_alternatives_that_help_you_act_not_just_watch/",
-      "external_url": null,
-      "excerpt": "Used Peec for a few months. Fine for the basics, but two gripes keep coming back: · I don't want to type prompts in manually. Just show me where my brand appears. · The data is there, but turning it i…"
-    },
-    {
-      "title": "Are AI Agents Better Than Automation?",
-      "author": "Signal-Heron5805",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-16T22:04:24.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wibcgg/are_ai_agents_better_than_automation/",
-      "external_url": null,
-      "excerpt": "I’ve been cleaning up some automations we use for sales and something feels off with how everything is becoming an AI agent now a bunch of our workflows are boring stuff like moving data, updating fie…"
-    },
-    {
-      "title": "Hi, i trying to build and automation for US Healthcare to in their insurance work",
-      "author": "Honest-Let-7219",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-17T17:00:00.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wiznmx/hi_i_trying_to_build_and_automation_for_us/",
-      "external_url": null,
-      "excerpt": "Recently i thought of automating prior authorisation process any suggestions if it’s a better path or not"
-    },
-    {
       "title": "Agility says Digit 5 can work roughly 20 hours a day and handle full warehouse workflows",
       "author": "Responsible-Grass452",
       "score": null,
@@ -95,14 +95,14 @@
       "excerpt": "Agility Robotics CEO Peggy Johnson talked through what’s changing with Digit 5 as the company moves toward wider commercial deployment. A few of the more practical details: payload is up to 50 pounds,…"
     },
     {
-      "title": "Anyone been able to message open profiles on LinkedIn?",
-      "author": "concisehacker",
+      "title": "Line-side replenishment + empty-container return. What actually works?",
+      "author": "theCOLLECTOR7250",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-17T06:27:20.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wim31u/anyone_been_able_to_message_open_profiles_on/",
+      "created_utc": "2026-09-17T09:27:24.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wip527/lineside_replenishment_emptycontainer_return_what/",
       "external_url": null,
-      "excerpt": "Does anyone know of a platform whereby we can have our linkedin profiles message Open Profiles? HeyReach does not do this Anyone other tools that actually do this?"
+      "excerpt": "We’re looking at automating a simple loop: deliver full bins or carts to the production line, then bring the empties back. For those already running this with AMRs, what works best for triggering jobs…"
     }
   ]
 }
