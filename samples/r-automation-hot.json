@@ -1,9 +1,39 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-09-19T10:58:31.220Z",
+  "fetched_at": "2026-09-20T11:23:15.090Z",
   "count": 10,
   "posts": [
+    {
+      "title": "Construí un grokbot gratis. ¿Qué hago ahora?",
+      "author": "Fit-Conversation856",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-20T03:58:38.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wl6ha9/construí_un_grokbot_gratis_qué_hago_ahora/",
+      "external_url": "/r/AiAutomations/comments/1wl6dtf/i_built_a_free_grokbot_what_do_i_do_now/",
+      "excerpt": ""
+    },
+    {
+      "title": "TypeSafe AI is what the software industry has been waiting for!!!",
+      "author": "BoyInDaBox89",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-19T17:29:25.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wks5q8/typesafe_ai_is_what_the_software_industry_has/",
+      "external_url": "https://i.redd.it/6xmlnr7zhiqh1.png",
+      "excerpt": ""
+    },
+    {
+      "title": "Automation engineer",
+      "author": "PhillGreen1234",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-19T11:01:04.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wkj8sf/automation_engineer/",
+      "external_url": null,
+      "excerpt": "Looking for an engineer that makes bots trying to set up a bot on macrorify but the swiper to swipe left isn't working"
+    },
     {
       "title": "Tasket++ : Simulate your Windows actions automatically (free & open source)",
       "author": "AmirHammoutene",
@@ -73,36 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1wits4u/adding_more_automation_creating_more_problems/",
       "external_url": null,
       "excerpt": "So yeaah i decided to automate some processes in order to save some time on certain repetative tasks...The thing is that in the begining it was quire esy but there were a couple of workflows which had…"
-    },
-    {
-      "title": "I moved my Home Depot pickup alert from the browser to Android",
-      "author": "Altruistic_Hat_9990",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-17T16:53:05.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wizgxg/i_moved_my_home_depot_pickup_alert_from_the/",
-      "external_url": null,
-      "excerpt": "This isn't a bot for grabbing limited stock. I use the same Filtrete 1900 20x25x1 HVAC filter at home and wanted a message when my local Home Depot showed it as available for pickup. The alert doesn't…"
-    },
-    {
-      "title": "Agility says Digit 5 can work roughly 20 hours a day and handle full warehouse workflows",
-      "author": "Responsible-Grass452",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-17T15:28:10.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wix59c/agility_says_digit_5_can_work_roughly_20_hours_a/",
-      "external_url": "https://www.automate.org/robotics/industry-insights/agility-robotics-ceo-on-the-realities-of-real-world-humanoid-deployment",
-      "excerpt": "Agility Robotics CEO Peggy Johnson talked through what’s changing with Digit 5 as the company moves toward wider commercial deployment. A few of the more practical details: payload is up to 50 pounds,…"
-    },
-    {
-      "title": "Line-side replenishment + empty-container return. What actually works?",
-      "author": "theCOLLECTOR7250",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-17T09:27:24.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wip527/lineside_replenishment_emptycontainer_return_what/",
-      "external_url": null,
-      "excerpt": "We’re looking at automating a simple loop: deliver full bins or carts to the production line, then bring the empties back. For those already running this with AMRs, what works best for triggering jobs…"
     }
   ]
 }
