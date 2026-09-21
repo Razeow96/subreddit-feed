@@ -1,9 +1,69 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-09-20T11:23:15.090Z",
+  "fetched_at": "2026-09-21T12:47:41.954Z",
   "count": 10,
   "posts": [
+    {
+      "title": "Just built an Account Health Dashboard and it works magic",
+      "author": "5hru7i",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-21T09:53:58.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wm8cjt/just_built_an_account_health_dashboard_and_it/",
+      "external_url": "/r/CustomerSuccess/comments/1wm8btc/just_built_an_account_health_dashboard_and_it/",
+      "excerpt": ""
+    },
+    {
+      "title": "Any Idea on How to Automate This?",
+      "author": "itanpiuco2020",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-21T06:32:39.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wm4xur/any_idea_on_how_to_automate_this/",
+      "external_url": "https://i.redd.it/q4n967kfitqh1.png",
+      "excerpt": "Goal: Every week, I need to extract Hook and Hold Rate of around 35 or more reels from Instagram. Facebook has its own report and can manage to extract easily. For Linkedin I am using Playwright. I am…"
+    },
+    {
+      "title": "How I automated outbound referrals for a primary care clinic",
+      "author": "connerj70",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-20T20:22:44.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wlrt39/how_i_automated_outbound_referrals_for_a_primary/",
+      "external_url": null,
+      "excerpt": "Recently I built an automation for a general practice medical clinic to help them automate their outbound referrals. How their process worked was an employee would monitor a \"post visit\" queue and eve…"
+    },
+    {
+      "title": "The issue of slavery?",
+      "author": "CDN-Social-Democrat",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-20T23:39:41.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wlwkzq/the_issue_of_slavery/",
+      "external_url": null,
+      "excerpt": "To start off I am a newbie. I am midlife and I have some basic technical awareness/education but I am by no means extremely well informed in the artificial intelligence sphere. I know terms like LLM,…"
+    },
+    {
+      "title": "I created a software that records my screen and camera like Loom, and then Claude Code edits the entire video for me (Open source)",
+      "author": "mutonbini",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-20T14:01:46.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wlhw5l/i_created_a_software_that_records_my_screen_and/",
+      "external_url": null,
+      "excerpt": "https://preview.redd.it/3ivbeb7wloqh1.png?width=1080&format=png&auto=webp&s=eb404be5a21b2cfe0b446f954dc0f376a7477b10 What it does is you record your screen with whatever you want to show and yourself,…"
+    },
+    {
+      "title": "My video automation starts after the rough cut now",
+      "author": "Typical_Word_5459",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-20T17:04:58.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wlmjn1/my_video_automation_starts_after_the_rough_cut_now/",
+      "external_url": null,
+      "excerpt": "I built the dumb version first. Script in. Shot list out. One generated clip for every line. The queue worked. The edit did not. It gave equal attention to a key visual and a sentence that was already…"
+    },
     {
       "title": "Construí un grokbot gratis. ¿Qué hago ahora?",
       "author": "Fit-Conversation856",
@@ -13,6 +73,16 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1wl6ha9/construí_un_grokbot_gratis_qué_hago_ahora/",
       "external_url": "/r/AiAutomations/comments/1wl6dtf/i_built_a_free_grokbot_what_do_i_do_now/",
       "excerpt": ""
+    },
+    {
+      "title": "Tasket++ : Simulate your Windows actions automatically (free & open source)",
+      "author": "AmirHammoutene",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-19T04:36:10.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wkcepd/tasket_simulate_your_windows_actions/",
+      "external_url": "https://www.reddit.com/gallery/1wkcepd",
+      "excerpt": "Tasket++ lets you define your own clicks, cursor positions, keystrokes, and routines, then replay them exactly when you want. It’s a simple Windows tool that handles repetitive workflows for you: auto…"
     },
     {
       "title": "TypeSafe AI is what the software industry has been waiting for!!!",
@@ -33,76 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1wkj8sf/automation_engineer/",
       "external_url": null,
       "excerpt": "Looking for an engineer that makes bots trying to set up a bot on macrorify but the swiper to swipe left isn't working"
-    },
-    {
-      "title": "Tasket++ : Simulate your Windows actions automatically (free & open source)",
-      "author": "AmirHammoutene",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-19T04:36:10.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wkcepd/tasket_simulate_your_windows_actions/",
-      "external_url": "https://www.reddit.com/gallery/1wkcepd",
-      "excerpt": "Tasket++ lets you define your own clicks, cursor positions, keystrokes, and routines, then replay them exactly when you want. It’s a simple Windows tool that handles repetitive workflows for you: auto…"
-    },
-    {
-      "title": "Uber layoffs!",
-      "author": "swaro7",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-18T19:25:59.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wjztm8/uber_layoffs/",
-      "external_url": "https://i.redd.it/3fxrbgsixbqh1.jpeg",
-      "excerpt": ""
-    },
-    {
-      "title": "I tried automating my entire job using triage as funnel to coding agents",
-      "author": "Appropriate-Path-461",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-18T19:26:54.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wjzuii/i_tried_automating_my_entire_job_using_triage_as/",
-      "external_url": "https://i.redd.it/4dib6matxbqh1.gif",
-      "excerpt": ""
-    },
-    {
-      "title": "What’s the most useful OpenClaw automation you’ve built?",
-      "author": "techlatest_net",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-18T18:29:13.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wjy9il/whats_the_most_useful_openclaw_automation_youve/",
-      "external_url": "/r/openclaw/comments/1wisesf/whats_the_most_useful_openclaw_automation_youve/",
-      "excerpt": ""
-    },
-    {
-      "title": "I thought more automation = better automation. I was wrong.",
-      "author": "Not-A_Bot_Probably",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-18T10:16:38.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wjma5g/i_thought_more_automation_better_automation_i_was/",
-      "external_url": "/r/AiAutomations/comments/1witj00/i_thought_more_automation_better_automation_i_was/",
-      "excerpt": ""
-    },
-    {
-      "title": "A free GitHub Action that flags AI slop pull requests before you review them.",
-      "author": "Available_Pressure47",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-18T03:02:52.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wjehpb/a_free_github_action_that_flags_ai_slop_pull/",
-      "external_url": "/r/LLMDevs/comments/1wjef3o/a_free_github_action_that_flags_ai_slop_pull/",
-      "excerpt": ""
-    },
-    {
-      "title": "Adding more automation creating more problems than expected..",
-      "author": "vsemill",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-17T13:18:25.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wits4u/adding_more_automation_creating_more_problems/",
-      "external_url": null,
-      "excerpt": "So yeaah i decided to automate some processes in order to save some time on certain repetative tasks...The thing is that in the begining it was quire esy but there were a couple of workflows which had…"
     }
   ]
 }
