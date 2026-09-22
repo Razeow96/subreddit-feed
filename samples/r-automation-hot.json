@@ -1,9 +1,79 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-09-21T12:47:41.954Z",
+  "fetched_at": "2026-09-22T11:38:00.768Z",
   "count": 10,
   "posts": [
+    {
+      "title": "Need help preparing for AI & Automation Manager interview",
+      "author": "Trying_AImarketing",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-22T06:16:15.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wn1hdb/need_help_preparing_for_ai_automation_manager/",
+      "external_url": null,
+      "excerpt": "Hi, I am appearing for a second round of interview for the role of for AI & Automation Manager in a financial sector company. Its a fairly big company. I don’t know how to prepare for this position as…"
+    },
+    {
+      "title": "Help needed!",
+      "author": "Hassieee",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-21T23:07:58.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wmsjdq/help_needed/",
+      "external_url": null,
+      "excerpt": "Guys im trying to create an ai assistant for my dads business but im kinda lost. Ive created accounts with many sites such as vapi, retell ai, n8n, twilio and chatgpt. Im getting somewhere after some…"
+    },
+    {
+      "title": "How to spot a good AI visibility agency (and avoid the bad ones)",
+      "author": "harij21",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-22T11:34:24.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wn6zmm/how_to_spot_a_good_ai_visibility_agency_and_avoid/",
+      "external_url": null,
+      "excerpt": "We’re hiring for AEO/GEO right now, and after a dozen calls here’s my filter: Green flags: · They show raw scans – timestamps, prompt sets, scan IDs. Not a quarterly PDF. HumansWith.AI does this – the…"
+    },
+    {
+      "title": "CapCut was taking too long, so I automated my entire YouTube Shorts workflow using FFmpeg and AI. Just hit my first 5 paying users",
+      "author": "MacMaxYT",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-21T21:08:28.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wmpioa/capcut_was_taking_too_long_so_i_automated_my/",
+      "external_url": null,
+      "excerpt": "A couple of months ago, I was proper fed up with spending hours piecing together vertical videos. I was honestly losing my mind spending forty minutes in CapCut clicking the exact same buttons just to…"
+    },
+    {
+      "title": "One thing I’ve noticed while building AI automations",
+      "author": "KeyMud9510",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-22T09:45:00.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wn4ysl/one_thing_ive_noticed_while_building_ai/",
+      "external_url": null,
+      "excerpt": "I’ve been working on Kovax Voice AI for a while now, and one thing I’ve noticed is that people don’t necessarily want to automate their entire business. A lot of the time, it’s just one annoying task…"
+    },
+    {
+      "title": "I started r/MuseAssistant — a community for Meta's Muse AI assistant 👋",
+      "author": "toohightottype",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-22T03:57:25.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wmywuz/i_started_rmuseassistant_a_community_for_metas/",
+      "external_url": null,
+      "excerpt": "Hey everyone! I just launched r/MuseAssistant , a new community dedicated to Meta's Muse — the personal AI assistant. It's a place to share tips, news, builds, and automation workflows, and help each…"
+    },
+    {
+      "title": "Best way to automate: Excel input → AI script → animation prompts → title/description?",
+      "author": "kabeeerkepohe",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-21T17:00:29.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wmikzr/best_way_to_automate_excel_input_ai_script/",
+      "external_url": null,
+      "excerpt": "Trying to build a workflow where I drop a video theme into an Excel row and it automatically: Writes a 2-3 min YouTube script in my style (ideally with some kind of review/revise pass so it's not just…"
+    },
     {
       "title": "Just built an Account Health Dashboard and it works magic",
       "author": "5hru7i",
@@ -33,76 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1wlrt39/how_i_automated_outbound_referrals_for_a_primary/",
       "external_url": null,
       "excerpt": "Recently I built an automation for a general practice medical clinic to help them automate their outbound referrals. How their process worked was an employee would monitor a \"post visit\" queue and eve…"
-    },
-    {
-      "title": "The issue of slavery?",
-      "author": "CDN-Social-Democrat",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-20T23:39:41.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wlwkzq/the_issue_of_slavery/",
-      "external_url": null,
-      "excerpt": "To start off I am a newbie. I am midlife and I have some basic technical awareness/education but I am by no means extremely well informed in the artificial intelligence sphere. I know terms like LLM,…"
-    },
-    {
-      "title": "I created a software that records my screen and camera like Loom, and then Claude Code edits the entire video for me (Open source)",
-      "author": "mutonbini",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-20T14:01:46.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wlhw5l/i_created_a_software_that_records_my_screen_and/",
-      "external_url": null,
-      "excerpt": "https://preview.redd.it/3ivbeb7wloqh1.png?width=1080&format=png&auto=webp&s=eb404be5a21b2cfe0b446f954dc0f376a7477b10 What it does is you record your screen with whatever you want to show and yourself,…"
-    },
-    {
-      "title": "My video automation starts after the rough cut now",
-      "author": "Typical_Word_5459",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-20T17:04:58.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wlmjn1/my_video_automation_starts_after_the_rough_cut_now/",
-      "external_url": null,
-      "excerpt": "I built the dumb version first. Script in. Shot list out. One generated clip for every line. The queue worked. The edit did not. It gave equal attention to a key visual and a sentence that was already…"
-    },
-    {
-      "title": "Construí un grokbot gratis. ¿Qué hago ahora?",
-      "author": "Fit-Conversation856",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-20T03:58:38.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wl6ha9/construí_un_grokbot_gratis_qué_hago_ahora/",
-      "external_url": "/r/AiAutomations/comments/1wl6dtf/i_built_a_free_grokbot_what_do_i_do_now/",
-      "excerpt": ""
-    },
-    {
-      "title": "Tasket++ : Simulate your Windows actions automatically (free & open source)",
-      "author": "AmirHammoutene",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-19T04:36:10.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wkcepd/tasket_simulate_your_windows_actions/",
-      "external_url": "https://www.reddit.com/gallery/1wkcepd",
-      "excerpt": "Tasket++ lets you define your own clicks, cursor positions, keystrokes, and routines, then replay them exactly when you want. It’s a simple Windows tool that handles repetitive workflows for you: auto…"
-    },
-    {
-      "title": "TypeSafe AI is what the software industry has been waiting for!!!",
-      "author": "BoyInDaBox89",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-19T17:29:25.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wks5q8/typesafe_ai_is_what_the_software_industry_has/",
-      "external_url": "https://i.redd.it/6xmlnr7zhiqh1.png",
-      "excerpt": ""
-    },
-    {
-      "title": "Automation engineer",
-      "author": "PhillGreen1234",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-19T11:01:04.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wkj8sf/automation_engineer/",
-      "external_url": null,
-      "excerpt": "Looking for an engineer that makes bots trying to set up a bot on macrorify but the swiper to swipe left isn't working"
     }
   ]
 }
