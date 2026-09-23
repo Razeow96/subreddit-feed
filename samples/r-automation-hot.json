@@ -1,9 +1,79 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-09-22T11:38:00.768Z",
+  "fetched_at": "2026-09-23T11:36:01.458Z",
   "count": 10,
   "posts": [
+    {
+      "title": "Recommended readings on Process mapping and change management + implementing automation and AI?",
+      "author": "Admirable_Building24",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-23T06:07:56.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wnxspm/recommended_readings_on_process_mapping_and/",
+      "external_url": null,
+      "excerpt": "I am responsible for implementing automation and AI in my org I was wondering if you could suggest some books / ebooks / articles or even wikis Main challenge I face are - no mapped processes - no pro…"
+    },
+    {
+      "title": "Local AI agent or cloud-hosted agent — what are you using?",
+      "author": "techlatest_net",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-23T11:02:37.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wo2u4y/local_ai_agent_or_cloudhosted_agent_what_are_you/",
+      "external_url": "/r/hermesagent/comments/1wmcipk/local_ai_agent_or_cloudhosted_agent_what_are_you/",
+      "excerpt": ""
+    },
+    {
+      "title": "Do you run Hermes locally, in the cloud, or both?",
+      "author": "techlatest_net",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-23T11:01:07.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wo2t0n/do_you_run_hermes_locally_in_the_cloud_or_both/",
+      "external_url": "/r/hermesagent/comments/1wn5s3u/do_you_run_hermes_locally_in_the_cloud_or_both/",
+      "excerpt": ""
+    },
+    {
+      "title": "My first n8n workflow was a drinking reminder. What was yours?",
+      "author": "easybits_ai",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-23T10:22:46.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wo23bw/my_first_n8n_workflow_was_a_drinking_reminder/",
+      "external_url": "/r/n8nforbeginners/comments/1wo236v/my_first_n8n_workflow_was_a_drinking_reminder/",
+      "excerpt": ""
+    },
+    {
+      "title": "Does anyone use Cando (cando.build)?",
+      "author": "acepoole",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-23T00:27:33.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wnqvp0/does_anyone_use_cando_candobuild/",
+      "external_url": null,
+      "excerpt": "I heard good things and they just raised a bunch of money. Curious if it's worth checking out."
+    },
+    {
+      "title": "How is this channel generating/animating these visuals automatically?h",
+      "author": "Noodlecaffe",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-22T18:04:27.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wngzbz/how_is_this_channel_generatinganimating_these/",
+      "external_url": null,
+      "excerpt": "How is this channel generating/animating these visuals automatically? Channel: youtube/@kaiexplainsYT What I cannot figure out is the visual/animation side. The videos have lots of animated visuals, d…"
+    },
+    {
+      "title": "Agentic workflow automation vs plain RPA, where has the agent earned its keep for you?",
+      "author": "Powerful-Mixture-664",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-22T11:38:02.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wn7275/agentic_workflow_automation_vs_plain_rpa_where/",
+      "external_url": null,
+      "excerpt": "Every conversation this year has been about agents, and I still cant get a straight answer on where one actually beats a well built bot. We run a small automation CoE in a shared services org with a d…"
+    },
     {
       "title": "Need help preparing for AI & Automation Manager interview",
       "author": "Trying_AImarketing",
@@ -13,16 +83,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1wn1hdb/need_help_preparing_for_ai_automation_manager/",
       "external_url": null,
       "excerpt": "Hi, I am appearing for a second round of interview for the role of for AI & Automation Manager in a financial sector company. Its a fairly big company. I don’t know how to prepare for this position as…"
-    },
-    {
-      "title": "Help needed!",
-      "author": "Hassieee",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-21T23:07:58.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wmsjdq/help_needed/",
-      "external_url": null,
-      "excerpt": "Guys im trying to create an ai assistant for my dads business but im kinda lost. Ive created accounts with many sites such as vapi, retell ai, n8n, twilio and chatgpt. Im getting somewhere after some…"
     },
     {
       "title": "How to spot a good AI visibility agency (and avoid the bad ones)",
@@ -35,74 +95,14 @@
       "excerpt": "We’re hiring for AEO/GEO right now, and after a dozen calls here’s my filter: Green flags: · They show raw scans – timestamps, prompt sets, scan IDs. Not a quarterly PDF. HumansWith.AI does this – the…"
     },
     {
-      "title": "CapCut was taking too long, so I automated my entire YouTube Shorts workflow using FFmpeg and AI. Just hit my first 5 paying users",
-      "author": "MacMaxYT",
+      "title": "Everyone is moving something onto Jev this week",
+      "author": "tototoru",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-21T21:08:28.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wmpioa/capcut_was_taking_too_long_so_i_automated_my/",
+      "created_utc": "2026-09-22T14:58:33.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wnbu06/everyone_is_moving_something_onto_jev_this_week/",
       "external_url": null,
-      "excerpt": "A couple of months ago, I was proper fed up with spending hours piecing together vertical videos. I was honestly losing my mind spending forty minutes in CapCut clicking the exact same buttons just to…"
-    },
-    {
-      "title": "One thing I’ve noticed while building AI automations",
-      "author": "KeyMud9510",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-22T09:45:00.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wn4ysl/one_thing_ive_noticed_while_building_ai/",
-      "external_url": null,
-      "excerpt": "I’ve been working on Kovax Voice AI for a while now, and one thing I’ve noticed is that people don’t necessarily want to automate their entire business. A lot of the time, it’s just one annoying task…"
-    },
-    {
-      "title": "I started r/MuseAssistant — a community for Meta's Muse AI assistant 👋",
-      "author": "toohightottype",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-22T03:57:25.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wmywuz/i_started_rmuseassistant_a_community_for_metas/",
-      "external_url": null,
-      "excerpt": "Hey everyone! I just launched r/MuseAssistant , a new community dedicated to Meta's Muse — the personal AI assistant. It's a place to share tips, news, builds, and automation workflows, and help each…"
-    },
-    {
-      "title": "Best way to automate: Excel input → AI script → animation prompts → title/description?",
-      "author": "kabeeerkepohe",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-21T17:00:29.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wmikzr/best_way_to_automate_excel_input_ai_script/",
-      "external_url": null,
-      "excerpt": "Trying to build a workflow where I drop a video theme into an Excel row and it automatically: Writes a 2-3 min YouTube script in my style (ideally with some kind of review/revise pass so it's not just…"
-    },
-    {
-      "title": "Just built an Account Health Dashboard and it works magic",
-      "author": "5hru7i",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-21T09:53:58.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wm8cjt/just_built_an_account_health_dashboard_and_it/",
-      "external_url": "/r/CustomerSuccess/comments/1wm8btc/just_built_an_account_health_dashboard_and_it/",
-      "excerpt": ""
-    },
-    {
-      "title": "Any Idea on How to Automate This?",
-      "author": "itanpiuco2020",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-21T06:32:39.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wm4xur/any_idea_on_how_to_automate_this/",
-      "external_url": "https://i.redd.it/q4n967kfitqh1.png",
-      "excerpt": "Goal: Every week, I need to extract Hook and Hold Rate of around 35 or more reels from Instagram. Facebook has its own report and can manage to extract easily. For Linkedin I am using Playwright. I am…"
-    },
-    {
-      "title": "How I automated outbound referrals for a primary care clinic",
-      "author": "connerj70",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-20T20:22:44.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wlrt39/how_i_automated_outbound_referrals_for_a_primary/",
-      "external_url": null,
-      "excerpt": "Recently I built an automation for a general practice medical clinic to help them automate their outbound referrals. How their process worked was an employee would monitor a \"post visit\" queue and eve…"
+      "excerpt": "Everyone is moving something onto Jev this week. Fast, cheap, but nowhere near a frontier model if the task needs real thinking. That is the trade, and it is a good one as long as you know you are mak…"
     }
   ]
 }
