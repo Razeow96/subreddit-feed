@@ -1,9 +1,59 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-09-23T11:36:01.458Z",
+  "fetched_at": "2026-09-24T11:45:24.764Z",
   "count": 10,
   "posts": [
+    {
+      "title": "the automation failures that hurt most never threw an error. they just stopped.",
+      "author": "arthaudm",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-24T06:09:48.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wott9p/the_automation_failures_that_hurt_most_never/",
+      "external_url": null,
+      "excerpt": "errors get caught. the bad ones are silent: a cron that stopped firing after a server restart, a webhook that got disabled upstream, a token that expired so the job \"succeeded\" with zero rows. nothing…"
+    },
+    {
+      "title": "Workshop, Sep 26: designing safe write paths, state management, and provenance for AI agents",
+      "author": "camerongreen95",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-24T04:20:20.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1worupo/workshop_sep_26_designing_safe_write_paths_state/",
+      "external_url": null,
+      "excerpt": "There's a hands-on workshop on September 26 for anyone here curious about moving past building agents into actually keeping them reliable once they're writing into production. You build: A safer write…"
+    },
+    {
+      "title": "The best scraping tools I've used",
+      "author": "Rankspartanben",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-24T00:24:02.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1womxvc/the_best_scraping_tools_ive_used/",
+      "external_url": null,
+      "excerpt": "I went through a ton of providers while building my side project and I want to share some of my favorite tools! - Firecrawl: This has been the most pleasurable service. It's well-built, their support…"
+    },
+    {
+      "title": "My rule for agents vs plain automation: the agent has to remember yesterday",
+      "author": "Asly97",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-23T14:03:28.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wo6wtj/my_rule_for_agents_vs_plain_automation_the_agent/",
+      "external_url": null,
+      "excerpt": "I run a nightly lead-research agent for work. Every morning at 6 it wakes up, scrapes a list, enriches a few dozen accounts, scores them, and drops a digest in Slack. For the first two months it also…"
+    },
+    {
+      "title": "Anyone automating change approvals with AI in product lifecycle management or is it still mostly document search",
+      "author": "DapperAsi",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-23T14:33:34.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wo7oww/anyone_automating_change_approvals_with_ai_in/",
+      "external_url": null,
+      "excerpt": "I build internal automations for a hardware company of about forty people. Most of my work so far is Zapier flows and some Python glue between our ERP and shared drives. Engineering now wants AI featu…"
+    },
     {
       "title": "Recommended readings on Process mapping and change management + implementing automation and AI?",
       "author": "Admirable_Building24",
@@ -25,16 +75,6 @@
       "excerpt": ""
     },
     {
-      "title": "Do you run Hermes locally, in the cloud, or both?",
-      "author": "techlatest_net",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-23T11:01:07.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wo2t0n/do_you_run_hermes_locally_in_the_cloud_or_both/",
-      "external_url": "/r/hermesagent/comments/1wn5s3u/do_you_run_hermes_locally_in_the_cloud_or_both/",
-      "excerpt": ""
-    },
-    {
       "title": "My first n8n workflow was a drinking reminder. What was yours?",
       "author": "easybits_ai",
       "score": null,
@@ -45,14 +85,14 @@
       "excerpt": ""
     },
     {
-      "title": "Does anyone use Cando (cando.build)?",
-      "author": "acepoole",
+      "title": "Do you run Hermes locally, in the cloud, or both?",
+      "author": "techlatest_net",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-23T00:27:33.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wnqvp0/does_anyone_use_cando_candobuild/",
-      "external_url": null,
-      "excerpt": "I heard good things and they just raised a bunch of money. Curious if it's worth checking out."
+      "created_utc": "2026-09-23T11:01:07.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wo2t0n/do_you_run_hermes_locally_in_the_cloud_or_both/",
+      "external_url": "/r/hermesagent/comments/1wn5s3u/do_you_run_hermes_locally_in_the_cloud_or_both/",
+      "excerpt": ""
     },
     {
       "title": "How is this channel generating/animating these visuals automatically?h",
@@ -63,46 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1wngzbz/how_is_this_channel_generatinganimating_these/",
       "external_url": null,
       "excerpt": "How is this channel generating/animating these visuals automatically? Channel: youtube/@kaiexplainsYT What I cannot figure out is the visual/animation side. The videos have lots of animated visuals, d…"
-    },
-    {
-      "title": "Agentic workflow automation vs plain RPA, where has the agent earned its keep for you?",
-      "author": "Powerful-Mixture-664",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-22T11:38:02.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wn7275/agentic_workflow_automation_vs_plain_rpa_where/",
-      "external_url": null,
-      "excerpt": "Every conversation this year has been about agents, and I still cant get a straight answer on where one actually beats a well built bot. We run a small automation CoE in a shared services org with a d…"
-    },
-    {
-      "title": "Need help preparing for AI & Automation Manager interview",
-      "author": "Trying_AImarketing",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-22T06:16:15.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wn1hdb/need_help_preparing_for_ai_automation_manager/",
-      "external_url": null,
-      "excerpt": "Hi, I am appearing for a second round of interview for the role of for AI & Automation Manager in a financial sector company. Its a fairly big company. I don’t know how to prepare for this position as…"
-    },
-    {
-      "title": "How to spot a good AI visibility agency (and avoid the bad ones)",
-      "author": "harij21",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-22T11:34:24.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wn6zmm/how_to_spot_a_good_ai_visibility_agency_and_avoid/",
-      "external_url": null,
-      "excerpt": "We’re hiring for AEO/GEO right now, and after a dozen calls here’s my filter: Green flags: · They show raw scans – timestamps, prompt sets, scan IDs. Not a quarterly PDF. HumansWith.AI does this – the…"
-    },
-    {
-      "title": "Everyone is moving something onto Jev this week",
-      "author": "tototoru",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-22T14:58:33.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wnbu06/everyone_is_moving_something_onto_jev_this_week/",
-      "external_url": null,
-      "excerpt": "Everyone is moving something onto Jev this week. Fast, cheap, but nowhere near a frontier model if the task needs real thinking. That is the trade, and it is a good one as long as you know you are mak…"
     }
   ]
 }
