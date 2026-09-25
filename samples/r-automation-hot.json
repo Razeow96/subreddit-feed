@@ -1,9 +1,89 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-09-24T11:45:24.764Z",
+  "fetched_at": "2026-09-25T11:50:26.609Z",
   "count": 10,
   "posts": [
+    {
+      "title": "Agencies running bots for multiple clients: how do you split LLM costs per client?",
+      "author": "harij21",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-25T09:20:27.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wprn8v/agencies_running_bots_for_multiple_clients_how_do/",
+      "external_url": null,
+      "excerpt": "We build and run support and sales bots for about 10 clients. All usage goes through our own provider accounts, and every month I rebuild spend per client from logs in a spreadsheet. It's error-prone…"
+    },
+    {
+      "title": "Workshop, Sep 26-27: build practical AI agents using n8n for real-world workflows",
+      "author": "camerongreen95",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-25T06:05:46.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wpomg8/workshop_sep_2627_build_practical_ai_agents_using/",
+      "external_url": null,
+      "excerpt": "Sharing this since it fits squarely into automation territory. Hands-on virtual workshop on September 26-27, no prior n8n experience needed whether you've built your first workflow already or haven't…"
+    },
+    {
+      "title": "automation made my workflow better and somehow worse",
+      "author": "Former-Plankton8658",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-25T01:26:01.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wpjdpr/automation_made_my_workflow_better_and_somehow/",
+      "external_url": null,
+      "excerpt": "i built a small n8n workflow for feature requests coming through our feedback form. it sends everything to notion, groups similar requests, and gives me one summary each week. before that, i was diggi…"
+    },
+    {
+      "title": "Can I use my own AI with Meta Business Messaging?",
+      "author": "Zilchs",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-25T00:20:04.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wpi1ab/can_i_use_my_own_ai_with_meta_business_messaging/",
+      "external_url": null,
+      "excerpt": "I’m building a SaaS that connects to a Facebook Page via the official Messenger API. I want to use my own AI through an OpenAI-compatible API to generate replies: It would be messenger - meta webhook…"
+    },
+    {
+      "title": "I quit my job to vibe code a LinkedIn outreach automation tool from scratch, and made $8K 🚀 Here’s how to do it 👇",
+      "author": "Downtown_Pudding9728",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-25T11:19:27.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wptodr/i_quit_my_job_to_vibe_code_a_linkedin_outreach/",
+      "external_url": "https://i.redd.it/oi4siwzmhnrh1.jpeg",
+      "excerpt": "Ok so, $8k in 6 months isn’t exactly retirement money just yet (far from it), but creating a SaaS business with almost 50 active users from nothing in 6 months since launch, is something I’m proud of…"
+    },
+    {
+      "title": "Anyone automate action items from meetings via transcription?",
+      "author": "Scary-Cheek1733",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-24T13:29:47.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wp1op8/anyone_automate_action_items_from_meetings_via/",
+      "external_url": null,
+      "excerpt": "I'd like any meeting that I ever have to be recorded and automatically add my action items to my to-do list. Ideally with some details like due date. Also, I would like the notes from the meeting to b…"
+    },
+    {
+      "title": "piping raw machine alarms straight to work orders is a terrible idea",
+      "author": "Full_Collar9026",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-24T22:39:23.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wpfv4b/piping_raw_machine_alarms_straight_to_work_orders/",
+      "external_url": null,
+      "excerpt": "i watched an operator scroll past 47 automated work orders this morning without blinking. they were all system-generated from plc alarms straight to our mes. that's the holy grail of zero-touch integr…"
+    },
+    {
+      "title": "Maintenance is still the least automated part of most plants. What’s actually working for you?",
+      "author": "northplant42",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-24T16:12:49.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wp5x6e/maintenance_is_still_the_least_automated_part_of/",
+      "external_url": "/r/askpairio/comments/1wp5wsz/maintenance_is_still_the_least_automated_part_of/",
+      "excerpt": ""
+    },
     {
       "title": "the automation failures that hurt most never threw an error. they just stopped.",
       "author": "arthaudm",
@@ -23,86 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1worupo/workshop_sep_26_designing_safe_write_paths_state/",
       "external_url": null,
       "excerpt": "There's a hands-on workshop on September 26 for anyone here curious about moving past building agents into actually keeping them reliable once they're writing into production. You build: A safer write…"
-    },
-    {
-      "title": "The best scraping tools I've used",
-      "author": "Rankspartanben",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-24T00:24:02.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1womxvc/the_best_scraping_tools_ive_used/",
-      "external_url": null,
-      "excerpt": "I went through a ton of providers while building my side project and I want to share some of my favorite tools! - Firecrawl: This has been the most pleasurable service. It's well-built, their support…"
-    },
-    {
-      "title": "My rule for agents vs plain automation: the agent has to remember yesterday",
-      "author": "Asly97",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-23T14:03:28.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wo6wtj/my_rule_for_agents_vs_plain_automation_the_agent/",
-      "external_url": null,
-      "excerpt": "I run a nightly lead-research agent for work. Every morning at 6 it wakes up, scrapes a list, enriches a few dozen accounts, scores them, and drops a digest in Slack. For the first two months it also…"
-    },
-    {
-      "title": "Anyone automating change approvals with AI in product lifecycle management or is it still mostly document search",
-      "author": "DapperAsi",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-23T14:33:34.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wo7oww/anyone_automating_change_approvals_with_ai_in/",
-      "external_url": null,
-      "excerpt": "I build internal automations for a hardware company of about forty people. Most of my work so far is Zapier flows and some Python glue between our ERP and shared drives. Engineering now wants AI featu…"
-    },
-    {
-      "title": "Recommended readings on Process mapping and change management + implementing automation and AI?",
-      "author": "Admirable_Building24",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-23T06:07:56.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wnxspm/recommended_readings_on_process_mapping_and/",
-      "external_url": null,
-      "excerpt": "I am responsible for implementing automation and AI in my org I was wondering if you could suggest some books / ebooks / articles or even wikis Main challenge I face are - no mapped processes - no pro…"
-    },
-    {
-      "title": "Local AI agent or cloud-hosted agent — what are you using?",
-      "author": "techlatest_net",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-23T11:02:37.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wo2u4y/local_ai_agent_or_cloudhosted_agent_what_are_you/",
-      "external_url": "/r/hermesagent/comments/1wmcipk/local_ai_agent_or_cloudhosted_agent_what_are_you/",
-      "excerpt": ""
-    },
-    {
-      "title": "My first n8n workflow was a drinking reminder. What was yours?",
-      "author": "easybits_ai",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-23T10:22:46.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wo23bw/my_first_n8n_workflow_was_a_drinking_reminder/",
-      "external_url": "/r/n8nforbeginners/comments/1wo236v/my_first_n8n_workflow_was_a_drinking_reminder/",
-      "excerpt": ""
-    },
-    {
-      "title": "Do you run Hermes locally, in the cloud, or both?",
-      "author": "techlatest_net",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-23T11:01:07.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wo2t0n/do_you_run_hermes_locally_in_the_cloud_or_both/",
-      "external_url": "/r/hermesagent/comments/1wn5s3u/do_you_run_hermes_locally_in_the_cloud_or_both/",
-      "excerpt": ""
-    },
-    {
-      "title": "How is this channel generating/animating these visuals automatically?h",
-      "author": "Noodlecaffe",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-22T18:04:27.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wngzbz/how_is_this_channel_generatinganimating_these/",
-      "external_url": null,
-      "excerpt": "How is this channel generating/animating these visuals automatically? Channel: youtube/@kaiexplainsYT What I cannot figure out is the visual/animation side. The videos have lots of animated visuals, d…"
     }
   ]
 }
