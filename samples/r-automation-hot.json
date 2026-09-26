@@ -1,9 +1,19 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-09-25T11:50:26.609Z",
+  "fetched_at": "2026-09-26T11:24:35.730Z",
   "count": 10,
   "posts": [
+    {
+      "title": "How to Automate Crystal Reports with an LLM?",
+      "author": "Ultimitehand",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-26T05:34:49.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wqidoe/how_to_automate_crystal_reports_with_an_llm/",
+      "external_url": null,
+      "excerpt": "I'm attempting to build an MCP server that can open a Crystal Reports file, find fields, read and edit formulas, and export the file as PDF. I attempted using a computer use agent, however, this is qu…"
+    },
     {
       "title": "Agencies running bots for multiple clients: how do you split LLM costs per client?",
       "author": "harij21",
@@ -13,6 +23,26 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1wprn8v/agencies_running_bots_for_multiple_clients_how_do/",
       "external_url": null,
       "excerpt": "We build and run support and sales bots for about 10 clients. All usage goes through our own provider accounts, and every month I rebuild spend per client from logs in a spreadsheet. It's error-prone…"
+    },
+    {
+      "title": "New twitter Mobile phone verifcation Attempts at automating",
+      "author": "Charmingdark434",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-25T19:51:22.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wq6284/new_twitter_mobile_phone_verifcation_attempts_at/",
+      "external_url": "https://i.redd.it/e21exf9s0qrh1.jpeg",
+      "excerpt": ""
+    },
+    {
+      "title": "To AI or not to AI? The question is what to AI, and when.",
+      "author": "tototoru",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-25T17:31:54.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wq2isj/to_ai_or_not_to_ai_the_question_is_what_to_ai_and/",
+      "external_url": null,
+      "excerpt": "We faced that problem on an OCR project, where the products on supplier invoices had to be matched to a client's catalog. Suppliers often use their own names and SKUs, not the client's. With large-con…"
     },
     {
       "title": "Workshop, Sep 26-27: build practical AI agents using n8n for real-world workflows",
@@ -45,14 +75,14 @@
       "excerpt": "I’m building a SaaS that connects to a Facebook Page via the official Messenger API. I want to use my own AI through an OpenAI-compatible API to generate replies: It would be messenger - meta webhook…"
     },
     {
-      "title": "I quit my job to vibe code a LinkedIn outreach automation tool from scratch, and made $8K 🚀 Here’s how to do it 👇",
-      "author": "Downtown_Pudding9728",
+      "title": "piping raw machine alarms straight to work orders is a terrible idea",
+      "author": "Full_Collar9026",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-25T11:19:27.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wptodr/i_quit_my_job_to_vibe_code_a_linkedin_outreach/",
-      "external_url": "https://i.redd.it/oi4siwzmhnrh1.jpeg",
-      "excerpt": "Ok so, $8k in 6 months isn’t exactly retirement money just yet (far from it), but creating a SaaS business with almost 50 active users from nothing in 6 months since launch, is something I’m proud of…"
+      "created_utc": "2026-09-24T22:39:23.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wpfv4b/piping_raw_machine_alarms_straight_to_work_orders/",
+      "external_url": null,
+      "excerpt": "i watched an operator scroll past 47 automated work orders this morning without blinking. they were all system-generated from plc alarms straight to our mes. that's the holy grail of zero-touch integr…"
     },
     {
       "title": "Anyone automate action items from meetings via transcription?",
@@ -65,44 +95,14 @@
       "excerpt": "I'd like any meeting that I ever have to be recorded and automatically add my action items to my to-do list. Ideally with some details like due date. Also, I would like the notes from the meeting to b…"
     },
     {
-      "title": "piping raw machine alarms straight to work orders is a terrible idea",
-      "author": "Full_Collar9026",
+      "title": "I quit my job to vibe code a LinkedIn outreach automation tool from scratch, and made $8K 🚀 Here’s how to do it 👇",
+      "author": "Downtown_Pudding9728",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-24T22:39:23.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wpfv4b/piping_raw_machine_alarms_straight_to_work_orders/",
-      "external_url": null,
-      "excerpt": "i watched an operator scroll past 47 automated work orders this morning without blinking. they were all system-generated from plc alarms straight to our mes. that's the holy grail of zero-touch integr…"
-    },
-    {
-      "title": "Maintenance is still the least automated part of most plants. What’s actually working for you?",
-      "author": "northplant42",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-24T16:12:49.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wp5x6e/maintenance_is_still_the_least_automated_part_of/",
-      "external_url": "/r/askpairio/comments/1wp5wsz/maintenance_is_still_the_least_automated_part_of/",
-      "excerpt": ""
-    },
-    {
-      "title": "the automation failures that hurt most never threw an error. they just stopped.",
-      "author": "arthaudm",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-24T06:09:48.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wott9p/the_automation_failures_that_hurt_most_never/",
-      "external_url": null,
-      "excerpt": "errors get caught. the bad ones are silent: a cron that stopped firing after a server restart, a webhook that got disabled upstream, a token that expired so the job \"succeeded\" with zero rows. nothing…"
-    },
-    {
-      "title": "Workshop, Sep 26: designing safe write paths, state management, and provenance for AI agents",
-      "author": "camerongreen95",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-24T04:20:20.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1worupo/workshop_sep_26_designing_safe_write_paths_state/",
-      "external_url": null,
-      "excerpt": "There's a hands-on workshop on September 26 for anyone here curious about moving past building agents into actually keeping them reliable once they're writing into production. You build: A safer write…"
+      "created_utc": "2026-09-25T11:19:27.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wptodr/i_quit_my_job_to_vibe_code_a_linkedin_outreach/",
+      "external_url": "https://i.redd.it/oi4siwzmhnrh1.jpeg",
+      "excerpt": "Ok so, $8k in 6 months isn’t exactly retirement money just yet (far from it), but creating a SaaS business with almost 50 active users from nothing in 6 months since launch, is something I’m proud of…"
     }
   ]
 }
