@@ -1,9 +1,69 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-09-28T13:54:08.677Z",
+  "fetched_at": "2026-09-29T12:52:07.854Z",
   "count": 10,
   "posts": [
+    {
+      "title": "What are the craziest business automations you have come across so far?",
+      "author": "No-Marionberry8257",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-29T08:49:51.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wt4xd7/what_are_the_craziest_business_automations_you/",
+      "external_url": null,
+      "excerpt": "As LLMs get more and more powerful, I feel the scope and craziness of automations should definitely get crazier and crazier by day. However I haven't really seen great use cases in production yet I fe…"
+    },
+    {
+      "title": "My client wanted their entire Sales process automated because adoption was low. I tried paperclip and hyper agents, but I failed.",
+      "author": "rvy474",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-29T10:51:05.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wt6wus/my_client_wanted_their_entire_sales_process/",
+      "external_url": null,
+      "excerpt": "This was an engagement with a medium size construction tech company in the middle east, and it started off great. I was automating CRM hygiene, Proposal generation and bunch of close ended tasks for t…"
+    },
+    {
+      "title": "I'm currently working on an automation project(PDF to Excel) and am in desperate need of suggestions and options",
+      "author": "Ultra04_",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-29T06:04:05.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wt29lq/im_currently_working_on_an_automation_projectpdf/",
+      "external_url": null,
+      "excerpt": "Hello. This is my first time posting here. Apology if It breches any rules etc. let me know I will edit. I'm currently working on PDF TO EXCEL automation project. It's basically as the name suggests t…"
+    },
+    {
+      "title": "perfectly quiet pipelines are just silent garbage factories",
+      "author": "Full_Collar9026",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-29T00:20:08.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wsviiw/perfectly_quiet_pipelines_are_just_silent_garbage/",
+      "external_url": null,
+      "excerpt": "logged into the dashboard at 9am, saw 4,000 successful runs, and felt great. then i checked the database. the source api changed its date format last week, but the script didn't crash. it just happily…"
+    },
+    {
+      "title": "I built a quote run for 25 machine shops and learned to validate the supplier before asking for inventory",
+      "author": "Evening_Hawk_7470",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-28T23:23:03.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wsu8f7/i_built_a_quote_run_for_25_machine_shops_and/",
+      "external_url": null,
+      "excerpt": "I needed same-week capacity for a small CNC job, had a very old vendor list with 25 shops (thought like a third of them were closed permamently). Still, my list looked a bit useful: company name, addr…"
+    },
+    {
+      "title": "The most expensive customer-message automation bug is confirming something that never happened",
+      "author": "Equivalent_Cap8649",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-09-28T21:56:05.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wss79v/the_most_expensive_customermessage_automation_bug/",
+      "external_url": null,
+      "excerpt": "\"Done! Your appointment is Thursday.\" The bot said that. The calendar did not. Now the customer might show up on Thursday and find nothing there. We'd be angry too. So we make the bot check the calend…"
+    },
     {
       "title": "what’s the difference between a good automation and a bad one?",
       "author": "yossef_egy",
@@ -15,93 +75,33 @@
       "excerpt": "Hey guys I’m a beginner and I want to know how I can tell the difference between a good automation and a bad automation Because I can’t really see the difference since I don’t have experienc and the s…"
     },
     {
-      "title": "I’m maintaining a curated calendar of major robotics and Physical AI events. What am I missing?",
-      "author": "rgc4444",
+      "title": "AI and Automation practitioner apprenticeship",
+      "author": "Bridgeauto01",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-28T13:27:31.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wsembm/im_maintaining_a_curated_calendar_of_major/",
-      "external_url": "/r/robotics/comments/1wrm5ms/im_maintaining_a_curated_calendar_of_major/",
-      "excerpt": ""
-    },
-    {
-      "title": "Has anyone found a good way to automate customer messages without making them feel robotic?",
-      "author": "OwlZealousideal4779",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-27T16:45:35.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wrp1io/has_anyone_found_a_good_way_to_automate_customer/",
+      "created_utc": "2026-09-28T15:11:51.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wsh8z1/ai_and_automation_practitioner_apprenticeship/",
       "external_url": null,
-      "excerpt": "I’ve been thinking about this lately because a lot of businesses are automating their customer communication now, but some of the messages still feel super... automated lol. Ideally, I’d want a setup…"
+      "excerpt": "Looking at doing the AI and Automation Practitioner apprenticeship (ST1512), anyone done it or know someone who has? I'm UK based, already working in automation with a few years of RPA experience unde…"
     },
     {
-      "title": "Two dates in the meeting recaps, neither approved",
-      "author": "Temporary_Joke_7501",
+      "title": "Agent automation",
+      "author": "Remon996",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-27T19:56:48.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wrtwsr/two_dates_in_the_meeting_recaps_neither_approved/",
-      "external_url": null,
-      "excerpt": "Say a delivery team calls Wednesday the earliest possible date for a first draft. The client says Friday would be preferable. If two meeting recaps shorten those statements to \"due Wednesday\" and \"due…"
+      "created_utc": "2026-09-28T16:36:33.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wsjjur/agent_automation/",
+      "external_url": "https://github.com/MohammedJawadAliShujah/Customer-Support-Agent",
+      "excerpt": "I built a customer support agent that uses Hindsight as a persistent memory layer. The problem I wanted to solve is simple: customers shouldn't have to explain the same issue every time they contact s…"
     },
     {
-      "title": "How would you automate family inventory cards without overwriting disagreements?",
-      "author": "yawning42",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-27T14:42:20.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wrly8p/how_would_you_automate_family_inventory_cards/",
-      "external_url": null,
-      "excerpt": "I'm sketching a workflow for cataloging dozens of family objects during a move. If I merge different accounts into one neat paragraph, I could turn a guess into family history. Take a hypothetical chi…"
-    },
-    {
-      "title": "How should I start as someone in social sciences?",
-      "author": "Vivid_Complaint625",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-27T21:48:59.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wrwptv/how_should_i_start_as_someone_in_social_sciences/",
-      "external_url": "/r/AIIncomeLab/comments/1wrworx/how_should_i_start_as_someone_in_social_sciences/",
-      "excerpt": ""
-    },
-    {
-      "title": "Looking for an Automation Agency in NYC",
-      "author": "TearsP",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-27T09:27:31.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wrft26/looking_for_an_automation_agency_in_nyc/",
-      "external_url": null,
-      "excerpt": "With experience please! Thanks"
-    },
-    {
-      "title": "My browser profile suddenly won't launch, What to investigate first?",
-      "author": "H3LBRAM",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-27T04:27:02.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wrap33/my_browser_profile_suddenly_wont_launch_what_to/",
-      "external_url": null,
-      "excerpt": "I was using several Chrome profiles without any problems, but one of them suddenly stopped working. When I attempt to open it, I encounter an error message that says, \"profile could not be opened corr…"
-    },
-    {
-      "title": "What tools do you use instead of Power Automate?",
-      "author": "Famous-Substance3339",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-09-26T20:36:46.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wr0xmv/what_tools_do_you_use_instead_of_power_automate/",
-      "external_url": null,
-      "excerpt": "I'm working on setting up proper rules and structure for Power Automate at my company, separate areas for building, testing, and going live, plus who's allowed to build things. We inherited a bit of a…"
-    },
-    {
-      "title": "I built a PSN-to-WhatsApp clip bot. Now it posts reels and coaches our squad while I leave it alone.",
+      "title": "My voiceover pipeline runs with zero manual commands",
       "author": "interestingsouper",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-09-27T09:57:45.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wrgar1/i_built_a_psntowhatsapp_clip_bot_now_it_posts/",
-      "external_url": "/r/MuseDev/comments/1wrg402/i_built_a_psntowhatsapp_clip_bot_now_it_posts/",
+      "created_utc": "2026-09-28T16:23:52.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wsj7mn/my_voiceover_pipeline_runs_with_zero_manual/",
+      "external_url": "/r/MuseDev/comments/1wsj4az/my_voiceover_pipeline_runs_with_zero_manual/",
       "excerpt": ""
     }
   ]
