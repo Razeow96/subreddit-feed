@@ -1,7 +1,7 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-10-03T11:39:06.156Z",
+  "fetched_at": "2026-10-04T12:21:06.430Z",
   "count": 10,
   "posts": [
     {
@@ -15,6 +15,46 @@
       "excerpt": "Hi guys,I am planning to create a simple AI tool for people in this niche, something that can be helpful to people visiting this sub and they wish to use it for free, a simple tool that can help you i…"
     },
     {
+      "title": "built a way to automate phone apps that have no api at massive scale (ai agent support)",
+      "author": "clountaingleig1",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-03T21:08:31.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wwy2ka/built_a_way_to_automate_phone_apps_that_have_no/",
+      "external_url": null,
+      "excerpt": "half the stuff i want to automate only lives in some phone app. no api, no website, so zapier/n8n can't touch it and scraping gets you blocked pretty fast tried the usual stuff first. bluestacks was s…"
+    },
+    {
+      "title": "I'm a bit confused, I need your help",
+      "author": "XunooL",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-04T08:52:03.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wxax6y/im_a_bit_confused_i_need_your_help/",
+      "external_url": null,
+      "excerpt": "I'm gonna keep it short: I'm confused between building Automation systems for clients using no-code tools like n8n, Zapier, and Make, or using a high-code stack such as LangGraph, LangChain, Python, F…"
+    },
+    {
+      "title": "Construí una herramienta de código abierto para ejecutar agentes de IA locales de forma visual... en dispositivos viejos solo con CPU.",
+      "author": "Fit-Conversation856",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-04T06:31:52.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wx8orw/construí_una_herramienta_de_código_abierto_para/",
+      "external_url": "/r/OpenSourceAI/comments/1wx8o8y/i_built_an_opensource_tool_for_running_local_ai/",
+      "excerpt": ""
+    },
+    {
+      "title": "getting shadowbanned by a polite ai bot is worse than an angry human mod",
+      "author": "Full_Collar9026",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-03T14:07:28.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wwo50j/getting_shadowbanned_by_a_polite_ai_bot_is_worse/",
+      "external_url": null,
+      "excerpt": "i spent twenty minutes typing a sarcastic reply about cron jobs, just to watch an automated filter instantly tag it as 'low quality' and bury it forever. it probably flagged the word 'kill' when i jok…"
+    },
+    {
       "title": "Anyone who is using ECC github repo and has had a great result share your stories",
       "author": "Honest-Let-7219",
       "score": null,
@@ -25,24 +65,34 @@
       "excerpt": ""
     },
     {
-      "title": "I sent a cold email to a logistics company last month.",
-      "author": "Danielllv",
+      "title": "All the mistakes I made in the last 15 months as a full time automation provider",
+      "author": "Azerax",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-03T08:59:44.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wwij5b/i_sent_a_cold_email_to_a_logistics_company_last/",
-      "external_url": null,
-      "excerpt": "I sent a cold email to a logistics company last month. no sales deck. no long introduction. just a quick message and a working demo of an internal tool they could use to automate their daily operation…"
+      "created_utc": "2026-10-03T14:24:57.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wwojao/all_the_mistakes_i_made_in_the_last_15_months_as/",
+      "external_url": "https://i.redd.it/r2cc0s9qh9th1.png",
+      "excerpt": "MODS, I was trying to provide a technical deep dive on implementing automations and the website submission filter makes it impossible. The highlighted sentence triggered it and my post contained a few…"
     },
     {
-      "title": "Anyone automated real time guidance for support reps during live calls?",
-      "author": "rashreaction1015",
+      "title": "What if an online group be better if ai classified posts instead of simply removing them for breaking a rule?",
+      "author": "Honest-Let-7219",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-02T16:40:41.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wvyl47/anyone_automated_real_time_guidance_for_support/",
-      "external_url": null,
-      "excerpt": "We run customer support for a credit repair company and newer reps often get stuck when calls move between credit history disputes documents payments and account questions. They usually know the basic…"
+      "created_utc": "2026-10-03T12:52:12.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wwmik1/what_if_an_online_group_be_better_if_ai/",
+      "external_url": "/r/AskReddit/comments/1wwmhi2/what_if_an_online_group_be_better_if_ai/",
+      "excerpt": ""
+    },
+    {
+      "title": "What’s the point of knowing python or other languages when Claude can write the whole script?",
+      "author": "Honest-Let-7219",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-03T12:06:27.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wwlmgo/whats_the_point_of_knowing_python_or_other/",
+      "external_url": "https://i.redd.it/2a4ozjbar8th1.jpeg",
+      "excerpt": ""
     },
     {
       "title": "how I automated my way to 5 million views on instagram with one video clip.",
@@ -53,56 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1ww6yfm/how_i_automated_my_way_to_5_million_views_on/",
       "external_url": null,
       "excerpt": "I was endlessly building & building apps no one saw, and the marketing was the part I kept putting off. Because honestly it was a bit of overwhelming. So I looked at other channels that are promoting…"
-    },
-    {
-      "title": "Anyone automating invoice reminders without Zapier?",
-      "author": "Excellent-Wheel7769",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-02T18:40:37.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1ww1m1l/anyone_automating_invoice_reminders_without_zapier/",
-      "external_url": null,
-      "excerpt": "i need to chase unpaid invoices but between school runs and naps the manual follow ups keep slipping. found a simple script that checks a Google Sheet every morning and sends polite emails through Gma…"
-    },
-    {
-      "title": "Which one is your favorite?",
-      "author": "costafilh0",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-03T04:27:43.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wwe362/which_one_is_your_favorite/",
-      "external_url": "https://www.reddit.com/gallery/1ww4j9l",
-      "excerpt": ""
-    },
-    {
-      "title": "What's something you automated in your personal daily life?",
-      "author": "mavinter",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-02T15:57:13.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wvxhqg/whats_something_you_automated_in_your_personal/",
-      "external_url": null,
-      "excerpt": "Asking about everything personal - projects, research, entertainment, anything besides corporate/job-related stuff."
-    },
-    {
-      "title": "I automated a part of my job",
-      "author": "FineProfessor3364",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-02T13:00:36.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wvt6wc/i_automated_a_part_of_my_job/",
-      "external_url": null,
-      "excerpt": "I successfully built a script to automate certain repetitive things we do in excel. I’m pretty proud of the solution tbh. But I don’t know if i should inform my manager and coworkers. I’m only 2 month…"
-    },
-    {
-      "title": "Which one is your favorite?",
-      "author": "costafilh0",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-03T04:40:55.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wwebeh/which_one_is_your_favorite/",
-      "external_url": "https://www.reddit.com/gallery/1wwebeh",
-      "excerpt": "I like the original more, but the one on the live stream after the AI summit came out really nice too."
     }
   ]
 }
