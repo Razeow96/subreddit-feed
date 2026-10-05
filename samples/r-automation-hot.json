@@ -1,7 +1,7 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-10-04T12:21:06.430Z",
+  "fetched_at": "2026-10-05T14:37:23.176Z",
   "count": 10,
   "posts": [
     {
@@ -15,14 +15,24 @@
       "excerpt": "Hi guys,I am planning to create a simple AI tool for people in this niche, something that can be helpful to people visiting this sub and they wish to use it for free, a simple tool that can help you i…"
     },
     {
-      "title": "built a way to automate phone apps that have no api at massive scale (ai agent support)",
-      "author": "clountaingleig1",
+      "title": "Need help",
+      "author": "pratikshyap",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-03T21:08:31.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wwy2ka/built_a_way_to_automate_phone_apps_that_have_no/",
+      "created_utc": "2026-10-05T10:48:39.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wy5ekz/need_help/",
       "external_url": null,
-      "excerpt": "half the stuff i want to automate only lives in some phone app. no api, no website, so zapier/n8n can't touch it and scraping gets you blocked pretty fast tried the usual stuff first. bluestacks was s…"
+      "excerpt": "I need to automate a mobile app, and I'm kind of new to automation. Details of the app are given below: With Memoir, you can: • Create and organise trips with friends and family • Build and follow you…"
+    },
+    {
+      "title": "Someone asked me to automate neatly arranging bulk images into PowerPoint, so I built this",
+      "author": "Spiritual_Balance298",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-04T12:43:53.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wxet6n/someone_asked_me_to_automate_neatly_arranging/",
+      "external_url": null,
+      "excerpt": "A colleague recently asked if there was a way to automatically insert dozens of images into PowerPoint without having to manually resize, crop, and align them one by one. Doing this by hand on a 16:9…"
     },
     {
       "title": "I'm a bit confused, I need your help",
@@ -33,6 +43,26 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1wxax6y/im_a_bit_confused_i_need_your_help/",
       "external_url": null,
       "excerpt": "I'm gonna keep it short: I'm confused between building Automation systems for clients using no-code tools like n8n, Zapier, and Make, or using a high-code stack such as LangGraph, LangChain, Python, F…"
+    },
+    {
+      "title": "Testing agent workflows without connecting real accounts",
+      "author": "Common_Dream9420",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-04T14:10:34.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wxgmw4/testing_agent_workflows_without_connecting_real/",
+      "external_url": "/r/zapier/comments/1wxgmsm/testing_agent_workflows_without_connecting_real/",
+      "excerpt": ""
+    },
+    {
+      "title": "built a way to automate phone apps that have no api at massive scale (ai agent support)",
+      "author": "clountaingleig1",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-03T21:08:31.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wwy2ka/built_a_way_to_automate_phone_apps_that_have_no/",
+      "external_url": null,
+      "excerpt": "half the stuff i want to automate only lives in some phone app. no api, no website, so zapier/n8n can't touch it and scraping gets you blocked pretty fast tried the usual stuff first. bluestacks was s…"
     },
     {
       "title": "Construí una herramienta de código abierto para ejecutar agentes de IA locales de forma visual... en dispositivos viejos solo con CPU.",
@@ -73,36 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1wwojao/all_the_mistakes_i_made_in_the_last_15_months_as/",
       "external_url": "https://i.redd.it/r2cc0s9qh9th1.png",
       "excerpt": "MODS, I was trying to provide a technical deep dive on implementing automations and the website submission filter makes it impossible. The highlighted sentence triggered it and my post contained a few…"
-    },
-    {
-      "title": "What if an online group be better if ai classified posts instead of simply removing them for breaking a rule?",
-      "author": "Honest-Let-7219",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-03T12:52:12.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wwmik1/what_if_an_online_group_be_better_if_ai/",
-      "external_url": "/r/AskReddit/comments/1wwmhi2/what_if_an_online_group_be_better_if_ai/",
-      "excerpt": ""
-    },
-    {
-      "title": "What’s the point of knowing python or other languages when Claude can write the whole script?",
-      "author": "Honest-Let-7219",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-03T12:06:27.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wwlmgo/whats_the_point_of_knowing_python_or_other/",
-      "external_url": "https://i.redd.it/2a4ozjbar8th1.jpeg",
-      "excerpt": ""
-    },
-    {
-      "title": "how I automated my way to 5 million views on instagram with one video clip.",
-      "author": "Acceptable_Boot_8789",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-02T22:20:30.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1ww6yfm/how_i_automated_my_way_to_5_million_views_on/",
-      "external_url": null,
-      "excerpt": "I was endlessly building & building apps no one saw, and the marketing was the part I kept putting off. Because honestly it was a bit of overwhelming. So I looked at other channels that are promoting…"
     }
   ]
 }
