@@ -1,7 +1,7 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-10-06T13:17:52.496Z",
+  "fetched_at": "2026-10-07T13:22:43.282Z",
   "count": 10,
   "posts": [
     {
@@ -13,6 +13,76 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1wulft2/need_suggestions_for_a_simple_ai_tool/",
       "external_url": null,
       "excerpt": "Hi guys,I am planning to create a simple AI tool for people in this niche, something that can be helpful to people visiting this sub and they wish to use it for free, a simple tool that can help you i…"
+    },
+    {
+      "title": "What are the most impressive automation tools you have come across so far?",
+      "author": "lappetrice",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-07T08:02:17.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wzqslj/what_are_the_most_impressive_automation_tools_you/",
+      "external_url": null,
+      "excerpt": "Hi all- recently I tried Gamma and was super impressed with how quickly it created a presentation automatically from the data I had in a google doc. It was quite impressive to me. So I figured there s…"
+    },
+    {
+      "title": "Social media automation platform vs the 14 zaps currently holding our posting together",
+      "author": "NetNarrow8938",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-07T10:09:02.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wzspwm/social_media_automation_platform_vs_the_14_zaps/",
+      "external_url": null,
+      "excerpt": "We run social for 2 brands off one small team and somewhere along the way the posting side turned into 14 Zapier zaps, a Google Sheet as the queue and a webhook nobody remembers writing. It works unti…"
+    },
+    {
+      "title": "What's the most useful thing you've set up to run automatically?",
+      "author": "0utlawViking",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-06T18:40:15.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wzajfb/whats_the_most_useful_thing_youve_set_up_to_run/",
+      "external_url": null,
+      "excerpt": "I'm pretty new to the automation and would love to hear about some useful automations you've built with claude, n8n, zapier or any other tool. I'm especially interested in those small experiments that…"
+    },
+    {
+      "title": "why is a PLM with an open API this hard to find?",
+      "author": "Tall_Job_8568",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-07T05:04:54.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wzo033/why_is_a_plm_with_an_open_api_this_hard_to_find/",
+      "external_url": null,
+      "excerpt": "We run a small automation group and everything we touch has an API except the system holding our part data. right now someone exports a BOM to CSV twice a week and another person imports it into the E…"
+    },
+    {
+      "title": "Trying to automate some invoicing",
+      "author": "Biscuitsnblunts",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-06T15:51:06.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wz640b/trying_to_automate_some_invoicing/",
+      "external_url": null,
+      "excerpt": "Hello, looking for some assistance. Currently I track my sales on Google Sheets (staff complete a form that fills out google sheets) and at the end of each month I manually input each line item onto Q…"
+    },
+    {
+      "title": "Starting an AI automation agency. Need feedback on my demo and advice on a temporary side hustle",
+      "author": "DayBeautiful2205",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-06T21:50:27.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wzfdmx/starting_an_ai_automation_agency_need_feedback_on/",
+      "external_url": "/r/AiAutomations/comments/1wzcy1w/starting_an_ai_automation_agency_need_feedback_on/",
+      "excerpt": ""
+    },
+    {
+      "title": "Agent work mode- Cloud workaround help.",
+      "author": "BigRandy01",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-06T04:21:12.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wytcqb/agent_work_mode_cloud_workaround_help/",
+      "external_url": null,
+      "excerpt": "Hey guys, I’ve been working on a job for a client where they want me to make listing for vrbo, booking, Airbnb, and other platforms. I wanted to use chat gpt in agent mode to build these for me then I…"
     },
     {
       "title": "What is the best way to automate recurring cloud cost reporting and approvals across multiple client accounts?",
@@ -33,76 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1wz0wys/best_tools_for_process_mapping/",
       "external_url": "/r/projectmanagement/comments/1wyzdtn/best_tools_for_process_mapping/",
       "excerpt": ""
-    },
-    {
-      "title": "Agent work mode- Cloud workaround help.",
-      "author": "BigRandy01",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-06T04:21:12.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wytcqb/agent_work_mode_cloud_workaround_help/",
-      "external_url": null,
-      "excerpt": "Hey guys, I’ve been working on a job for a client where they want me to make listing for vrbo, booking, Airbnb, and other platforms. I wanted to use chat gpt in agent mode to build these for me then I…"
-    },
-    {
-      "title": "Moved our Linkeidn outreach from a chrome extension to a desktop setup",
-      "author": "LeviYagami",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-06T03:26:55.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wysdco/moved_our_linkeidn_outreach_from_a_chrome/",
-      "external_url": null,
-      "excerpt": "We were on an extension-based tool for about a year. After an account got temporarily restricted, we moved to Linked Helper. Here's what the switch actually involved, for anyone thinking about it: Set…"
-    },
-    {
-      "title": "Using GrokBot to write Power Automate workflows",
-      "author": "airylizard",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-06T00:41:22.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wyp4db/using_grokbot_to_write_power_automate_workflows/",
-      "external_url": "https://i.redd.it/zqkm3zmotqth1.png",
-      "excerpt": ""
-    },
-    {
-      "title": "Here's the sauce, and I'm a bit confused",
-      "author": "XunooL",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-05T20:51:37.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wyjxx1/heres_the_sauce_and_im_a_bit_confused/",
-      "external_url": null,
-      "excerpt": "Since I turned to using cold email outreach to get clients, I came up with two different approaches to how I should do it. So, I decided to share some sauce with you guys (it might help one or two of…"
-    },
-    {
-      "title": "Looking to make my life easier",
-      "author": "3skin3",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-06T00:35:18.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wyozqo/looking_to_make_my_life_easier/",
-      "external_url": "/r/ProductivityApps/comments/1wyoxka/looking_to_make_my_life_easier/",
-      "excerpt": ""
-    },
-    {
-      "title": "Need help",
-      "author": "pratikshyap",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-05T10:48:39.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wy5ekz/need_help/",
-      "external_url": null,
-      "excerpt": "I need to automate a mobile app, and I'm kind of new to automation. Details of the app are given below: With Memoir, you can: • Create and organise trips with friends and family • Build and follow you…"
-    },
-    {
-      "title": "How do you dedupe a guest list when half the names are family nicknames?",
-      "author": "outlets6",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-05T18:13:30.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wyftwm/how_do_you_dedupe_a_guest_list_when_half_the/",
-      "external_url": null,
-      "excerpt": "I'm trying to work out how much of a wedding guest list you can sensibly automate before you have to call somebody's mum. Take \"Linda,\" \"Aunt Linda,\" and \"Linda plus Robert\" on three rows. Those are e…"
     }
   ]
 }
