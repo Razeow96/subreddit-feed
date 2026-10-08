@@ -1,7 +1,7 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-10-07T13:22:43.282Z",
+  "fetched_at": "2026-10-08T13:28:34.584Z",
   "count": 10,
   "posts": [
     {
@@ -15,6 +15,26 @@
       "excerpt": "Hi guys,I am planning to create a simple AI tool for people in this niche, something that can be helpful to people visiting this sub and they wish to use it for free, a simple tool that can help you i…"
     },
     {
+      "title": "I built a platform that turns your trading ideas into consistent AI agents",
+      "author": "oraclechimp",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-08T13:00:00.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x0qa4w/i_built_a_platform_that_turns_your_trading_ideas/",
+      "external_url": "https://alphaground.ai",
+      "excerpt": "I've spent a lot of time trying AI trading agents. The appeal is obvious: no emotions, and you can trade your own ideas in plain English without knowing quant math. But I kept hitting one big problem,…"
+    },
+    {
+      "title": "Built an automated lead-gen agent that scrapes protected directories and scores leads",
+      "author": "InsideDebt6345",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-07T21:41:01.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x0984v/built_an_automated_leadgen_agent_that_scrapes/",
+      "external_url": null,
+      "excerpt": "I've observed that many lead-gen setups are database-only; pull from Apollo, Clay, etc., then enrich. The problem is that everyone ends up with the same stale data, and the useful sources (industry di…"
+    },
+    {
       "title": "What are the most impressive automation tools you have come across so far?",
       "author": "lappetrice",
       "score": null,
@@ -25,14 +45,44 @@
       "excerpt": "Hi all- recently I tried Gamma and was super impressed with how quickly it created a presentation automatically from the data I had in a google doc. It was quite impressive to me. So I figured there s…"
     },
     {
-      "title": "Social media automation platform vs the 14 zaps currently holding our posting together",
-      "author": "NetNarrow8938",
+      "title": "The best use of AI in brand playables",
+      "author": "dettol99perc",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-07T10:09:02.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wzspwm/social_media_automation_platform_vs_the_14_zaps/",
+      "created_utc": "2026-10-07T15:17:08.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wzz86u/the_best_use_of_ai_in_brand_playables/",
       "external_url": null,
-      "excerpt": "We run social for 2 brands off one small team and somewhere along the way the posting side turned into 14 Zapier zaps, a Google Sheet as the queue and a webhook nobody remembers writing. It works unti…"
+      "excerpt": "Quick thought on AI in playable ads. At mraid it’s totally widened our early creative funnel. We use it to brainstorm environments, storyboards, and characters before we build anything. It’s a lifesav…"
+    },
+    {
+      "title": "What is the best way to get your first few n8n automation clients?",
+      "author": "DoubtAdditional745",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-07T13:24:06.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1wzwfui/what_is_the_best_way_to_get_your_first_few_n8n/",
+      "external_url": null,
+      "excerpt": "I’ve built around 9 n8n workflows so far including an ai compliance agent lead generation systems and content automation, all self taught and mostly from my phone. I am ready to start taking on paid p…"
+    },
+    {
+      "title": "Automate everything.",
+      "author": "Heisenbergg55",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-07T23:31:55.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x0bs0n/automate_everything/",
+      "external_url": "https://i.redd.it/y0xj09m7r4uh1.jpeg",
+      "excerpt": ""
+    },
+    {
+      "title": "Document classification is the automation that makes tax season painless, here is how I set it up [Workflow Included]",
+      "author": "easybits_ai",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-07T15:54:11.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x006ja/document_classification_is_the_automation_that/",
+      "external_url": "https://i.redd.it/dobyxlowg2uh1.png",
+      "excerpt": ""
     },
     {
       "title": "What's the most useful thing you've set up to run automatically?",
@@ -53,56 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1wzo033/why_is_a_plm_with_an_open_api_this_hard_to_find/",
       "external_url": null,
       "excerpt": "We run a small automation group and everything we touch has an API except the system holding our part data. right now someone exports a BOM to CSV twice a week and another person imports it into the E…"
-    },
-    {
-      "title": "Trying to automate some invoicing",
-      "author": "Biscuitsnblunts",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-06T15:51:06.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wz640b/trying_to_automate_some_invoicing/",
-      "external_url": null,
-      "excerpt": "Hello, looking for some assistance. Currently I track my sales on Google Sheets (staff complete a form that fills out google sheets) and at the end of each month I manually input each line item onto Q…"
-    },
-    {
-      "title": "Starting an AI automation agency. Need feedback on my demo and advice on a temporary side hustle",
-      "author": "DayBeautiful2205",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-06T21:50:27.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wzfdmx/starting_an_ai_automation_agency_need_feedback_on/",
-      "external_url": "/r/AiAutomations/comments/1wzcy1w/starting_an_ai_automation_agency_need_feedback_on/",
-      "excerpt": ""
-    },
-    {
-      "title": "Agent work mode- Cloud workaround help.",
-      "author": "BigRandy01",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-06T04:21:12.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wytcqb/agent_work_mode_cloud_workaround_help/",
-      "external_url": null,
-      "excerpt": "Hey guys, I’ve been working on a job for a client where they want me to make listing for vrbo, booking, Airbnb, and other platforms. I wanted to use chat gpt in agent mode to build these for me then I…"
-    },
-    {
-      "title": "What is the best way to automate recurring cloud cost reporting and approvals across multiple client accounts?",
-      "author": "Aegiaaa",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-06T00:50:54.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wypba0/what_is_the_best_way_to_automate_recurring_cloud/",
-      "external_url": null,
-      "excerpt": "I run a cloud consultancy and I'm trying to automate routine infrastructure maintenance. The logic to detect waste and calculate actions is there , I'm just having trouble with the approval state mach…"
-    },
-    {
-      "title": "Best tools for process mapping?",
-      "author": "jzap456",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-06T12:08:52.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wz0wys/best_tools_for_process_mapping/",
-      "external_url": "/r/projectmanagement/comments/1wyzdtn/best_tools_for_process_mapping/",
-      "excerpt": ""
     }
   ]
 }
