@@ -1,7 +1,7 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-10-08T13:28:34.584Z",
+  "fetched_at": "2026-10-09T13:16:25.595Z",
   "count": 10,
   "posts": [
     {
@@ -15,94 +15,94 @@
       "excerpt": "Hi guys,I am planning to create a simple AI tool for people in this niche, something that can be helpful to people visiting this sub and they wish to use it for free, a simple tool that can help you i…"
     },
     {
-      "title": "I built a platform that turns your trading ideas into consistent AI agents",
-      "author": "oraclechimp",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-08T13:00:00.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1x0qa4w/i_built_a_platform_that_turns_your_trading_ideas/",
-      "external_url": "https://alphaground.ai",
-      "excerpt": "I've spent a lot of time trying AI trading agents. The appeal is obvious: no emotions, and you can trade your own ideas in plain English without knowing quant math. But I kept hitting one big problem,…"
-    },
-    {
-      "title": "Built an automated lead-gen agent that scrapes protected directories and scores leads",
-      "author": "InsideDebt6345",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-07T21:41:01.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1x0984v/built_an_automated_leadgen_agent_that_scrapes/",
-      "external_url": null,
-      "excerpt": "I've observed that many lead-gen setups are database-only; pull from Apollo, Clay, etc., then enrich. The problem is that everyone ends up with the same stale data, and the useful sources (industry di…"
-    },
-    {
-      "title": "What are the most impressive automation tools you have come across so far?",
-      "author": "lappetrice",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-07T08:02:17.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wzqslj/what_are_the_most_impressive_automation_tools_you/",
-      "external_url": null,
-      "excerpt": "Hi all- recently I tried Gamma and was super impressed with how quickly it created a presentation automatically from the data I had in a google doc. It was quite impressive to me. So I figured there s…"
-    },
-    {
-      "title": "The best use of AI in brand playables",
-      "author": "dettol99perc",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-07T15:17:08.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wzz86u/the_best_use_of_ai_in_brand_playables/",
-      "external_url": null,
-      "excerpt": "Quick thought on AI in playable ads. At mraid it’s totally widened our early creative funnel. We use it to brainstorm environments, storyboards, and characters before we build anything. It’s a lifesav…"
-    },
-    {
-      "title": "What is the best way to get your first few n8n automation clients?",
-      "author": "DoubtAdditional745",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-07T13:24:06.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wzwfui/what_is_the_best_way_to_get_your_first_few_n8n/",
-      "external_url": null,
-      "excerpt": "I’ve built around 9 n8n workflows so far including an ai compliance agent lead generation systems and content automation, all self taught and mostly from my phone. I am ready to start taking on paid p…"
-    },
-    {
-      "title": "Automate everything.",
-      "author": "Heisenbergg55",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-07T23:31:55.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1x0bs0n/automate_everything/",
-      "external_url": "https://i.redd.it/y0xj09m7r4uh1.jpeg",
-      "excerpt": ""
-    },
-    {
-      "title": "Document classification is the automation that makes tax season painless, here is how I set it up [Workflow Included]",
+      "title": "A client asked me for a workflow I never pitched, and that is the whole point",
       "author": "easybits_ai",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-07T15:54:11.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1x006ja/document_classification_is_the_automation_that/",
-      "external_url": "https://i.redd.it/dobyxlowg2uh1.png",
+      "created_utc": "2026-10-09T11:21:25.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x1irdf/a_client_asked_me_for_a_workflow_i_never_pitched/",
+      "external_url": "/r/n8nforbeginners/comments/1x1ir8x/a_client_asked_me_for_a_workflow_i_never_pitched/",
       "excerpt": ""
     },
     {
-      "title": "What's the most useful thing you've set up to run automatically?",
-      "author": "0utlawViking",
+      "title": "Why is sales automation still so much work?",
+      "author": "Dismal-Twist6773",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-06T18:40:15.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wzajfb/whats_the_most_useful_thing_youve_set_up_to_run/",
+      "created_utc": "2026-10-08T22:32:24.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x14usi/why_is_sales_automation_still_so_much_work/",
       "external_url": null,
-      "excerpt": "I'm pretty new to the automation and would love to hear about some useful automations you've built with claude, n8n, zapier or any other tool. I'm especially interested in those small experiments that…"
+      "excerpt": "A CRM handles the pipeline another tool takes care of enrichment, something else does account research and then you need a few automations just to keep everything connected so it sounds like a pretty…"
     },
     {
-      "title": "why is a PLM with an open API this hard to find?",
-      "author": "Tall_Job_8568",
+      "title": "Does using AI desktop operator tools trigger ban on accounts flagging bot usage?",
+      "author": "ApartDurian5715",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-07T05:04:54.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1wzo033/why_is_a_plm_with_an_open_api_this_hard_to_find/",
+      "created_utc": "2026-10-09T12:09:04.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x1joam/does_using_ai_desktop_operator_tools_trigger_ban/",
       "external_url": null,
-      "excerpt": "We run a small automation group and everything we touch has an API except the system holding our part data. right now someone exports a BOM to CSV twice a week and another person imports it into the E…"
+      "excerpt": ""
+    },
+    {
+      "title": "Using Google Sheets as the queue for a lead-enrichment pipeline: the failure modes I hit",
+      "author": "tariqosmani",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-09T05:29:37.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x1d243/using_google_sheets_as_the_queue_for_a/",
+      "external_url": "/r/AiAutomations/comments/1x1d200/using_google_sheets_as_the_queue_for_a/",
+      "excerpt": ""
+    },
+    {
+      "title": "how do you keep automation from hiding important human replies?",
+      "author": "Excellent-Wheel7769",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-09T04:59:44.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x1cjj4/how_do_you_keep_automation_from_hiding_important/",
+      "external_url": null,
+      "excerpt": "i've automated onboarding emails, document checklists, and slack invites. it saves time and customers like how quickly everything gets done. but someone recently replied to an automated welcome email…"
+    },
+    {
+      "title": "How do you handle Social media automation? AI Agents handle it best?",
+      "author": "petargeorgievv",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-08T13:45:33.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x0rc60/how_do_you_handle_social_media_automation_ai/",
+      "external_url": null,
+      "excerpt": "I see a lot of tools popping to handle your full marketing, social media generation and such. This is just marketing effort to sell some generic AI automation for you. I don't believe one size fits al…"
+    },
+    {
+      "title": "When a Zap becomes the only place your business rules are written down",
+      "author": "tototoru",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-08T17:15:58.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x0wr0m/when_a_zap_becomes_the_only_place_your_business/",
+      "external_url": "/r/zapier/comments/1x0wqrn/when_a_zap_becomes_the_only_place_your_business/",
+      "excerpt": ""
+    },
+    {
+      "title": "linkedin automation",
+      "author": "DistributionSoggy678",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-08T14:07:09.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x0ruyn/linkedin_automation/",
+      "external_url": "/r/AiAutomations/comments/1x0ruap/linkedin_automation/",
+      "excerpt": ""
+    },
+    {
+      "title": "Did Claude Haiku 5.5 Just DESTROY GPT-6.1 Luna & DeepSeek V4.1 Flash? (The 90% Price Cut Shockwave)",
+      "author": "RealOppasTV",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-08T16:41:52.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x0vuq2/did_claude_haiku_55_just_destroy_gpt61_luna/",
+      "external_url": "https://youtu.be/ZiW-BJswQg0?is=a75P-BZzaUPeIdv7",
+      "excerpt": ""
     }
   ]
 }
