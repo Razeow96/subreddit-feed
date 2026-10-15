@@ -1,7 +1,7 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-10-13T14:11:06.726Z",
+  "fetched_at": "2026-10-15T11:28:15.353Z",
   "count": 10,
   "posts": [
     {
@@ -15,94 +15,94 @@
       "excerpt": "Hi guys,I am planning to create a simple AI tool for people in this niche, something that can be helpful to people visiting this sub and they wish to use it for free, a simple tool that can help you i…"
     },
     {
-      "title": "What super annoying repetitive task have you been able to eliminate with AI/Automation so far?",
-      "author": "No-Marionberry8257",
+      "title": "Who here is running n8n AI nodes through OpenRouter or Nebius instead of the big providers?",
+      "author": "easybits_ai",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-13T08:38:43.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1x4rb15/what_super_annoying_repetitive_task_have_you_been/",
-      "external_url": null,
-      "excerpt": "I recently read a post about someone who automated their morning Slack routine using n8n and AI. They used to spend 1-2 hours scrolling through threads to figure out what shipped, what was blocked, an…"
-    },
-    {
-      "title": "What are you using to handle email in n8n automations?",
-      "author": "Bake_2543",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-13T05:16:38.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1x4o4xv/what_are_you_using_to_handle_email_in_n8n/",
-      "external_url": null,
-      "excerpt": "curious what other developers use in their n8n workflowa? especially when automations would require to send out emails and handle incoming replies? are you sticking with gmail or do you use an email a…"
-    },
-    {
-      "title": "What's the first process you automated that made a noticeable difference to your working day?",
-      "author": "Digital__Mind",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-13T09:03:37.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1x4rop1/whats_the_first_process_you_automated_that_made_a/",
-      "external_url": null,
-      "excerpt": "What's the first process you automated that made a noticeable difference to your working day?"
-    },
-    {
-      "title": "What's the most repetitive task at your job that should have been automated years ago?",
-      "author": "Digital__Mind",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-12T20:29:39.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1x4d0va/whats_the_most_repetitive_task_at_your_job_that/",
-      "external_url": null,
-      "excerpt": "What's the most repetitive task at your job that should have been automated years ago?"
-    },
-    {
-      "title": "I got a 40-minute weekly form down to about 10 minutes of checking",
-      "author": "Remarkable-Boat-2874",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-12T16:48:43.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1x471s1/i_got_a_40minute_weekly_form_down_to_about_10/",
-      "external_url": null,
-      "excerpt": "All the GPT-6 Astra talk pushed me to hand one weekly chore to an agent. I don't code and had never automated anything. Every Monday I copy payouts, fees, and refunds from my payment portal into a 12-…"
-    },
-    {
-      "title": "What I learned letting AI drive a real browser instead of writing scripts",
-      "author": "tejaskumarlol",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-12T06:07:00.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1x3u5nx/what_i_learned_letting_ai_drive_a_real_browser/",
-      "external_url": null,
-      "excerpt": "A few things I learned letting AI drive a browser instead of writing scripts: Sites change faster than selectors. Having the AI read the page each time beat maintaining scripts. Pop-ups and cookie ban…"
-    },
-    {
-      "title": "Tasket++ (new 2.1 release): Simulate your Windows actions automatically (free & open source) - Looking for testers",
-      "author": "AmirHammoutene",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-12T15:47:20.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1x45dsr/tasket_new_21_release_simulate_your_windows/",
-      "external_url": "https://www.reddit.com/gallery/1x45dsr",
-      "excerpt": "Tasket++ lets you define your own clicks, keystrokes, cursor positions and system operations, then replay them exactly when you want. It’s a simple Windows tool that handles repetitive workflows for y…"
-    },
-    {
-      "title": "Simple Twitter post automation",
-      "author": "horlofhorlof",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-11T21:38:42.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1x3kacb/simple_twitter_post_automation/",
-      "external_url": null,
-      "excerpt": "im trying to figure out how to make a very basic twitter post automation, essentially what i want to do is to have a folder or database with images and have one of those images be posted at a specific…"
-    },
-    {
-      "title": "I got sick and tired of rejection letters that I created an N8N automation that puts rejection in specific labels and removes them from my Inbox.",
-      "author": "LabStunning2538",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-11T23:56:41.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1x3n8lc/i_got_sick_and_tired_of_rejection_letters_that_i/",
-      "external_url": "https://www.reddit.com/gallery/1x3n8cg",
+      "created_utc": "2026-10-15T07:53:45.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x6fmeu/who_here_is_running_n8n_ai_nodes_through/",
+      "external_url": "/r/n8n/comments/1x6fldn/who_here_is_running_n8n_ai_nodes_through/",
       "excerpt": ""
+    },
+    {
+      "title": "Looking for software solutions and workflow automation consultants",
+      "author": "Vietcong777",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-15T02:08:12.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x69npt/looking_for_software_solutions_and_workflow/",
+      "external_url": "https://www.reddit.com/gallery/1x69npt",
+      "excerpt": "We are looking for individuals or companies experienced in recommending, providing, or implementing software solutions based on the requirements outlined in the attached image. If you have any relevan…"
+    },
+    {
+      "title": "Automation for accountants: What’s best done manually vs. by an agent",
+      "author": "MouldyArtist917",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-14T18:35:30.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x5z8hn/automation_for_accountants_whats_best_done/",
+      "external_url": null,
+      "excerpt": "As an accountant, I was a little wary of using AI at first and saw it as a bit of a threat for a long time. But once I started messing around with some of the newer bookkeeping and accounting tools, I…"
+    },
+    {
+      "title": "What's a simple automation that saved more time than a complicated project?",
+      "author": "Digital__Mind",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-14T12:39:15.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x5q4z0/whats_a_simple_automation_that_saved_more_time/",
+      "external_url": null,
+      "excerpt": "What's a simple automation that saved more time than a complicated project?"
+    },
+    {
+      "title": "The client changed the scope. The automated quote should recalculate.",
+      "author": "jkris050",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-15T04:32:09.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x6cd01/the_client_changed_the_scope_the_automated_quote/",
+      "external_url": null,
+      "excerpt": "A quote gets useful during the conversation after it is generated. “Make that six locations.” “Remove the weekend coverage.” “What happens if we double the volume?” Put those choices in editable input…"
+    },
+    {
+      "title": "What proof should an “ESD-safe” AMR provide?",
+      "author": "JerryZhi",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-15T02:04:23.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x69kz1/what_proof_should_an_esdsafe_amr_provide/",
+      "external_url": null,
+      "excerpt": "We’re evaluating AMRs for transporting electronics inside an ESD-protected area. Some vendors call their robots “ESD-safe,” but mainly mention conductive wheels and antistatic materials. What evidence…"
+    },
+    {
+      "title": "build workflow for personal use using claude",
+      "author": "Common_Dream9420",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-14T20:50:11.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x62ppj/build_workflow_for_personal_use_using_claude/",
+      "external_url": "https://github.com/fetchsandbox/playground/tree/claude/gmail-calendar-slack-workflow-whtpfn",
+      "excerpt": ""
+    },
+    {
+      "title": "built a self hostable ai support bot with an inbox and i love it",
+      "author": "ShakaLaka_Around",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-14T13:34:21.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x5rdh6/built_a_self_hostable_ai_support_bot_with_an/",
+      "external_url": null,
+      "excerpt": "so i got tired of support chatbots that just make stuff up and helpdesks that take a week to set up, so i built my own. its called momo and the core is on github now. basically you point it at your we…"
+    },
+    {
+      "title": "Fed's Williams flags AI supply chain constraints lasting over two years",
+      "author": "Valdrans",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-14T17:04:46.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x5wt3p/feds_williams_flags_ai_supply_chain_constraints/",
+      "external_url": "http://valdrans.com/r/feds-williams-flags-ai-supply-chain-constraints-lasting-over-two-years",
+      "excerpt": "New York Fed President John Williams, speaking on 14 October 2026, stated AI-related supply chain constraints could persist for more than two years and left open the possibility of further interest ra…"
     }
   ]
 }
