@@ -1,7 +1,7 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-10-16T11:23:42.705Z",
+  "fetched_at": "2026-10-17T10:43:33.298Z",
   "count": 10,
   "posts": [
     {
@@ -15,6 +15,46 @@
       "excerpt": "Hi guys,I am planning to create a simple AI tool for people in this niche, something that can be helpful to people visiting this sub and they wish to use it for free, a simple tool that can help you i…"
     },
     {
+      "title": "my favorite automations are the ones that don't need another app to keep running",
+      "author": "Excellent-Wheel7769",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-16T14:24:49.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x7hmub/my_favorite_automations_are_the_ones_that_dont/",
+      "external_url": null,
+      "excerpt": "i've been looking at everyday tasks that could be handled with a basic script instead of paying for another tool. weekly meal planning is a good example because most of the information is already sitt…"
+    },
+    {
+      "title": "What’s the smallest automation you’ve built that saved you the most time?",
+      "author": "ibrahim_40",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-16T13:27:59.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x7g869/whats_the_smallest_automation_youve_built_that/",
+      "external_url": null,
+      "excerpt": "When people talk about automation, the conversation usually jumps to big systems and complicated workflows. The thing that has helped me most was tiny. Every Monday I used to spend about 40 minutes co…"
+    },
+    {
+      "title": "Drop your SaaS and I'll find customers for you on Reddit",
+      "author": "sibraan_",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-16T20:36:39.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x7rasc/drop_your_saas_and_ill_find_customers_for_you_on/",
+      "external_url": null,
+      "excerpt": "We build market intelligence engines that track buying signals across 75+ channels, including reddit, github, linkedin, web activity, and public registers and we've been doing this for a ton of compan…"
+    },
+    {
+      "title": "Need help with automation",
+      "author": "Nasha210",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-16T19:54:13.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x7q86d/need_help_with_automation/",
+      "external_url": "/r/ChatGPT/comments/1x7q7r4/need_help_with_automation/",
+      "excerpt": "I’ve been trying to use ChatGPT Plus to extract data from my bank statements. Right now I crop out the section showing the balances, save it as an image, and ask ChatGPT to turn it into a CSV. The pro…"
+    },
+    {
       "title": "Have you used automations to monitor and act on Google Ads performance?",
       "author": "redditugo",
       "score": null,
@@ -23,6 +63,16 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1x7bv0q/have_you_used_automations_to_monitor_and_act_on/",
       "external_url": null,
       "excerpt": "I’m temporarily helping a PPC team that recently lost a few key members. They spend a lot on Google and Microsoft, and performance is somewhat unpredictable. The team is now tiny, junior, and one new…"
+    },
+    {
+      "title": "LinkedIn + email outreach: one tool or two specialized tools?",
+      "author": "No-Chard3949",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-16T04:43:40.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x77222/linkedin_email_outreach_one_tool_or_two/",
+      "external_url": null,
+      "excerpt": "Trying to decide how to set up multichannel outbound. 1 - I can take an all-in-one tool that does linkedin and email, like Expandi, Dripify or Skylead 2 - choose a a dedicated Linkedin tool plus a ded…"
     },
     {
       "title": "I needed a better and easier markdown reader",
@@ -45,16 +95,6 @@
       "excerpt": "I've been building a morning account digest in n8n that combines company updates, employee changes, and recent CRM activity. Claude turns everything into a short brief that gets sent to the account ow…"
     },
     {
-      "title": "LinkedIn + email outreach: one tool or two specialized tools?",
-      "author": "No-Chard3949",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-16T04:43:40.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1x77222/linkedin_email_outreach_one_tool_or_two/",
-      "external_url": null,
-      "excerpt": "Trying to decide how to set up multichannel outbound. 1 - I can take an all-in-one tool that does linkedin and email, like Expandi, Dripify or Skylead 2 - choose a a dedicated Linkedin tool plus a ded…"
-    },
-    {
       "title": "How do you try a new data API in an automation without committing to a plan first?",
       "author": "WalkCareful7005",
       "score": null,
@@ -63,46 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1x6peue/how_do_you_try_a_new_data_api_in_an_automation/",
       "external_url": null,
       "excerpt": "The usual way to try a new provider in a workflow (a different search API, an enrichment tool, a scraper) is: sign up, add a card, often pick a monthly plan, and then find out after ten calls it wasn'…"
-    },
-    {
-      "title": "EvoMusArt 2027: International Conference on Artificial Intelligence in Music, Sound, Art and Design",
-      "author": "evomusart_conference",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-15T15:21:07.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1x6ojh3/evomusart_2027_international_conference_on/",
-      "external_url": "https://www.evostar.org/2027/evomusart/",
-      "excerpt": "The 16th International Conference on Artificial Intelligence in Music, Sound, Art and Design (EvoMusArt 2027) is accepting paper submissions. When: 31 March – 2 April 2027 Where: Mainz, Germany Paper…"
-    },
-    {
-      "title": "I got laid off, started making videos, and automated the editing because I'm terrible at it. The bugs that hurt never threw an error",
-      "author": "ustype",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-15T14:13:42.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1x6mro5/i_got_laid_off_started_making_videos_and/",
-      "external_url": null,
-      "excerpt": "Six months ago the startup I worked for closed our Lahore office, partly because \"AI is doing a lot of the work now\". Since then I've been building things and making short videos about dev tools. Reco…"
-    },
-    {
-      "title": "Do you use scripts in your Adobe FrameMaker workflow?..",
-      "author": "TheBearManFromDK",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-15T15:02:17.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1x6o13a/do_you_use_scripts_in_your_adobe_framemaker/",
-      "external_url": "/r/technicalwriting/comments/1x6o0tv/do_you_use_scripts_in_your_adobe_framemaker/",
-      "excerpt": ""
-    },
-    {
-      "title": "Looking for 5 design partners for Sentnl",
-      "author": "Historical-Carpet388",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-15T12:29:06.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1x6kboq/looking_for_5_design_partners_for_sentnl/",
-      "external_url": "/r/n8nforbeginners/comments/1x6kbhd/looking_for_5_design_partners_for_sentnl/",
-      "excerpt": ""
     }
   ]
 }
