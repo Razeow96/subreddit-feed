@@ -1,7 +1,7 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-10-18T11:03:49.528Z",
+  "fetched_at": "2026-10-19T13:13:55.872Z",
   "count": 10,
   "posts": [
     {
@@ -15,94 +15,94 @@
       "excerpt": "Hi guys,I am planning to create a simple AI tool for people in this niche, something that can be helpful to people visiting this sub and they wish to use it for free, a simple tool that can help you i…"
     },
     {
-      "title": "Expense Handling Bot",
-      "author": "Happyjee",
+      "title": "How do we stop cost controls drifting every time a model or price changes?",
+      "author": "Any-Basis7541",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-18T05:14:52.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1x8utvx/expense_handling_bot/",
-      "external_url": "/r/GrokBot/comments/1x8uhca/expense_handling_bot/",
-      "excerpt": ""
-    },
-    {
-      "title": "Expense Handling Bot",
-      "author": "Happyjee",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-18T04:55:30.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1x8uhra/expense_handling_bot/",
-      "external_url": "/r/GrokBot/comments/1x8uhca/expense_handling_bot/",
-      "excerpt": ""
-    },
-    {
-      "title": "[ Removed by Reddit ]",
-      "author": "Ok_Host1989",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-18T00:18:06.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1x8pd1s/removed_by_reddit/",
+      "created_utc": "2026-10-19T08:08:07.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x9qznj/how_do_we_stop_cost_controls_drifting_every_time/",
       "external_url": null,
-      "excerpt": "[ Removed by Reddit on account of violating the content policy . ]"
+      "excerpt": "We've been monitoring token usage and setting budget limits per model, and sending lighter workloads to cheaper models. The problem is that when we update the model pricing or change a model, our exis…"
     },
     {
-      "title": "Is there one API for web search, scraping and image generation, or is three providers just the price of doing this?",
-      "author": "Mindless_Baseball308",
+      "title": "To any beginner who wants to \"Work for free\" in this space.",
+      "author": "Fine-Market9841",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-17T16:28:47.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1x8eium/is_there_one_api_for_web_search_scraping_and/",
+      "created_utc": "2026-10-19T05:27:50.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x9ofis/to_any_beginner_who_wants_to_work_for_free_in/",
       "external_url": null,
-      "excerpt": "A pattern that comes up in a lot of content automations: search for recent posts or news on a topic, scrape the full pages, then make a header image for a summary. That's three providers, three accoun…"
+      "excerpt": "Disclaimer: I am NOT offering services; I am NOT experienced. I have some ideas, that could help beginners. First off, NOTHING is ever free, so don't mislead your clients. You should probably work fro…"
     },
     {
-      "title": "Which API do you pay a monthly plan for but barely use?",
-      "author": "Comfortable-Many2661",
+      "title": "Get a phone alert the moment a refund or cancellation email lands (email trigger, no polling)",
+      "author": "farrukh-hewson",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-17T13:32:56.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1x8ad8h/which_api_do_you_pay_a_monthly_plan_for_but/",
+      "created_utc": "2026-10-19T12:32:09.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x9vmzl/get_a_phone_alert_the_moment_a_refund_or/",
       "external_url": null,
-      "excerpt": "Curious how common this is. Most automations use a handful of paid APIs, but only one or two of them get hit a lot. The rest get called a few times a week, and many of those providers still want a mon…"
+      "excerpt": "If you handle customer support yourself, refund and cancellation emails are the ones you want to see first. Here is the setup I use for that, and it costs almost nothing to run. The trigger is a new e…"
     },
     {
-      "title": "Turn product photos into ready to paste descriptions with one n8n workflow [Workflow Included]",
-      "author": "easybits_ai",
+      "title": "what systems do dentists need the most?",
+      "author": "yossef_egy",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-17T15:40:01.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1x8dbbr/turn_product_photos_into_ready_to_paste/",
-      "external_url": "/r/n8n/comments/1x8dakd/turn_product_photos_into_ready_to_paste/",
-      "excerpt": ""
-    },
-    {
-      "title": "I build 19 business workflows Claude mobile and verified against Fetchsandbox twins before deploying it onto AWS agentcore",
-      "author": "Common_Dream9420",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-17T17:15:00.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1x8fol3/i_build_19_business_workflows_claude_mobile_and/",
+      "created_utc": "2026-10-19T02:22:39.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x9l2o5/what_systems_do_dentists_need_the_most/",
       "external_url": null,
-      "excerpt": "https://preview.redd.it/q569sng392wh1.png?width=1179&format=png&auto=webp&s=c688e819b5e72eb774146a62004f8d93a4e1f947 i am trying to automate back office ops and was learning claude and asked to very v…"
+      "excerpt": "Based on your experience what systems do dentists need the most? Could you walk me through these systems in detail explain what results they have achieved for dental practices, how you convinced denti…"
     },
     {
-      "title": "my favorite automations are the ones that don't need another app to keep running",
-      "author": "Excellent-Wheel7769",
+      "title": "how can i become really good",
+      "author": "yossef_egy",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-16T14:24:49.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1x7hmub/my_favorite_automations_are_the_ones_that_dont/",
+      "created_utc": "2026-10-19T02:19:23.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x9l0e1/how_can_i_become_really_good/",
       "external_url": null,
-      "excerpt": "i've been looking at everyday tasks that could be handled with a basic script instead of paying for another tool. weekly meal planning is a good example because most of the information is already sitt…"
+      "excerpt": "What should I do to become really good at this field? What should I practice and how should I practice? I know this might sound like a strange question but I'm afraid to apply for jobs because I don't…"
     },
     {
-      "title": "What’s the smallest automation you’ve built that saved you the most time?",
-      "author": "ibrahim_40",
+      "title": "Are, ai agents in,Slack actually useful orjust hype?",
+      "author": "ladyshrekk",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-16T13:27:59.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1x7g869/whats_the_smallest_automation_youve_built_that/",
+      "created_utc": "2026-10-18T17:37:29.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x996za/are_ai_agents_inslack_actually_useful_orjust_hype/",
       "external_url": null,
-      "excerpt": "When people talk about automation, the conversation usually jumps to big systems and complicated workflows. The thing that has helped me most was tiny. Every Monday I used to spend about 40 minutes co…"
+      "excerpt": "Joined a 28person startup afew months, ago andthe ops stuff is already piling up,Someone mentioned setting up ai agents in Slack to handle recurring tasks but I have no idea where to even start, Isthi…"
+    },
+    {
+      "title": "I'm willing to learn automation for generating content and posting reels on Instagram.",
+      "author": "ZainMunawari",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-18T18:15:41.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x9a627/im_willing_to_learn_automation_for_generating/",
+      "external_url": null,
+      "excerpt": "I am keen to know if anyone has done an automation for the process mentioned in the title? Right now I have unlimited access to Antigravity (desktop version). I will appreciate if anyone could come ou…"
+    },
+    {
+      "title": "Looking for a custom, human-approved way to organise my LinkedIn network and send ~30 targeted requests a day (not a bot)",
+      "author": "Old-Government-1414",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-18T18:55:23.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x9b5ue/looking_for_a_custom_humanapproved_way_to/",
+      "external_url": null,
+      "excerpt": "What I want to build or find I want a semi-automated LinkedIn workflow where the tool prepares everything and I approve every action. I don’t want a bot that logs into my account and clicks things, be…"
+    },
+    {
+      "title": "When does a shared spreadsheet need to become an actual app?",
+      "author": "Wrong_City2251",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-18T14:41:38.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1x94vo3/when_does_a_shared_spreadsheet_need_to_become_an/",
+      "external_url": null,
+      "excerpt": "For example, sales leads keep tweaking forecast numbers in a shared excel file, and then a power automate flow copies that file into a warehouse every night. Files get locked, rows get overwritten and…"
     }
   ]
 }
