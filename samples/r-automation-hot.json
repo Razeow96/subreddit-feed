@@ -1,7 +1,7 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-10-20T11:35:28.042Z",
+  "fetched_at": "2026-10-21T11:48:09.791Z",
   "count": 10,
   "posts": [
     {
@@ -15,94 +15,94 @@
       "excerpt": "Hi guys,I am planning to create a simple AI tool for people in this niche, something that can be helpful to people visiting this sub and they wish to use it for free, a simple tool that can help you i…"
     },
     {
-      "title": "Have you reduced using n8n/make after Claude/chatgpt?",
-      "author": "sidmish",
+      "title": "agent browser stack that survived the first logged in flow",
+      "author": "P0ppyStarlight",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-20T05:07:47.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xajd6s/have_you_reduced_using_n8nmake_after_claudechatgpt/",
+      "created_utc": "2026-10-21T08:20:50.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xbhftl/agent_browser_stack_that_survived_the_first/",
       "external_url": null,
-      "excerpt": "I have been personally using Claude a lot, I’m on their 20USD plan. I am mostly using their schedule features to create my content, SOPs, client’s blogs, etc., and updating everything in my ClickUp an…"
+      "excerpt": "spent way too long getting an agent to log into a dashboard and pull reports on a schedule. locally it was fine. flipped it to the server and the session just evaporated. cookies gone, back at the log…"
     },
     {
-      "title": "People building automations for clients: where are you seeing real demand?",
-      "author": "faktherebel",
+      "title": "How do you automate the repetitive work in a logistics coordinator role?",
+      "author": "Advanced_Aspect_4127",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-20T02:41:28.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xaglw4/people_building_automations_for_clients_where_are/",
+      "created_utc": "2026-10-21T02:03:43.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xbasah/how_do_you_automate_the_repetitive_work_in_a/",
       "external_url": null,
-      "excerpt": "Curious to hear from people running automation agencies or doing this for clients. I'm working out a focus for my own AI automation agency. There's no shortage of workflows you can build, but figuring…"
+      "excerpt": "I'm a logistics coordinator in the UAE. Most of my day is taking sales orders and turning them into shipments: customs documents, invoices, packing lists, and booking small international parcels. A lo…"
     },
     {
-      "title": "I’m taking on a few small n8n automation projects for networking purposes",
-      "author": "Brilliant-Pick4255",
+      "title": "Im having issues with ChatGPT desktop app where it cannot read my files i attached.",
+      "author": "indominustyrant",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-20T10:17:59.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xaoch0/im_taking_on_a_few_small_n8n_automation_projects/",
-      "external_url": null,
-      "excerpt": "Hi, I’m Sidhant, a CS student working with n8n, Python, and API integrations. In my own independent project, A company-monitoring engine, I’ve built workflows for data intake, scheduled checks, alerts…"
-    },
-    {
-      "title": "How to create an ai agent that actually does stuff for your team?",
-      "author": "Separate-Record8115",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-19T17:17:39.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xa2vsg/how_to_create_an_ai_agent_that_actually_does/",
-      "external_url": null,
-      "excerpt": "Running ops at a 25 person startup and tryingto figure out how, to actually hand off recurring work to AI, not just answering questions, but stuff like following up on things, pulling info from differ…"
-    },
-    {
-      "title": "Play around with Jev as a chatbot",
-      "author": "Bitman321",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-20T01:25:48.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xaf1le/play_around_with_jev_as_a_chatbot/",
-      "external_url": "/r/JevAI/comments/1xaewjx/play_around_with_jev_as_a_chatbot/",
+      "created_utc": "2026-10-21T09:36:00.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xbimiu/im_having_issues_with_chatgpt_desktop_app_where/",
+      "external_url": "/r/ChatGPTcomplaints/comments/1xaykbs/im_having_issues_with_chatgpt_desktop_app_where/",
       "excerpt": ""
     },
     {
-      "title": "M3.1-Flash looks more interesting to me for boring office automation than chat",
-      "author": "Arn777333",
+      "title": "Generate automations that run locally on your computer, including browser sessions",
+      "author": "Lecontodereddit",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-19T15:04:40.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1x9zbqq/m31flash_looks_more_interesting_to_me_for_boring/",
-      "external_url": null,
-      "excerpt": "Now that the final M3.1-Flash is available, the use case I want to see more of is repetitive office work. Not “write me a clever answer.” More like • read 50 documents • pull deadlines into a sheet •…"
+      "created_utc": "2026-10-21T11:34:08.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xbkp4m/generate_automations_that_run_locally_on_your/",
+      "external_url": "https://www.youtube.com/watch?v=V0d2b8rV1hU",
+      "excerpt": "Shared this tool a while back and have been making some improvements to it. Been using it for our own internal operations since about May and found it especially useful for automating things that need…"
     },
     {
-      "title": "Sign in — W3BS",
-      "author": "Minimum_Hour519",
+      "title": "We cut operational approval queues from 8 hours to 30 seconds using Agents without hiring more specialists",
+      "author": "sibraan_",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-20T00:07:33.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xaddqq/sign_in_w3bs/",
-      "external_url": "https://w3bs.org/fleet",
+      "created_utc": "2026-10-21T09:45:50.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xbis0z/we_cut_operational_approval_queues_from_8_hours/",
+      "external_url": null,
+      "excerpt": "In high volume operations, one of the biggest constraint on business growth is almost always high stakes decisions sitting in a queue waiting on a scarce subject matter expert to review them. We saw t…"
+    },
+    {
+      "title": "I built the automation/tool to do my work better, but the tool building was so much more exciting that working on my actual task feels like going to jail...",
+      "author": "zephyr_33",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-21T08:14:57.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xbhchd/i_built_the_automationtool_to_do_my_work_better/",
+      "external_url": "/r/ADHD_Programmers/comments/1xbhc6q/i_built_the_automationtool_to_do_my_work_better/",
       "excerpt": ""
     },
     {
-      "title": "I built 6 free AI bot templates for everyday money and life chores (Grok Bot). Here's what each one does",
-      "author": "Happyjee",
+      "title": "What 's one boring task you are tired of doing over and over ?",
+      "author": "InsideGrandiose7251",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-19T22:31:27.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xab7y4/i_built_6_free_ai_bot_templates_for_everyday/",
-      "external_url": "/r/GrokBot/comments/1xa9xxg/i_built_6_free_ai_bot_templates_for_everyday/",
+      "created_utc": "2026-10-20T18:26:52.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xb00sl/what_s_one_boring_task_you_are_tired_of_doing/",
+      "external_url": null,
+      "excerpt": "There are some tasks i am so tired of doing again and again they are not even difficult just annoying and time consuming what 's one thing you wish you could automate so you had never have to do it yo…"
+    },
+    {
+      "title": "How can I automate transferring approved drawings from Oracle Aconex to Asite using Power Automate?",
+      "author": "Majestic_Potato_4061",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-21T04:52:21.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xbe0nj/how_can_i_automate_transferring_approved_drawings/",
+      "external_url": "/r/MicrosoftFlow/comments/1xbdvmz/how_can_i_automate_transferring_approved_drawings/",
       "excerpt": ""
     },
     {
-      "title": "Get a phone alert the moment a refund or cancellation email lands (email trigger, no polling)",
-      "author": "farrukh-hewson",
+      "title": "I think the best office use for a fast agent is the messy middle",
+      "author": "Horror-Egg-6942",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-19T12:32:09.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1x9vmzl/get_a_phone_alert_the_moment_a_refund_or/",
+      "created_utc": "2026-10-20T15:18:49.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xauxa7/i_think_the_best_office_use_for_a_fast_agent_is/",
       "external_url": null,
-      "excerpt": "If you handle customer support yourself, refund and cancellation emails are the ones you want to see first. Here is the setup I use for that, and it costs almost nothing to run. The trigger is a new e…"
+      "excerpt": "I’ve been thinking about where a model like M3.1-Flash actually makes sense in office automation. Probably not the completely deterministic stuff. If a workflow is just: new row → copy field → send em…"
     }
   ]
 }
