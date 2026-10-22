@@ -1,7 +1,7 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-10-21T11:48:09.791Z",
+  "fetched_at": "2026-10-22T11:51:44.976Z",
   "count": 10,
   "posts": [
     {
@@ -13,6 +13,46 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1wulft2/need_suggestions_for_a_simple_ai_tool/",
       "external_url": null,
       "excerpt": "Hi guys,I am planning to create a simple AI tool for people in this niche, something that can be helpful to people visiting this sub and they wish to use it for free, a simple tool that can help you i…"
+    },
+    {
+      "title": "How do i find the linkedin profiles of github repo contributors?",
+      "author": "djdagger78",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-22T07:39:21.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xcc6pu/how_do_i_find_the_linkedin_profiles_of_github/",
+      "external_url": null,
+      "excerpt": "There are three of us doing AI research recruiting in my company. I just write a script that scrapes and writes prompt libraries, so getting the contributor list of a repo is easy. I use Phantombuster…"
+    },
+    {
+      "title": "I got tired of paying those hefty Higgsfield subscriptions...so I built my Claude skills and open sourced it",
+      "author": "Key_Significance1880",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-22T07:05:51.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xcbnsx/i_got_tired_of_paying_those_hefty_higgsfield/",
+      "external_url": "/r/claudeskills/comments/1xblrdf/i_got_tired_of_paying_those_hefty_higgsfield/",
+      "excerpt": ""
+    },
+    {
+      "title": "How to create an ai agent that works in slack not a new app",
+      "author": "TryHarder527",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-21T18:33:41.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xbvdj6/how_to_create_an_ai_agent_that_works_in_slack_not/",
+      "external_url": null,
+      "excerpt": "Running a 35person startup and every AI tool I’ve looked at wants me to go somewhere new to use it. Another tab, another login, another thing to remember. We already live in Slack and email. I want so…"
+    },
+    {
+      "title": "Intégrateur Google Drive",
+      "author": "FearlessRepeat5215",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-21T16:54:16.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xbsm2r/intégrateur_google_drive/",
+      "external_url": "/r/apify/comments/1xbre9l/gdrive_integrator/",
+      "excerpt": "Just started with apify automation"
     },
     {
       "title": "agent browser stack that survived the first logged in flow",
@@ -55,16 +95,6 @@
       "excerpt": "Shared this tool a while back and have been making some improvements to it. Been using it for our own internal operations since about May and found it especially useful for automating things that need…"
     },
     {
-      "title": "We cut operational approval queues from 8 hours to 30 seconds using Agents without hiring more specialists",
-      "author": "sibraan_",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-21T09:45:50.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xbis0z/we_cut_operational_approval_queues_from_8_hours/",
-      "external_url": null,
-      "excerpt": "In high volume operations, one of the biggest constraint on business growth is almost always high stakes decisions sitting in a queue waiting on a scarce subject matter expert to review them. We saw t…"
-    },
-    {
       "title": "I built the automation/tool to do my work better, but the tool building was so much more exciting that working on my actual task feels like going to jail...",
       "author": "zephyr_33",
       "score": null,
@@ -73,36 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1xbhchd/i_built_the_automationtool_to_do_my_work_better/",
       "external_url": "/r/ADHD_Programmers/comments/1xbhc6q/i_built_the_automationtool_to_do_my_work_better/",
       "excerpt": ""
-    },
-    {
-      "title": "What 's one boring task you are tired of doing over and over ?",
-      "author": "InsideGrandiose7251",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-20T18:26:52.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xb00sl/what_s_one_boring_task_you_are_tired_of_doing/",
-      "external_url": null,
-      "excerpt": "There are some tasks i am so tired of doing again and again they are not even difficult just annoying and time consuming what 's one thing you wish you could automate so you had never have to do it yo…"
-    },
-    {
-      "title": "How can I automate transferring approved drawings from Oracle Aconex to Asite using Power Automate?",
-      "author": "Majestic_Potato_4061",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-21T04:52:21.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xbe0nj/how_can_i_automate_transferring_approved_drawings/",
-      "external_url": "/r/MicrosoftFlow/comments/1xbdvmz/how_can_i_automate_transferring_approved_drawings/",
-      "excerpt": ""
-    },
-    {
-      "title": "I think the best office use for a fast agent is the messy middle",
-      "author": "Horror-Egg-6942",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-20T15:18:49.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xauxa7/i_think_the_best_office_use_for_a_fast_agent_is/",
-      "external_url": null,
-      "excerpt": "I’ve been thinking about where a model like M3.1-Flash actually makes sense in office automation. Probably not the completely deterministic stuff. If a workflow is just: new row → copy field → send em…"
     }
   ]
 }
