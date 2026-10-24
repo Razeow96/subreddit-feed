@@ -1,7 +1,7 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-10-23T11:38:21.755Z",
+  "fetched_at": "2026-10-24T10:59:01.076Z",
   "count": 10,
   "posts": [
     {
@@ -13,6 +13,56 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1wulft2/need_suggestions_for_a_simple_ai_tool/",
       "external_url": null,
       "excerpt": "Hi guys,I am planning to create a simple AI tool for people in this niche, something that can be helpful to people visiting this sub and they wish to use it for free, a simple tool that can help you i…"
+    },
+    {
+      "title": "Best way to learn MCP servers when all your automations are Zapier and cron jobs",
+      "author": "DapperAsi",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-24T05:30:40.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xe0c3n/best_way_to_learn_mcp_servers_when_all_your/",
+      "external_url": null,
+      "excerpt": "I run ops automation at a logistics company, about 40 Zapier flows and a pile of Python scripts on cron that move orders between our WMS, the carrier portals and a shared inbox. Leadership wants Claud…"
+    },
+    {
+      "title": "What’s the hardest part of automating your video workflow?",
+      "author": "Apart-Medium6539",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-23T23:26:42.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xdtbob/whats_the_hardest_part_of_automating_your_video/",
+      "external_url": null,
+      "excerpt": "I’ve been experimenting with AI-generated tech explainers and German-learning shorts over the last two days. The workflow is: generate a first draft, review the visuals and pacing, then publish throug…"
+    },
+    {
+      "title": "Do you really need to know code to build automations for clients?",
+      "author": "Hefty_Camera_6948",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-24T10:41:35.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xe5f2d/do_you_really_need_to_know_code_to_build/",
+      "external_url": null,
+      "excerpt": "I started with tools like Zapier, Make, and n8n without much coding and realized most client workflows are really about logic, integrations, and troubleshooting. Coding only became useful when I hit e…"
+    },
+    {
+      "title": "Higgsfield now make $1B out of our pocket now",
+      "author": "videorouter",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-23T18:03:40.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xdlc86/higgsfield_now_make_1b_out_of_our_pocket_now/",
+      "external_url": "/r/VideoRouter/comments/1xdl13i/higgsfield_now_make_1b_out_of_our_pocket_now/",
+      "excerpt": ""
+    },
+    {
+      "title": "Which AI task in your workflow is still a five node chain you wish was one?",
+      "author": "easybits_ai",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-23T12:28:50.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xdcnxq/which_ai_task_in_your_workflow_is_still_a_five/",
+      "external_url": "/r/n8n/comments/1xdcmdc/which_ai_task_in_your_workflow_is_still_a_five/",
+      "excerpt": ""
     },
     {
       "title": "A Novel Approach to AI Automation",
@@ -45,16 +95,6 @@
       "excerpt": "I build WhatsApp automations for local businesses, basically auto-replies and lead capture into a sheet...Right now it’s one-off projects and then the client disappears until something breaks.. Thinki…"
     },
     {
-      "title": "[Research] Survey on the usability and friction of desktop automation tools (2 mins, completely anonymous)",
-      "author": "Neither_Teaching_760",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-22T14:16:10.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xcjsti/research_survey_on_the_usability_and_friction_of/",
-      "external_url": "/r/AutoHotkey/comments/1xcjsgz/research_survey_on_the_usability_and_friction_of/",
-      "excerpt": ""
-    },
-    {
       "title": "How I route support emails to the right person, including the prompts I used [Workflow Included]",
       "author": "easybits_ai",
       "score": null,
@@ -62,46 +102,6 @@
       "created_utc": "2026-10-22T14:10:53.000Z",
       "permalink": "https://www.reddit.com/r/automation/comments/1xcjns7/how_i_route_support_emails_to_the_right_person/",
       "external_url": "https://i.redd.it/1y3ihy6pz0xh1.png",
-      "excerpt": ""
-    },
-    {
-      "title": "What still forces you to babysit an AI agent running a business?",
-      "author": "Consistent-Point-174",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-22T11:52:48.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xcggjk/what_still_forces_you_to_babysit_an_ai_agent/",
-      "external_url": null,
-      "excerpt": "If you’ve tried letting an agent build a business, sell a service or handle revenue-generating work, which tedious tasks still pull you back in? We asked this in a couple of agent communities, and a f…"
-    },
-    {
-      "title": "How do i find the linkedin profiles of github repo contributors?",
-      "author": "djdagger78",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-22T07:39:21.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xcc6pu/how_do_i_find_the_linkedin_profiles_of_github/",
-      "external_url": null,
-      "excerpt": "There are three of us doing AI research recruiting in my company. I just write a script that scrapes and writes prompt libraries, so getting the contributor list of a repo is easy. I use Phantombuster…"
-    },
-    {
-      "title": "Using Jev to determine if an event occurred or not",
-      "author": "Bitman321",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-22T12:06:10.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xcgqu9/using_jev_to_determine_if_an_event_occurred_or_not/",
-      "external_url": "/r/PromptEngineering/comments/1xc4bi7/using_jev_to_determine_if_an_event_occurred_or_not/",
-      "excerpt": ""
-    },
-    {
-      "title": "I got tired of paying those hefty Higgsfield subscriptions...so I built my Claude skills and open sourced it",
-      "author": "Key_Significance1880",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-22T07:05:51.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xcbnsx/i_got_tired_of_paying_those_hefty_higgsfield/",
-      "external_url": "/r/claudeskills/comments/1xblrdf/i_got_tired_of_paying_those_hefty_higgsfield/",
       "excerpt": ""
     }
   ]
