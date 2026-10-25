@@ -1,7 +1,7 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-10-24T10:59:01.076Z",
+  "fetched_at": "2026-10-25T11:27:59.337Z",
   "count": 10,
   "posts": [
     {
@@ -13,6 +13,76 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1wulft2/need_suggestions_for_a_simple_ai_tool/",
       "external_url": null,
       "excerpt": "Hi guys,I am planning to create a simple AI tool for people in this niche, something that can be helpful to people visiting this sub and they wish to use it for free, a simple tool that can help you i…"
+    },
+    {
+      "title": "monitor public pet-sale listings across multiple websites?",
+      "author": "Complex_Western5364",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-25T09:40:50.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xey42g/monitor_public_petsale_listings_across_multiple/",
+      "external_url": null,
+      "excerpt": "How would you monitor public pet-sale listings across multiple websites? What tools can alert you to new matches, including misspelled or mislabeled breeds? Can image matching find the same animal in…"
+    },
+    {
+      "title": "What’s the smallest automation that saved you the most time?",
+      "author": "ibrahim_40",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-24T16:41:36.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xedd82/whats_the_smallest_automation_that_saved_you_the/",
+      "external_url": null,
+      "excerpt": "Mine pulls numbers from my weekly emails into a spreadsheet and drafts the summary. It cut about 40 minutes down to 5 and I still read it before sending. What’s yours and did you ever automate somethi…"
+    },
+    {
+      "title": "Can I edit videos with chatgpt astra if i want a specific editing style?",
+      "author": "dreamysalon",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-25T08:08:35.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xewmqs/can_i_edit_videos_with_chatgpt_astra_if_i_want_a/",
+      "external_url": "https://youtube.com/@qovesstudio?si=hw1soDtpy6Tp7lNF",
+      "excerpt": "So there is a YouTube channel named qoves, I'll pin the link of that YouTube channel down but I actually loving their youtube shorts especially there editing style I am loving the simplicity I am lovi…"
+    },
+    {
+      "title": "VoC Slack insights automations",
+      "author": "FitSnow3978",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-25T05:18:11.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xetsm6/voc_slack_insights_automations/",
+      "external_url": "/r/customerexperience/comments/1xetsft/voc_slack_insights_automations/",
+      "excerpt": ""
+    },
+    {
+      "title": "what happens to your flow when a trigger sends ten events in a minute",
+      "author": "Silly_Captain2089",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-24T17:59:47.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xefb6t/what_happens_to_your_flow_when_a_trigger_sends/",
+      "external_url": null,
+      "excerpt": "Most automation tutorials assume one event at a time. Real triggers don’t work like that. An account that posts in bursts can fire a workflow a dozen times in a minute, and the slack node, the google…"
+    },
+    {
+      "title": "What are you using instead of Zapier to keep automation costs down?",
+      "author": "Outrageous_Text5335",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-24T11:03:33.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xe5ssm/what_are_you_using_instead_of_zapier_to_keep/",
+      "external_url": null,
+      "excerpt": "Zapier has been getting pretty expensive for the number of automations I'm running, so I'm looking at alternatives. I still want something reliable and fairly easy to manage, not just the cheapest opt…"
+    },
+    {
+      "title": "Do you really need to know code to build automations for clients?",
+      "author": "Hefty_Camera_6948",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-24T10:41:35.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xe5f2d/do_you_really_need_to_know_code_to_build/",
+      "external_url": null,
+      "excerpt": "I started with tools like Zapier, Make, and n8n without much coding and realized most client workflows are really about logic, integrations, and troubleshooting. Coding only became useful when I hit e…"
     },
     {
       "title": "Best way to learn MCP servers when all your automations are Zapier and cron jobs",
@@ -33,76 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1xdtbob/whats_the_hardest_part_of_automating_your_video/",
       "external_url": null,
       "excerpt": "I’ve been experimenting with AI-generated tech explainers and German-learning shorts over the last two days. The workflow is: generate a first draft, review the visuals and pacing, then publish throug…"
-    },
-    {
-      "title": "Do you really need to know code to build automations for clients?",
-      "author": "Hefty_Camera_6948",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-24T10:41:35.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xe5f2d/do_you_really_need_to_know_code_to_build/",
-      "external_url": null,
-      "excerpt": "I started with tools like Zapier, Make, and n8n without much coding and realized most client workflows are really about logic, integrations, and troubleshooting. Coding only became useful when I hit e…"
-    },
-    {
-      "title": "Higgsfield now make $1B out of our pocket now",
-      "author": "videorouter",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-23T18:03:40.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xdlc86/higgsfield_now_make_1b_out_of_our_pocket_now/",
-      "external_url": "/r/VideoRouter/comments/1xdl13i/higgsfield_now_make_1b_out_of_our_pocket_now/",
-      "excerpt": ""
-    },
-    {
-      "title": "Which AI task in your workflow is still a five node chain you wish was one?",
-      "author": "easybits_ai",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-23T12:28:50.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xdcnxq/which_ai_task_in_your_workflow_is_still_a_five/",
-      "external_url": "/r/n8n/comments/1xdcmdc/which_ai_task_in_your_workflow_is_still_a_five/",
-      "excerpt": ""
-    },
-    {
-      "title": "A Novel Approach to AI Automation",
-      "author": "Reasonable-Clue-3683",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-23T07:48:32.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xd7q95/a_novel_approach_to_ai_automation/",
-      "external_url": null,
-      "excerpt": "Group chats for AI agents: A new approach to AI workflows? Today, majority of these automations an workflows center around a more linear process. AI agents are specialized, and users drag them in to t…"
-    },
-    {
-      "title": "Tasket++ : Simulate your Windows actions automatically (free & open source)",
-      "author": "AmirHammoutene",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-22T23:48:29.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xcym9v/tasket_simulate_your_windows_actions/",
-      "external_url": "https://www.reddit.com/gallery/1xcym9v",
-      "excerpt": "Tasket++ lets you define your own clicks, keystrokes, cursor positions and system operations, then replay them exactly when you want. It’s a simple Windows tool that handles repetitive workflows for y…"
-    },
-    {
-      "title": "Selling WhatsApp automations to clients and the question is: one-off projects or monthly retainer?",
-      "author": "flavia-f",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-22T14:44:20.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xckirt/selling_whatsapp_automations_to_clients_and_the/",
-      "external_url": null,
-      "excerpt": "I build WhatsApp automations for local businesses, basically auto-replies and lead capture into a sheet...Right now it’s one-off projects and then the client disappears until something breaks.. Thinki…"
-    },
-    {
-      "title": "How I route support emails to the right person, including the prompts I used [Workflow Included]",
-      "author": "easybits_ai",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-22T14:10:53.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xcjns7/how_i_route_support_emails_to_the_right_person/",
-      "external_url": "https://i.redd.it/1y3ihy6pz0xh1.png",
-      "excerpt": ""
     }
   ]
 }
