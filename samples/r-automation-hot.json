@@ -1,7 +1,7 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-10-25T11:27:59.337Z",
+  "fetched_at": "2026-10-26T13:01:41.256Z",
   "count": 10,
   "posts": [
     {
@@ -13,6 +13,16 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1wulft2/need_suggestions_for_a_simple_ai_tool/",
       "external_url": null,
       "excerpt": "Hi guys,I am planning to create a simple AI tool for people in this niche, something that can be helpful to people visiting this sub and they wish to use it for free, a simple tool that can help you i…"
+    },
+    {
+      "title": "UiPath alternatives for the discovery half rather than the automation half",
+      "author": "Different_Pain5781",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-25T13:37:46.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xf2lkj/uipath_alternatives_for_the_discovery_half_rather/",
+      "external_url": null,
+      "excerpt": "Not looking to replace anything. The automation layer is fine. What keeps going wrong is picking what to automate next. UiPath ships its own task mining and discovery, so this is not a product gap. It…"
     },
     {
       "title": "monitor public pet-sale listings across multiple websites?",
@@ -33,16 +43,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1xedd82/whats_the_smallest_automation_that_saved_you_the/",
       "external_url": null,
       "excerpt": "Mine pulls numbers from my weekly emails into a spreadsheet and drafts the summary. It cut about 40 minutes down to 5 and I still read it before sending. What’s yours and did you ever automate somethi…"
-    },
-    {
-      "title": "Can I edit videos with chatgpt astra if i want a specific editing style?",
-      "author": "dreamysalon",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-25T08:08:35.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xewmqs/can_i_edit_videos_with_chatgpt_astra_if_i_want_a/",
-      "external_url": "https://youtube.com/@qovesstudio?si=hw1soDtpy6Tp7lNF",
-      "excerpt": "So there is a YouTube channel named qoves, I'll pin the link of that YouTube channel down but I actually loving their youtube shorts especially there editing style I am loving the simplicity I am lovi…"
     },
     {
       "title": "VoC Slack insights automations",
