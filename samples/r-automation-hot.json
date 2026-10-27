@@ -1,7 +1,7 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-10-26T13:01:41.256Z",
+  "fetched_at": "2026-10-27T12:10:50.118Z",
   "count": 10,
   "posts": [
     {
@@ -13,6 +13,66 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1wulft2/need_suggestions_for_a_simple_ai_tool/",
       "external_url": null,
       "excerpt": "Hi guys,I am planning to create a simple AI tool for people in this niche, something that can be helpful to people visiting this sub and they wish to use it for free, a simple tool that can help you i…"
+    },
+    {
+      "title": "How can our consultancy keep client-specific policies without forking the entire workflow for every single account?",
+      "author": "Patient-Tea-922",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-27T12:01:19.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xgqmfb/how_can_our_consultancy_keep_clientspecific/",
+      "external_url": null,
+      "excerpt": "I’m an automation builder at a small agency and I created a problem for myself that I really need to solve. I joined right when we started the agency, and when we were onboarding our first few clients…"
+    },
+    {
+      "title": "Windows automation, button gui info?",
+      "author": "Solid-Mood9571",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-27T00:48:57.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xgejcg/windows_automation_button_gui_info/",
+      "external_url": null,
+      "excerpt": "Is it possible to build an app for windows that gets you the button names and coordinates that are currently on screen for the programs that are currently open? Preferably without image processing. Li…"
+    },
+    {
+      "title": "Need advice on automating market research data entry for 18,327 Excel rows",
+      "author": "keepinitlowkey7",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-26T16:25:32.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xg1m1y/need_advice_on_automating_market_research_data/",
+      "external_url": null,
+      "excerpt": "​ Hi everyone, I’m working on my first client project, which involves around 18,327 market research report entries in Excel. My task is to research each report using research websites and fill in mult…"
+    },
+    {
+      "title": "6 weeks into trying to land my first consulting client. What am I missing?",
+      "author": "marcelorojas56",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-26T13:27:30.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xfwsnn/6_weeks_into_trying_to_land_my_first_consulting/",
+      "external_url": null,
+      "excerpt": "I've been a data engineer for about 10 years (pipelines, data quality, warehouses), and for the past few months I've been building an AI side of that: RAG, evals, making sure AI assistants actually gi…"
+    },
+    {
+      "title": "Is combining AI generators with traditional editors the future, or just too many subscriptions?",
+      "author": "Hot-Wrangler-3692",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-26T13:26:11.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xfwrio/is_combining_ai_generators_with_traditional/",
+      "external_url": "https://i.redd.it/b0308igfctxh1.jpeg",
+      "excerpt": "Disclosure: This post is part of a Dreamina brand collaboration. Dreamina's $0.29 first-month offer for Seedance 2/2.5 brings up a workflow question for me: generate the footage there, then polish it…"
+    },
+    {
+      "title": "What automation have you wanted to build that the existing tools just couldn’t handle?",
+      "author": "klampzlamps",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-26T18:08:24.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xg4gbz/what_automation_have_you_wanted_to_build_that_the/",
+      "external_url": null,
+      "excerpt": "Hi all, I’ve been working on automation stuff for a while and keep going back and forth on where the real bottleneck is. Figured I’d ask the people who actually deal with it instead of guessing. What…"
     },
     {
       "title": "UiPath alternatives for the discovery half rather than the automation half",
@@ -43,66 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1xedd82/whats_the_smallest_automation_that_saved_you_the/",
       "external_url": null,
       "excerpt": "Mine pulls numbers from my weekly emails into a spreadsheet and drafts the summary. It cut about 40 minutes down to 5 and I still read it before sending. What’s yours and did you ever automate somethi…"
-    },
-    {
-      "title": "VoC Slack insights automations",
-      "author": "FitSnow3978",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-25T05:18:11.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xetsm6/voc_slack_insights_automations/",
-      "external_url": "/r/customerexperience/comments/1xetsft/voc_slack_insights_automations/",
-      "excerpt": ""
-    },
-    {
-      "title": "what happens to your flow when a trigger sends ten events in a minute",
-      "author": "Silly_Captain2089",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-24T17:59:47.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xefb6t/what_happens_to_your_flow_when_a_trigger_sends/",
-      "external_url": null,
-      "excerpt": "Most automation tutorials assume one event at a time. Real triggers don’t work like that. An account that posts in bursts can fire a workflow a dozen times in a minute, and the slack node, the google…"
-    },
-    {
-      "title": "What are you using instead of Zapier to keep automation costs down?",
-      "author": "Outrageous_Text5335",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-24T11:03:33.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xe5ssm/what_are_you_using_instead_of_zapier_to_keep/",
-      "external_url": null,
-      "excerpt": "Zapier has been getting pretty expensive for the number of automations I'm running, so I'm looking at alternatives. I still want something reliable and fairly easy to manage, not just the cheapest opt…"
-    },
-    {
-      "title": "Do you really need to know code to build automations for clients?",
-      "author": "Hefty_Camera_6948",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-24T10:41:35.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xe5f2d/do_you_really_need_to_know_code_to_build/",
-      "external_url": null,
-      "excerpt": "I started with tools like Zapier, Make, and n8n without much coding and realized most client workflows are really about logic, integrations, and troubleshooting. Coding only became useful when I hit e…"
-    },
-    {
-      "title": "Best way to learn MCP servers when all your automations are Zapier and cron jobs",
-      "author": "DapperAsi",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-24T05:30:40.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xe0c3n/best_way_to_learn_mcp_servers_when_all_your/",
-      "external_url": null,
-      "excerpt": "I run ops automation at a logistics company, about 40 Zapier flows and a pile of Python scripts on cron that move orders between our WMS, the carrier portals and a shared inbox. Leadership wants Claud…"
-    },
-    {
-      "title": "What’s the hardest part of automating your video workflow?",
-      "author": "Apart-Medium6539",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-23T23:26:42.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xdtbob/whats_the_hardest_part_of_automating_your_video/",
-      "external_url": null,
-      "excerpt": "I’ve been experimenting with AI-generated tech explainers and German-learning shorts over the last two days. The workflow is: generate a first draft, review the visuals and pacing, then publish throug…"
     }
   ]
 }
