@@ -1,7 +1,7 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-10-28T12:53:38.632Z",
+  "fetched_at": "2026-10-29T12:59:40.176Z",
   "count": 10,
   "posts": [
     {
@@ -15,94 +15,94 @@
       "excerpt": "Hi guys,I am planning to create a simple AI tool for people in this niche, something that can be helpful to people visiting this sub and they wish to use it for free, a simple tool that can help you i…"
     },
     {
-      "title": "What are some truly useful automation tools for business outside Zapier & N8N?",
-      "author": "Ok-Macaron2516",
+      "title": "What happens to unreviewed drafts when your automation runs again?",
+      "author": "bayvo",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-28T08:42:33.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xhinla/what_are_some_truly_useful_automation_tools_for/",
+      "created_utc": "2026-10-29T08:34:06.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xiedye/what_happens_to_unreviewed_drafts_when_your/",
       "external_url": null,
-      "excerpt": "Hi all- Zapier and N8N are obvious the household names when it comes to traditional automation tools. But I am curious if there are any hidden gems out there especially with AI and all changing the ga…"
+      "excerpt": "If yesterday's draft is still sitting there, I'm not sure what the next run should do with it. I use Claude for drafts and don't let it send messages to other people without me looking first. How do y…"
     },
     {
-      "title": "My automation opened 83 tickets while I was asleep",
-      "author": "EchoEmbar",
+      "title": "went through 120 published ai cases from consumer goods companies. the automation that paid off was almost never the flashy stuff",
+      "author": "Creepy_Effective_598",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-28T11:23:54.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xhle6o/my_automation_opened_83_tickets_while_i_was_asleep/",
+      "created_utc": "2026-10-29T08:17:08.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xie4e8/went_through_120_published_ai_cases_from_consumer/",
       "external_url": null,
-      "excerpt": "I moved several selfhosted n8n workflows from a mini PC to a serverspace vm. The move went smoothly, tests passed, and I went to bed feeling responsible. At breakfast I found 83 tickets. Vm had stayed…"
+      "excerpt": "we put together a report at work on AI cases where consumer goods companies actually published results, and I expected it to be mostly ai ads and chatbots, surprisingly not. 54 of the 120 cases are ou…"
     },
     {
-      "title": "n8n “Send Messenger Reply” node fails",
-      "author": "zixteee",
+      "title": "clients never asked how it works, just whether the task showed up",
+      "author": "FullStackFrenzy",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-28T06:06:22.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xhg8xv/n8n_send_messenger_reply_node_fails/",
+      "created_utc": "2026-10-29T12:52:38.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xij4q1/clients_never_asked_how_it_works_just_whether_the/",
       "external_url": null,
-      "excerpt": "I’m running n8n on a self-hosted Mac using a Cloudflare tunnel. I’m currently building an appointment booking flow through Messenger. However, after an hour or two, my “Send Messenger Reply” node stop…"
+      "excerpt": "took me way too long to learn this. i used to pitch the stack, which model, how the pipeline works. what actually closed people was one line: the task you send on whatsapp at 11pm is on someone's list…"
     },
     {
-      "title": "Test my AI set up",
-      "author": "aresolo",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-28T09:01:24.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xhiy4k/test_my_ai_set_up/",
-      "external_url": null,
-      "excerpt": "Hello everyone 👋. I have given full control of an instagram account to ai, it decides what to post, generates the posts and descriptions itself. It also replies to every single comments. Can you guys…"
-    },
-    {
-      "title": "Built 51 workflows for back office use-case and deployed to AWS agentcore",
+      "title": "Building easy now but verification still needs human eval, right?",
       "author": "Common_Dream9420",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-27T19:52:53.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xh2udn/built_51_workflows_for_back_office_usecase_and/",
+      "created_utc": "2026-10-29T01:18:03.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xi6jxn/building_easy_now_but_verification_still_needs/",
       "external_url": null,
-      "excerpt": "As everyone is talking about ai-automation, just trying to build and automate few ops use-case myself, and deployed to AWS agentcore looking for people who is actively building aiautomation and how ar…"
+      "excerpt": "we have been automating local businesses use cases like saloon/pizza stores and infact this week someone of friends who are doing social media posts reached me for automation most of the workflows I b…"
     },
     {
-      "title": "If the Globe Took Requests, What Would Yours Be? 🌍",
-      "author": "TiinyAI",
+      "title": "Best tools to add AI to automate order entry into a legacy ERP without replacing the database",
+      "author": "sibraan_",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-28T02:48:50.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xhcoxs/if_the_globe_took_requests_what_would_yours_be/",
-      "external_url": "https://i.redd.it/4tj5laxq4qxh1.png",
-      "excerpt": ""
-    },
-    {
-      "title": "How can our consultancy keep client-specific policies without forking the entire workflow for every single account?",
-      "author": "Patient-Tea-922",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-27T12:01:19.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xgqmfb/how_can_our_consultancy_keep_clientspecific/",
+      "created_utc": "2026-10-29T08:17:06.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xie4dt/best_tools_to_add_ai_to_automate_order_entry_into/",
       "external_url": null,
-      "excerpt": "I’m an automation builder at a small agency and I created a problem for myself that I really need to solve. I joined right when we started the agency, and when we were onboarding our first few clients…"
+      "excerpt": "The standard pitch from software consultants is that if you want to automate your supply chain, you’ve to tear out your legacy system and spend hundreds of thousands of dollars migrating to a modern c…"
     },
     {
-      "title": "Got tired of ad-filled video downloaders, so I built my own",
-      "author": "boykob",
+      "title": "PowerPoint + Power BI automation",
+      "author": "fuckingfrito",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-27T12:32:31.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xgr9pb/got_tired_of_adfilled_video_downloaders_so_i/",
-      "external_url": "/r/SideProject/comments/1xfvhl2/got_tired_of_adfilled_video_downloaders_so_i/",
-      "excerpt": ""
+      "created_utc": "2026-10-29T08:06:55.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xidym7/powerpoint_power_bi_automation/",
+      "external_url": null,
+      "excerpt": "Dear community I am building an automation that opens PPTX files which are connected to PowerBI to retrieve data in most of its slides. The loading of each slide is time consuming and Devin created a…"
     },
     {
-      "title": "Data Table Extraction for POs and Reconciliation: How I Measure Accuracy [Workflow Included]",
-      "author": "easybits_ai",
+      "title": "What AI tools do you use to turn from data into reports?",
+      "author": "Hefty_Camera_6948",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-27T12:21:05.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xgr0z4/data_table_extraction_for_pos_and_reconciliation/",
-      "external_url": "https://www.reddit.com/gallery/1xgr0k3",
-      "excerpt": ""
+      "created_utc": "2026-10-28T20:01:51.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xhyuxm/what_ai_tools_do_you_use_to_turn_from_data_into/",
+      "external_url": null,
+      "excerpt": "I have a large amount of form data that needs to be returned into structured outlines and reports. I'm looking for an automation that can extract relevant context from each submission, map it into a t…"
+    },
+    {
+      "title": "Learn n8n from zero for free, 7 episodes from first workflow to AI agents",
+      "author": "No-Mango8172",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-28T21:51:41.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xi1pot/learn_n8n_from_zero_for_free_7_episodes_from/",
+      "external_url": "https://www.youtube.com/playlist?list=PLKWRO3V5cg9c",
+      "excerpt": "Step by step series with real recordings. Setup, first workflow, AI agents with tools, a chatbot with memory, webhooks and data handling. Every workflow is free on GitHub. Happy to answer questions in…"
+    },
+    {
+      "title": "a 1983 paper predicted the commonwealth bank AI reversal",
+      "author": "Nir777",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-28T20:34:06.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xhzq1v/a_1983_paper_predicted_the_commonwealth_bank_ai/",
+      "external_url": "https://www.youtube.com/watch?v=CS3qm4JDGH8&list=PLBrpE2PttR2k",
+      "excerpt": "bainbridge's point was that automating a job leaves the people you keep with the hardest part of it. commonwealth bank cut 45 call centre roles for a voice bot and reversed it weeks later. the video g…"
     }
   ]
 }
