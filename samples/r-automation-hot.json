@@ -1,7 +1,7 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-10-29T12:59:40.176Z",
+  "fetched_at": "2026-10-30T12:54:56.596Z",
   "count": 10,
   "posts": [
     {
@@ -15,24 +15,74 @@
       "excerpt": "Hi guys,I am planning to create a simple AI tool for people in this niche, something that can be helpful to people visiting this sub and they wish to use it for free, a simple tool that can help you i…"
     },
     {
-      "title": "What happens to unreviewed drafts when your automation runs again?",
-      "author": "bayvo",
+      "title": "Our n8n setup now has 23 API credentials and 9 paid subscriptions behind it. Has anyone actually consolidated?",
+      "author": "mediareticulata",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-29T08:34:06.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xiedye/what_happens_to_unreviewed_drafts_when_your/",
+      "created_utc": "2026-10-30T09:44:38.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xjaza2/our_n8n_setup_now_has_23_api_credentials_and_9/",
       "external_url": null,
-      "excerpt": "If yesterday's draft is still sitting there, I'm not sure what the next run should do with it. I use Claude for drafts and don't let it send messages to other people without me looking first. How do y…"
+      "excerpt": "Ops lead at a 40 person company. I inherited an n8n instance that grew one workflow at a time over two years and nobody ever cleaned it up. I finally made a list. 23 credentials and 9 paid subscriptio…"
     },
     {
-      "title": "went through 120 published ai cases from consumer goods companies. the automation that paid off was almost never the flashy stuff",
-      "author": "Creepy_Effective_598",
+      "title": "The Purchase Order Workflow I Have Running in Production for 2 Months [Workflow Included]",
+      "author": "easybits_ai",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-29T08:17:08.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xie4e8/went_through_120_published_ai_cases_from_consumer/",
+      "created_utc": "2026-10-30T09:46:05.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xjb05c/the_purchase_order_workflow_i_have_running_in/",
+      "external_url": "/r/nocode/comments/1xjazvu/the_purchase_order_workflow_i_have_running_in/",
+      "excerpt": ""
+    },
+    {
+      "title": "Top 10 AI Integration Companies to Watch in 2026",
+      "author": "Inside-Bus6555",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-30T10:28:42.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xjbpue/top_10_ai_integration_companies_to_watch_in_2026/",
+      "external_url": "/r/u_Inside-Bus6555/comments/1xjbn0j/top_10_ai_integration_companies_to_watch_in_2026/",
+      "excerpt": ""
+    },
+    {
+      "title": "Building a Custom AI Business Automation System",
+      "author": "Xeriphy",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-30T02:55:21.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xj44wu/building_a_custom_ai_business_automation_system/",
       "external_url": null,
-      "excerpt": "we put together a report at work on AI cases where consumer goods companies actually published results, and I expected it to be mostly ai ads and chatbots, surprisingly not. 54 of the 120 cases are ou…"
+      "excerpt": "Hey guys, I'm looking for some help/guidance. I have a friend who owns several businesses and knows I'm into IT and work in the IT field. He's asked me to build him something you might call an \"AI Ass…"
+    },
+    {
+      "title": "Starting a local business",
+      "author": "FyoFuyo",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-30T07:00:51.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xj8fta/starting_a_local_business/",
+      "external_url": "/r/LocalAIStack/comments/1xj8dun/starting_a_local_business/",
+      "excerpt": ""
+    },
+    {
+      "title": "Looking back at 2025 which AI automation saved you the most time?",
+      "author": "Nora_Clarke35",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-29T17:28:55.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xiqfgm/looking_back_at_2025_which_ai_automation_saved/",
+      "external_url": null,
+      "excerpt": "Looking back at 2025 which AI automation actually saved you the most time? My most used workflows are content creation, automatic meeting notes and action items, daily planning, research and creating…"
+    },
+    {
+      "title": "What are some good Zapier alternatives?",
+      "author": "Hefty_Camera_6948",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-29T21:35:28.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xiwz0z/what_are_some_good_zapier_alternatives/",
+      "external_url": null,
+      "excerpt": "I've been looking into alternatives to Zapier for more complex automation workflows and found a few interesting options. Make an Activepieces seem strong for flexible workflows, Relay and Gumloop take…"
     },
     {
       "title": "clients never asked how it works, just whether the task showed up",
@@ -45,64 +95,14 @@
       "excerpt": "took me way too long to learn this. i used to pitch the stack, which model, how the pipeline works. what actually closed people was one line: the task you send on whatsapp at 11pm is on someone's list…"
     },
     {
-      "title": "Building easy now but verification still needs human eval, right?",
-      "author": "Common_Dream9420",
+      "title": "What happens to unreviewed drafts when your automation runs again?",
+      "author": "bayvo",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-29T01:18:03.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xi6jxn/building_easy_now_but_verification_still_needs/",
+      "created_utc": "2026-10-29T08:34:06.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xiedye/what_happens_to_unreviewed_drafts_when_your/",
       "external_url": null,
-      "excerpt": "we have been automating local businesses use cases like saloon/pizza stores and infact this week someone of friends who are doing social media posts reached me for automation most of the workflows I b…"
-    },
-    {
-      "title": "Best tools to add AI to automate order entry into a legacy ERP without replacing the database",
-      "author": "sibraan_",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-29T08:17:06.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xie4dt/best_tools_to_add_ai_to_automate_order_entry_into/",
-      "external_url": null,
-      "excerpt": "The standard pitch from software consultants is that if you want to automate your supply chain, you’ve to tear out your legacy system and spend hundreds of thousands of dollars migrating to a modern c…"
-    },
-    {
-      "title": "PowerPoint + Power BI automation",
-      "author": "fuckingfrito",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-29T08:06:55.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xidym7/powerpoint_power_bi_automation/",
-      "external_url": null,
-      "excerpt": "Dear community I am building an automation that opens PPTX files which are connected to PowerBI to retrieve data in most of its slides. The loading of each slide is time consuming and Devin created a…"
-    },
-    {
-      "title": "What AI tools do you use to turn from data into reports?",
-      "author": "Hefty_Camera_6948",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-28T20:01:51.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xhyuxm/what_ai_tools_do_you_use_to_turn_from_data_into/",
-      "external_url": null,
-      "excerpt": "I have a large amount of form data that needs to be returned into structured outlines and reports. I'm looking for an automation that can extract relevant context from each submission, map it into a t…"
-    },
-    {
-      "title": "Learn n8n from zero for free, 7 episodes from first workflow to AI agents",
-      "author": "No-Mango8172",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-28T21:51:41.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xi1pot/learn_n8n_from_zero_for_free_7_episodes_from/",
-      "external_url": "https://www.youtube.com/playlist?list=PLKWRO3V5cg9c",
-      "excerpt": "Step by step series with real recordings. Setup, first workflow, AI agents with tools, a chatbot with memory, webhooks and data handling. Every workflow is free on GitHub. Happy to answer questions in…"
-    },
-    {
-      "title": "a 1983 paper predicted the commonwealth bank AI reversal",
-      "author": "Nir777",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-28T20:34:06.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xhzq1v/a_1983_paper_predicted_the_commonwealth_bank_ai/",
-      "external_url": "https://www.youtube.com/watch?v=CS3qm4JDGH8&list=PLBrpE2PttR2k",
-      "excerpt": "bainbridge's point was that automating a job leaves the people you keep with the hardest part of it. commonwealth bank cut 45 call centre roles for a voice bot and reversed it weeks later. the video g…"
+      "excerpt": "If yesterday's draft is still sitting there, I'm not sure what the next run should do with it. I use Claude for drafts and don't let it send messages to other people without me looking first. How do y…"
     }
   ]
 }
