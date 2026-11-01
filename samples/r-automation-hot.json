@@ -1,7 +1,7 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-10-30T12:54:56.596Z",
+  "fetched_at": "2026-11-01T13:23:20.993Z",
   "count": 10,
   "posts": [
     {
@@ -15,6 +15,56 @@
       "excerpt": "Hi guys,I am planning to create a simple AI tool for people in this niche, something that can be helpful to people visiting this sub and they wish to use it for free, a simple tool that can help you i…"
     },
     {
+      "title": "Currently learning how to be an AI Automation Specialist.",
+      "author": "StrengthParticular82",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-11-01T02:24:23.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xkru5d/currently_learning_how_to_be_an_ai_automation/",
+      "external_url": null,
+      "excerpt": "Hi everyone! I'm new to the world of AI automation and would like to start exploring and learning more about it. For someone just starting out, which platform would you recommend focusing on first: Za…"
+    },
+    {
+      "title": "Need Data Entry tasks automated",
+      "author": "Fun_Lawfulness2461",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-11-01T02:05:31.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xkrhvw/need_data_entry_tasks_automated/",
+      "external_url": null,
+      "excerpt": "Hey guys, I am looking to have some data entry tasks automated and not quite sure where to start. In short we get provided several pieces of data by our clients which we use to log into various sites…"
+    },
+    {
+      "title": "How much of your AI workflow is real work versus cleaning up after the model?",
+      "author": "easybits_ai",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-31T13:21:26.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xka30y/how_much_of_your_ai_workflow_is_real_work_versus/",
+      "external_url": "/r/n8nforbeginners/comments/1xka2i9/how_much_of_your_ai_workflow_is_real_work_versus/",
+      "excerpt": ""
+    },
+    {
+      "title": "Integrate Slack in Your Automation Workflows | Device Automation #networ...",
+      "author": "networkevolution_dev",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-31T09:59:48.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xk69kj/integrate_slack_in_your_automation_workflows/",
+      "external_url": "https://youtube.com/watch?v=j86lCA6E4qY&si=Uj0jQF-gLh8NJvOe",
+      "excerpt": ""
+    },
+    {
+      "title": "I’ll build your automation for you, free. What do you want automated?",
+      "author": "klampzlamps",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-30T16:05:02.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xjjf8g/ill_build_your_automation_for_you_free_what_do/",
+      "external_url": null,
+      "excerpt": "Hi all, we’ve been building a tool that makes it easy to automate everyday tasks and chores. In my last post, a lot of you said the existing tools (n8n, Zapier, Make, etc.) are great but fall short in…"
+    },
+    {
       "title": "Our n8n setup now has 23 API credentials and 9 paid subscriptions behind it. Has anyone actually consolidated?",
       "author": "mediareticulata",
       "score": null,
@@ -25,13 +75,23 @@
       "excerpt": "Ops lead at a 40 person company. I inherited an n8n instance that grew one workflow at a time over two years and nobody ever cleaned it up. I finally made a list. 23 credentials and 9 paid subscriptio…"
     },
     {
-      "title": "The Purchase Order Workflow I Have Running in Production for 2 Months [Workflow Included]",
-      "author": "easybits_ai",
+      "title": "What goes into your handoff automation when you close a deal and need to onboard the client you won?",
+      "author": "Davnys",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-10-30T09:46:05.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xjb05c/the_purchase_order_workflow_i_have_running_in/",
-      "external_url": "/r/nocode/comments/1xjazvu/the_purchase_order_workflow_i_have_running_in/",
+      "created_utc": "2026-10-30T14:13:30.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xjghrv/what_goes_into_your_handoff_automation_when_you/",
+      "external_url": null,
+      "excerpt": "Our sales to onboarding handoff used to be a HubSpot automation. When we closed a deal it alerted who needed to do the onboarding with the amount, products, close date, and whatever other info they ne…"
+    },
+    {
+      "title": "Open Source Wins Again: 4 Companies Post-Train Their Own Video Models After MiniMax H3 Goes Open Source",
+      "author": "videorouter",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-10-30T16:26:56.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xjk0oc/open_source_wins_again_4_companies_posttrain/",
+      "external_url": "/r/VideoRouter/comments/1xjjndd/open_source_wins_again_4_companies_posttrain/",
       "excerpt": ""
     },
     {
@@ -43,66 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1xjbpue/top_10_ai_integration_companies_to_watch_in_2026/",
       "external_url": "/r/u_Inside-Bus6555/comments/1xjbn0j/top_10_ai_integration_companies_to_watch_in_2026/",
       "excerpt": ""
-    },
-    {
-      "title": "Building a Custom AI Business Automation System",
-      "author": "Xeriphy",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-30T02:55:21.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xj44wu/building_a_custom_ai_business_automation_system/",
-      "external_url": null,
-      "excerpt": "Hey guys, I'm looking for some help/guidance. I have a friend who owns several businesses and knows I'm into IT and work in the IT field. He's asked me to build him something you might call an \"AI Ass…"
-    },
-    {
-      "title": "Starting a local business",
-      "author": "FyoFuyo",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-30T07:00:51.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xj8fta/starting_a_local_business/",
-      "external_url": "/r/LocalAIStack/comments/1xj8dun/starting_a_local_business/",
-      "excerpt": ""
-    },
-    {
-      "title": "Looking back at 2025 which AI automation saved you the most time?",
-      "author": "Nora_Clarke35",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-29T17:28:55.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xiqfgm/looking_back_at_2025_which_ai_automation_saved/",
-      "external_url": null,
-      "excerpt": "Looking back at 2025 which AI automation actually saved you the most time? My most used workflows are content creation, automatic meeting notes and action items, daily planning, research and creating…"
-    },
-    {
-      "title": "What are some good Zapier alternatives?",
-      "author": "Hefty_Camera_6948",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-29T21:35:28.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xiwz0z/what_are_some_good_zapier_alternatives/",
-      "external_url": null,
-      "excerpt": "I've been looking into alternatives to Zapier for more complex automation workflows and found a few interesting options. Make an Activepieces seem strong for flexible workflows, Relay and Gumloop take…"
-    },
-    {
-      "title": "clients never asked how it works, just whether the task showed up",
-      "author": "FullStackFrenzy",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-29T12:52:38.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xij4q1/clients_never_asked_how_it_works_just_whether_the/",
-      "external_url": null,
-      "excerpt": "took me way too long to learn this. i used to pitch the stack, which model, how the pipeline works. what actually closed people was one line: the task you send on whatsapp at 11pm is on someone's list…"
-    },
-    {
-      "title": "What happens to unreviewed drafts when your automation runs again?",
-      "author": "bayvo",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-10-29T08:34:06.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xiedye/what_happens_to_unreviewed_drafts_when_your/",
-      "external_url": null,
-      "excerpt": "If yesterday's draft is still sitting there, I'm not sure what the next run should do with it. I use Claude for drafts and don't let it send messages to other people without me looking first. How do y…"
     }
   ]
 }
