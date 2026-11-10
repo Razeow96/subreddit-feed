@@ -1,7 +1,7 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-11-09T16:17:00.764Z",
+  "fetched_at": "2026-11-10T14:52:30.416Z",
   "count": 10,
   "posts": [
     {
@@ -15,94 +15,94 @@
       "excerpt": "Hi guys,I am planning to create a simple AI tool for people in this niche, something that can be helpful to people visiting this sub and they wish to use it for free, a simple tool that can help you i…"
     },
     {
-      "title": "Paying ~18¢ per shop for an AI agent to call two APIs. What’s the cheaper way to get the same info?",
-      "author": "qhelspil",
+      "title": "Our AI drafted a kickoff date the customer had only floated, and someone who wasn't on the call approved it. Which CRM fields would you never let an automation write?",
+      "author": "CalypsosCableCo",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-11-09T00:15:52.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xrdceg/paying_18_per_shop_for_an_ai_agent_to_call_two/",
+      "created_utc": "2026-11-10T11:40:58.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xskqfe/our_ai_drafted_a_kickoff_date_the_customer_had/",
       "external_url": null,
-      "excerpt": "I qualify small local shops (groceries, butchers, restaurants) as sales leads. For each shop I need to know what it actually sells and match my products to what they sell. Right now an AI agent (claud…"
+      "excerpt": "We used to have our AI notetaker write straight into Salesforce after each sales call, but it never looked at any of the other calls only the one it was recording so our deals filled up with steps tha…"
     },
     {
-      "title": "Simplest way to convert any pdf/link into a explainer video with sound / music",
-      "author": "phicreative1997",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-11-09T02:39:46.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xrg93v/simplest_way_to_convert_any_pdflink_into_a/",
-      "external_url": null,
-      "excerpt": "The simplest way to turn any PDF or link into an explainer video, with voiceover and music? Blog2Video. Paste a link or upload a PDF. It pulls out the key ideas and writes the script. It builds the sc…"
-    },
-    {
-      "title": "Cut changeover on a packaging line from 48 minutes to 19 and most of it was not automation",
-      "author": "Firm_Safe7495",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-11-08T21:23:05.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xr9j2l/cut_changeover_on_a_packaging_line_from_48/",
-      "external_url": "/r/mfg_automation/comments/1xr9h9k/cut_changeover_on_a_packaging_line_from_48/",
-      "excerpt": ""
-    },
-    {
-      "title": "Getting carrier quotes into a proposal deck: where to start?",
-      "author": "Business-Zombie-1320",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-11-08T14:06:41.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xqz7p9/getting_carrier_quotes_into_a_proposal_deck_where/",
-      "external_url": null,
-      "excerpt": "six to eight carrier quotes per client and the same 15 points in each and someone retypes them into a powerpoint with a slide per policy type. copilot does an ok job but not consistently enough to rel…"
-    },
-    {
-      "title": "Workflow: one brief to a 13 minute narrated video. 5 stages, 3 human checkpoints, and where it broke",
-      "author": "Glad_Plastic_4724",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-11-08T16:50:23.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xr2x3b/workflow_one_brief_to_a_13_minute_narrated_video/",
-      "external_url": "https://youtu.be/RFvNbPtjh6M?si=ql2dM5c-GHMjaL9C",
-      "excerpt": "Disclosure: step 3 uses my own app (Demodokos Foundry) for voices and music. You could swap in another speech tool. No link here, this post is about the workflow. We make our tutorials and marketing v…"
-    },
-    {
-      "title": "I built a Manifest V3 extension that orchestrates automation across completely separate tabs (Open-Source)",
-      "author": "Aahil1287",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-11-08T13:24:47.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xqycr3/i_built_a_manifest_v3_extension_that_orchestrates/",
-      "external_url": "https://github.com/Aahil-Riyaz/auto-pearson",
-      "excerpt": ""
-    },
-    {
-      "title": "How r you handling multi player agent workflows ??",
+      "title": "Been building workflows for local businesses to automate using meta/ads api and WhatsApp but how are you validating them?",
       "author": "Common_Dream9420",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-11-08T15:36:44.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xr16se/how_r_you_handling_multi_player_agent_workflows/",
+      "created_utc": "2026-11-10T14:20:14.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xso3a3/been_building_workflows_for_local_businesses_to/",
       "external_url": null,
-      "excerpt": "Been doing a bunch of customer calls lately trying to understand where AI agents actually break down in real workflows. The pattern I keep hearing: agents fail not because the task is hard, but becaus…"
+      "excerpt": "we have been automating local businmesses, mostly friends who owns and also neighborhood shops .. most of the APIs involved meta/whatsapp cloud api/ zendesk / Google Docs sheets / calendar / twilios/…"
     },
     {
-      "title": "I don't know. How should I do it?",
-      "author": "XunooL",
+      "title": "Building reporting dashboards: how do you draw the line on what is too granular?",
+      "author": "easybits_ai",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-11-08T19:12:42.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xr6ejy/i_dont_know_how_should_i_do_it/",
-      "external_url": null,
-      "excerpt": "I'm using the \"Loom video cold outreach method,\" where I send a connection request to my ICPs, and whoever accepts it, I engage with their content for 3-4 days before I send them the Loom video I have…"
+      "created_utc": "2026-11-10T12:38:31.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xsluew/building_reporting_dashboards_how_do_you_draw_the/",
+      "external_url": "/r/n8n/comments/1xsltxe/building_reporting_dashboards_how_do_you_draw_the/",
+      "excerpt": ""
     },
     {
-      "title": "Tasket++ : Simulate your Windows actions automatically (free & open source)",
-      "author": "AmirHammoutene",
+      "title": "Moved from factory CI in Poland to SF, trying to start an automation agency from zero. How did you get your first clients?",
+      "author": "Background_Plate1164",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-11-08T05:55:00.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xqr8e1/tasket_simulate_your_windows_actions/",
-      "external_url": "https://www.reddit.com/gallery/1xqr8e1",
-      "excerpt": "Tasket++ lets you define your own clicks, keystrokes, cursor positions and system operations, then replay them exactly when you want. It’s a simple Windows tool that handles repetitive workflows for y…"
+      "created_utc": "2026-11-09T22:09:32.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xs5dun/moved_from_factory_ci_in_poland_to_sf_trying_to/",
+      "external_url": null,
+      "excerpt": "Back in Poland I ran continuous improvement at a factory. Most of my automation experience comes from there: finding where production lost time and fixing it, more and more with AI. Now I’m in SF tryi…"
+    },
+    {
+      "title": "Adding one message edge per query, and keeping it only when the trace shows it helped, lifted a fixed agent workflow 8% on ToolBench: notes on \"SPLICE\" (USTC + Alibaba Qwen + NUS)",
+      "author": "WrongTechnician",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-11-10T04:33:51.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xsdpsj/adding_one_message_edge_per_query_and_keeping_it/",
+      "external_url": "https://i.redd.it/pij63pf1rp0i1.png",
+      "excerpt": ""
+    },
+    {
+      "title": "Is the real cost of an automation the maintenance, not the build?",
+      "author": "FulcraDynamics",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-11-09T18:02:56.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xrytdy/is_the_real_cost_of_an_automation_the_maintenance/",
+      "external_url": null,
+      "excerpt": "Building an automation feels productive. You see it run, it works, and it’s satisfying. But the cost that comes later tends to be less visible: an API changes, a field gets renamed, a trigger stops fi…"
+    },
+    {
+      "title": "Ai agent",
+      "author": "curiousalwaze",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-11-10T01:03:31.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xs9hda/ai_agent/",
+      "external_url": null,
+      "excerpt": "Im looking to have an ai agent call insurance companies and do verification of benefits. Its basically the same 15 questions asked every time and put onto a sheet. Is there a way to do this somehow th…"
+    },
+    {
+      "title": "My automation ran green for a week and wrote nothing. Three checks that catch it",
+      "author": "oss-benji",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-11-09T17:38:35.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xry5c7/my_automation_ran_green_for_a_week_and_wrote/",
+      "external_url": null,
+      "excerpt": "A thread on r/n8n last week stuck with me: a workflow showed green for a whole week and wrote nothing. Every run succeeded, because nothing in it failed. It had no input, or matched nothing, and ended…"
+    },
+    {
+      "title": "How to Build Custom AI Workflows Without Writing Code",
+      "author": "Ok_pettech",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-11-09T18:57:43.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xs0bbb/how_to_build_custom_ai_workflows_without_writing/",
+      "external_url": "https://interconnectd.com/blog/2/building-custom-ai-workflows-a-no-code-guide-for-everyday-tasks/",
+      "excerpt": ""
     }
   ]
 }
