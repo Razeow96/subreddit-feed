@@ -1,7 +1,7 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-11-11T14:21:51.071Z",
+  "fetched_at": "2026-11-12T15:14:04.758Z",
   "count": 10,
   "posts": [
     {
@@ -15,94 +15,94 @@
       "excerpt": "Hi guys,I am planning to create a simple AI tool for people in this niche, something that can be helpful to people visiting this sub and they wish to use it for free, a simple tool that can help you i…"
     },
     {
-      "title": "i tested 7 browser setups on the same 100 live web tasks",
-      "author": "ldrx",
+      "title": "Anyone else feel like AI automation needs more babysitting than expected?",
+      "author": "Cloudy_Day912",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-11-11T14:19:04.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xtix41/i_tested_7_browser_setups_on_the_same_100_live/",
+      "created_utc": "2026-11-12T10:56:18.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xu9u34/anyone_else_feel_like_ai_automation_needs_more/",
       "external_url": null,
-      "excerpt": "100 Online-Mind2Web tasks on live websites, scored with the benchmark's official judge. six local setups on the same datacenter server/IP, claude haiku 5.5, headed browsers, 10-minute cap, one attempt…"
+      "excerpt": "I keep seeing people talk about automating everything with AI, but I'm starting to wonder how much of it actually runs smoothly without someone constantly checking things. Like, automating repetitive…"
     },
     {
-      "title": "Starting to test an AI browser that works inside logged-in sites. What should I throw at it?",
-      "author": "Separate-Might3082",
+      "title": "How can I build a Claude workflow to read and analyze comments on posts?",
+      "author": "denedeh",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-11-11T00:18:14.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xt39zs/starting_to_test_an_ai_browser_that_works_inside/",
+      "created_utc": "2026-11-12T08:30:49.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xu7i4p/how_can_i_build_a_claude_workflow_to_read_and/",
       "external_url": null,
-      "excerpt": "Everyone talks about AI browser agents clicking around for generic tasks. But looking at tools like Aside that operate directly inside active, logged-in browser sessions, where is the actual utility?…"
+      "excerpt": "i run marketplace accounts at an agency, mostly Amazon but also walmart and some DTC brands. Part of my job is keeping track of a list of people who post about whats happening on amazon. sellers and p…"
     },
     {
-      "title": "How much autonomy do you actually give your AI agents?",
-      "author": "FulcraDynamics",
+      "title": "Newbie Desperate to Automate Video Uploads",
+      "author": "mnrqz",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-11-11T14:04:27.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xtik5y/how_much_autonomy_do_you_actually_give_your_ai/",
+      "created_utc": "2026-11-12T11:59:44.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xuaxo0/newbie_desperate_to_automate_video_uploads/",
       "external_url": null,
-      "excerpt": "You might use ChatGPT for research, Claude for writing, and another agent to handle repetitive tasks. Each one works fine on its own. The problem starts when something changes in one tool and the othe…"
+      "excerpt": "Hi everyone. I'm brand spanking new to automations which I got into because I wanted to post a video to a Google Drive Folder or Slack channel and have it upload as a draft to the following using the…"
     },
     {
-      "title": "Someone used ChatGPT Voice Mode for real estate cold calls, disclosed it was AI and got 12-15% conversations + 2-3% meetings booked",
-      "author": "sibraan_",
+      "title": "Why don’t people use Google Apps Script?",
+      "author": "mrn33dy",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-11-11T12:15:43.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xtg965/someone_used_chatgpt_voice_mode_for_real_estate/",
-      "external_url": "https://i.redd.it/82jamdn21z0i1.jpeg",
+      "created_utc": "2026-11-11T21:34:51.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xtudxy/why_dont_people_use_google_apps_script/",
+      "external_url": null,
+      "excerpt": "I feel like Google has a hidden gem in automation, especially if they integrate Gemini to expand their audience to non technical people. Why doesn’t this product get more love and how can Google grow…"
+    },
+    {
+      "title": "what i'd want settled before agents touch real systems at a company. 10 items, what would you add or cut?",
+      "author": "michaelTM_ai",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-11-12T14:17:09.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xudwe1/what_id_want_settled_before_agents_touch_real/",
+      "external_url": null,
+      "excerpt": "goldman pulling claude code from its bankers and traders (devs keep it) made me write down what i'd actually want settled before agents touch real systems at a company. here's the list, curious what p…"
+    },
+    {
+      "title": "How I built our own semantic company search in Claude",
+      "author": "Meolans",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-11-12T07:50:14.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xu6uzr/how_i_built_our_own_semantic_company_search_in/",
+      "external_url": null,
+      "excerpt": "i build our target account lists. We tried one of the managed search tools where you describe your icp in a paragraph and it finds the companies for you. its so damn slow, and when i eyeballed it agai…"
+    },
+    {
+      "title": "This really is the secret sauce. DevSecOps and MSSP.",
+      "author": "Big_Law_3080",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-11-12T12:46:48.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xubva3/this_really_is_the_secret_sauce_devsecops_and_mssp/",
+      "external_url": "/r/GrokBot/comments/1xubuwk/this_really_is_the_secret_sauce_devsecops_and_mssp/",
       "excerpt": ""
     },
     {
-      "title": "Zapier alternatives I've been testing for different automation needs",
-      "author": "PsychologyOld4009",
+      "title": "One telegram text turns a podcast into scheduled clips in 15-25 minutes",
+      "author": "Business-Zombie-1320",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-11-10T20:54:05.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xsydtc/zapier_alternatives_ive_been_testing_for/",
+      "created_utc": "2026-11-12T07:43:28.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xu6r9e/one_telegram_text_turns_a_podcast_into_scheduled/",
       "external_url": null,
-      "excerpt": "I've been comparing a few Zapier alternatives and found that they each seem better suited to different types of workflows. WRK stood out to me for more complex workflows and pricing Make has a strong…"
+      "excerpt": "The control panel for this whole clipping operation is a chat app. vadim explained the setup in a long post on x. he texts his hermes agent on telegram something like \"clip the latest lex fridman podc…"
     },
     {
-      "title": "building with design partners and validating their agent writtn automation is fun!!",
-      "author": "Common_Dream9420",
+      "title": "How do you decide whether a task is worth automating?",
+      "author": "ibrahim_40",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-11-11T04:35:49.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xt8k7h/building_with_design_partners_and_validating/",
+      "created_utc": "2026-11-11T18:37:41.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xtprzy/how_do_you_decide_whether_a_task_is_worth/",
       "external_url": null,
-      "excerpt": "I am building FetchSandbox in public, and as part of finding design partners, met few automation business owners who are helping their local small businesses to automate. When i spoke to them during t…"
-    },
-    {
-      "title": "What's the hardest part of managing multiple clients that no tool has really solved for you?",
-      "author": "FulcraDynamics",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-11-10T22:11:18.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xt0b9m/whats_the_hardest_part_of_managing_multiple/",
-      "external_url": null,
-      "excerpt": "There are tools for pretty much everything now. Project management, notes, scheduling, CRM, automation. But having all those tools doesn't necessarily make managing several clients easier. For those w…"
-    },
-    {
-      "title": "Best way to set up multiple agents",
-      "author": "sappy02",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-11-11T06:03:11.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xta56x/best_way_to_set_up_multiple_agents/",
-      "external_url": "/r/AI_Agents/comments/1xta51g/best_way_to_set_up_multiple_agents/",
-      "excerpt": ""
-    },
-    {
-      "title": "what's one boring task you automated that actually stayed automated",
-      "author": "lucy_yarntra007",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-11-10T15:15:52.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xspgzr/whats_one_boring_task_you_automated_that_actually/",
-      "external_url": null,
-      "excerpt": "not the flashy stuff. the dull thing that used to eat 20 minutes a day and now just happens. bonus points if it survived a website redesign or an api change without you babysitting it. also curious: i…"
+      "excerpt": "My rule of thumb is that it has to happen at least weekly, take more than ten minutes by hand and be boring enough that I’d never miss doing it. Anything that needs judgment each time usually costs me…"
     }
   ]
 }
