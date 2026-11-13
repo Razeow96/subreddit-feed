@@ -1,7 +1,7 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-11-12T15:14:04.758Z",
+  "fetched_at": "2026-11-13T14:33:54.580Z",
   "count": 10,
   "posts": [
     {
@@ -15,6 +15,56 @@
       "excerpt": "Hi guys,I am planning to create a simple AI tool for people in this niche, something that can be helpful to people visiting this sub and they wish to use it for free, a simple tool that can help you i…"
     },
     {
+      "title": "What's one boring task you automated that saved you more time than expected?",
+      "author": "AlarmingAlgae9086",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-11-13T06:40:52.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xv0rsy/whats_one_boring_task_you_automated_that_saved/",
+      "external_url": null,
+      "excerpt": "I have been noticing how much time we waste doing the same little same little things every day without even thinking about it. Things like organizing files, copying or updating spreadsheets. None of t…"
+    },
+    {
+      "title": "Anyone managed to get an AI agent to actually complete a purchase?",
+      "author": "Mundane-Asparagus850",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-11-13T01:16:09.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xuuj3d/anyone_managed_to_get_an_ai_agent_to_actually/",
+      "external_url": null,
+      "excerpt": "Trying to get into automating some smaller purchases, mostly stuff like software credits or replacement equipment. Getting an agent to find what I need and reach checkout seems easy enough. The paymen…"
+    },
+    {
+      "title": "How I built a $10M business while everyone called us Clay’s copy (15 people, $250K pre-seed, 1,200+ customers)",
+      "author": "Confident_Reward_387",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-11-13T12:43:35.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xv6w7v/how_i_built_a_10m_business_while_everyone_called/",
+      "external_url": null,
+      "excerpt": "people call us a clay clone, on reddit, on linkedin, sometimes on our own demo calls (so this is basically a replica of clay? yes, kind of) we built a business out of the problems people had with a $7…"
+    },
+    {
+      "title": "I used my browser automation tool to find a name for itself",
+      "author": "RealSirJoe",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-11-13T09:59:08.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xv3xd3/i_used_my_browser_automation_tool_to_find_a_name/",
+      "external_url": "https://i.redd.it/kd79g7n9rc1i1.gif",
+      "excerpt": "I've been building an open-source programmable browser for automating websites and extracting structured data. For a while, I was calling it Phoenix , but eventually realized I needed a better, more d…"
+    },
+    {
+      "title": "Built invoice reconciliation in n8n: The hardest part is matching who the customer actually is",
+      "author": "easybits_ai",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-11-13T13:24:36.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xv7shs/built_invoice_reconciliation_in_n8n_the_hardest/",
+      "external_url": "/r/n8nforbeginners/comments/1xv7rxr/built_invoice_reconciliation_in_n8n_the_hardest/",
+      "excerpt": ""
+    },
+    {
       "title": "Anyone else feel like AI automation needs more babysitting than expected?",
       "author": "Cloudy_Day912",
       "score": null,
@@ -23,36 +73,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1xu9u34/anyone_else_feel_like_ai_automation_needs_more/",
       "external_url": null,
       "excerpt": "I keep seeing people talk about automating everything with AI, but I'm starting to wonder how much of it actually runs smoothly without someone constantly checking things. Like, automating repetitive…"
-    },
-    {
-      "title": "How can I build a Claude workflow to read and analyze comments on posts?",
-      "author": "denedeh",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-11-12T08:30:49.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xu7i4p/how_can_i_build_a_claude_workflow_to_read_and/",
-      "external_url": null,
-      "excerpt": "i run marketplace accounts at an agency, mostly Amazon but also walmart and some DTC brands. Part of my job is keeping track of a list of people who post about whats happening on amazon. sellers and p…"
-    },
-    {
-      "title": "Newbie Desperate to Automate Video Uploads",
-      "author": "mnrqz",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-11-12T11:59:44.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xuaxo0/newbie_desperate_to_automate_video_uploads/",
-      "external_url": null,
-      "excerpt": "Hi everyone. I'm brand spanking new to automations which I got into because I wanted to post a video to a Google Drive Folder or Slack channel and have it upload as a draft to the following using the…"
-    },
-    {
-      "title": "Why don’t people use Google Apps Script?",
-      "author": "mrn33dy",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-11-11T21:34:51.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xtudxy/why_dont_people_use_google_apps_script/",
-      "external_url": null,
-      "excerpt": "I feel like Google has a hidden gem in automation, especially if they integrate Gemini to expand their audience to non technical people. Why doesn’t this product get more love and how can Google grow…"
     },
     {
       "title": "what i'd want settled before agents touch real systems at a company. 10 items, what would you add or cut?",
@@ -65,44 +85,24 @@
       "excerpt": "goldman pulling claude code from its bankers and traders (devs keep it) made me write down what i'd actually want settled before agents touch real systems at a company. here's the list, curious what p…"
     },
     {
-      "title": "How I built our own semantic company search in Claude",
-      "author": "Meolans",
+      "title": "Newbie Desperate to Automate Video Uploads",
+      "author": "mnrqz",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-11-12T07:50:14.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xu6uzr/how_i_built_our_own_semantic_company_search_in/",
+      "created_utc": "2026-11-12T11:59:44.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xuaxo0/newbie_desperate_to_automate_video_uploads/",
       "external_url": null,
-      "excerpt": "i build our target account lists. We tried one of the managed search tools where you describe your icp in a paragraph and it finds the companies for you. its so damn slow, and when i eyeballed it agai…"
+      "excerpt": "Hi everyone. I'm brand spanking new to automations which I got into because I wanted to post a video to a Google Drive Folder or Slack channel and have it upload as a draft to the following using the…"
     },
     {
-      "title": "This really is the secret sauce. DevSecOps and MSSP.",
-      "author": "Big_Law_3080",
+      "title": "I gave my AI bots access to my iMessage",
+      "author": "raghp",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-11-12T12:46:48.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xubva3/this_really_is_the_secret_sauce_devsecops_and_mssp/",
-      "external_url": "/r/GrokBot/comments/1xubuwk/this_really_is_the_secret_sauce_devsecops_and_mssp/",
-      "excerpt": ""
-    },
-    {
-      "title": "One telegram text turns a podcast into scheduled clips in 15-25 minutes",
-      "author": "Business-Zombie-1320",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-11-12T07:43:28.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xu6r9e/one_telegram_text_turns_a_podcast_into_scheduled/",
+      "created_utc": "2026-11-12T20:49:02.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xuoaaf/i_gave_my_ai_bots_access_to_my_imessage/",
       "external_url": null,
-      "excerpt": "The control panel for this whole clipping operation is a chat app. vadim explained the setup in a long post on x. he texts his hermes agent on telegram something like \"clip the latest lex fridman podc…"
-    },
-    {
-      "title": "How do you decide whether a task is worth automating?",
-      "author": "ibrahim_40",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-11-11T18:37:41.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xtprzy/how_do_you_decide_whether_a_task_is_worth/",
-      "external_url": null,
-      "excerpt": "My rule of thumb is that it has to happen at least weekly, take more than ten minutes by hand and be boring enough that I’d never miss doing it. Anything that needs judgment each time usually costs me…"
+      "excerpt": "I don't trust anyone else with my data or my automations, so I built my own AI agent setup (OpenTeam) and open-sourced it for free. It runs on my own server, with whatever model I pick, including a lo…"
     }
   ]
 }
