@@ -1,7 +1,7 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-11-14T13:30:05.589Z",
+  "fetched_at": "2026-11-15T13:55:23.937Z",
   "count": 10,
   "posts": [
     {
@@ -13,6 +13,66 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1wulft2/need_suggestions_for_a_simple_ai_tool/",
       "external_url": null,
       "excerpt": "Hi guys,I am planning to create a simple AI tool for people in this niche, something that can be helpful to people visiting this sub and they wish to use it for free, a simple tool that can help you i…"
+    },
+    {
+      "title": "How to create an ai agent that actually does stuff for my team?",
+      "author": "flaresomewhere",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-11-14T15:27:52.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xw53g3/how_to_create_an_ai_agent_that_actually_does/",
+      "external_url": null,
+      "excerpt": "We're a 17-person startup and I've been down this rabbit hole for weeks. Every guide I find is written for developers or solo people. I just want something that handles recurring ops stuff without me…"
+    },
+    {
+      "title": "your workflow integration looks fine until webhooks retry twice and your handler fires 3 times, drop your workflow and i'll run it",
+      "author": "Common_Dream9420",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-11-15T07:14:19.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xwp6gz/your_workflow_integration_looks_fine_until/",
+      "external_url": null,
+      "excerpt": "the part nobody talks about with AI-built integrations: the happy path works. it's the 2am scenario that doesn't. payment captured twice because the webhook retried. SMS job fires on a carrier rejecti…"
+    },
+    {
+      "title": "been building workflow dry-run factory!! and the receipt shows exact results what i expected!!!",
+      "author": "Common_Dream9420",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-11-15T06:40:22.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xwoma2/been_building_workflow_dryrun_factory_and_the/",
+      "external_url": "https://fetchsandbox.com/runs/3d902dfd1a?flow=vr_2b5550810ed94ba6ae8b98114cc0bb8f&check=gmail_send_response_loss",
+      "excerpt": ""
+    },
+    {
+      "title": "Automate sign-ups, logins and warm-ups in real Safari on a Mac. The browser won’t give you away",
+      "author": "Objective_Reach_767",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-11-14T20:41:34.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xwcqr6/automate_signups_logins_and_warmups_in_real/",
+      "external_url": "https://www.reddit.com/gallery/1xwcqr6",
+      "excerpt": "Most automation gets caught on the browser, not the script. Headless Chrome, Playwright and Puppeteer leave marks that sites look for. Then come the captchas, and the accounts go down together. I buil…"
+    },
+    {
+      "title": "How I am building/automating small businesss while doing fulltime side projects using Claude mobile",
+      "author": "Common_Dream9420",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-11-14T15:19:08.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xw4w2r/how_i_am_buildingautomating_small_businesss_while/",
+      "external_url": "https://www.reddit.com/gallery/1xw4w2r",
+      "excerpt": "I have been automating for small businesses as side projects/extra income, I was asked to build simple workflow for handling lead submissions using hubspot/slaxk/gamil/cal nodes this is what I build a…"
+    },
+    {
+      "title": "Fast online AI image-to-video and text-to-video generator for quick social clips and mockups",
+      "author": "Ok_pettech",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-11-14T14:23:26.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xw3loz/fast_online_ai_imagetovideo_and_texttovideo/",
+      "external_url": "https://interconnectd.com/ai-video-generator/",
+      "excerpt": ""
     },
     {
       "title": "The automation that works 95% of the time can be the most annoying one",
@@ -35,16 +95,6 @@
       "excerpt": "Email was the job I most wanted off my plate, and also the one I trusted least to automation. Auto-replies feel wrong and a bot sending mail in my name is a no. What ended up working is boring: the ag…"
     },
     {
-      "title": "which AI testing tools give auditable step by step run reports with screenshots and failure analysis?",
-      "author": "Nonononikkii",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-11-13T20:10:15.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xvibii/which_ai_testing_tools_give_auditable_step_by/",
-      "external_url": null,
-      "excerpt": "I run test and monitoring automation for a few internal systems at an insurer. getting the tests to run was the easy part. the problem now is what I can hand over when someone asks for proof. Internal…"
-    },
-    {
       "title": "What's one boring task you automated that saved you more time than expected?",
       "author": "AlarmingAlgae9086",
       "score": null,
@@ -53,56 +103,6 @@
       "permalink": "https://www.reddit.com/r/automation/comments/1xv0rsy/whats_one_boring_task_you_automated_that_saved/",
       "external_url": null,
       "excerpt": "I have been noticing how much time we waste doing the same little same little things every day without even thinking about it. Things like organizing files, copying or updating spreadsheets. None of t…"
-    },
-    {
-      "title": "How I built a $10M business while everyone called us Clay’s copy (15 people, $250K pre-seed, 1,200+ customers)",
-      "author": "Confident_Reward_387",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-11-13T12:43:35.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xv6w7v/how_i_built_a_10m_business_while_everyone_called/",
-      "external_url": null,
-      "excerpt": "people call us a clay clone, on reddit, on linkedin, sometimes on our own demo calls (so this is basically a replica of clay? yes, kind of) we built a business out of the problems people had with a $7…"
-    },
-    {
-      "title": "Anyone managed to get an AI agent to actually complete a purchase?",
-      "author": "Mundane-Asparagus850",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-11-13T01:16:09.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xuuj3d/anyone_managed_to_get_an_ai_agent_to_actually/",
-      "external_url": null,
-      "excerpt": "Trying to get into automating some smaller purchases, mostly stuff like software credits or replacement equipment. Getting an agent to find what I need and reach checkout seems easy enough. The paymen…"
-    },
-    {
-      "title": "Built invoice reconciliation in n8n: The hardest part is matching who the customer actually is",
-      "author": "easybits_ai",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-11-13T13:24:36.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xv7shs/built_invoice_reconciliation_in_n8n_the_hardest/",
-      "external_url": "/r/n8nforbeginners/comments/1xv7rxr/built_invoice_reconciliation_in_n8n_the_hardest/",
-      "excerpt": ""
-    },
-    {
-      "title": "I used my browser automation tool to find a name for itself",
-      "author": "RealSirJoe",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-11-13T09:59:08.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xv3xd3/i_used_my_browser_automation_tool_to_find_a_name/",
-      "external_url": "https://i.redd.it/kd79g7n9rc1i1.gif",
-      "excerpt": "I've been building an open-source programmable browser for automating websites and extracting structured data. For a while, I was calling it Phoenix , but eventually realized I needed a better, more d…"
-    },
-    {
-      "title": "Anyone else feel like AI automation needs more babysitting than expected?",
-      "author": "Cloudy_Day912",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-11-12T10:56:18.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xu9u34/anyone_else_feel_like_ai_automation_needs_more/",
-      "external_url": null,
-      "excerpt": "I keep seeing people talk about automating everything with AI, but I'm starting to wonder how much of it actually runs smoothly without someone constantly checking things. Like, automating repetitive…"
     }
   ]
 }
