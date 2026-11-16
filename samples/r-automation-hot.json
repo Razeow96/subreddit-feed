@@ -1,7 +1,7 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-11-15T13:55:23.937Z",
+  "fetched_at": "2026-11-16T15:45:05.994Z",
   "count": 10,
   "posts": [
     {
@@ -15,94 +15,94 @@
       "excerpt": "Hi guys,I am planning to create a simple AI tool for people in this niche, something that can be helpful to people visiting this sub and they wish to use it for free, a simple tool that can help you i…"
     },
     {
-      "title": "How to create an ai agent that actually does stuff for my team?",
-      "author": "flaresomewhere",
+      "title": "Whats a good Exa alternative for people data?",
+      "author": "Breoganhackett",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-11-14T15:27:52.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xw53g3/how_to_create_an_ai_agent_that_actually_does/",
+      "created_utc": "2026-11-16T06:52:05.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xximwz/whats_a_good_exa_alternative_for_people_data/",
       "external_url": null,
-      "excerpt": "We're a 17-person startup and I've been down this rabbit hole for weeks. Every guide I find is written for developers or solo people. I just want something that handles recurring ops stuff without me…"
+      "excerpt": "Im building a sourcing agent for our recruiting team. Exa has been the people layer so far, we thought its semantic search was good. the problem is filters like seniority or past employer have to go i…"
     },
     {
-      "title": "your workflow integration looks fine until webhooks retry twice and your handler fires 3 times, drop your workflow and i'll run it",
-      "author": "Common_Dream9420",
+      "title": "Our AI employee runs follow-ups and routine work for a whole team. What would you automate first?",
+      "author": "AshishKulkarni1411",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-11-15T07:14:19.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xwp6gz/your_workflow_integration_looks_fine_until/",
+      "created_utc": "2026-11-16T14:23:20.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xxqlz6/our_ai_employee_runs_followups_and_routine_work/",
       "external_url": null,
-      "excerpt": "the part nobody talks about with AI-built integrations: the happy path works. it's the 2am scenario that doesn't. payment captured twice because the webhook retried. SMS job fires on a carrier rejecti…"
+      "excerpt": "I'm the founder of this project, so take it with that in mind. I want opinions from people who automate for a living. Since May 2026 we've used an AI employee at our company that works with the whole…"
     },
     {
-      "title": "been building workflow dry-run factory!! and the receipt shows exact results what i expected!!!",
-      "author": "Common_Dream9420",
+      "title": "How do you make RPA faster when there is no API? 🤔",
+      "author": "ApprehensiveEmploy92",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-11-15T06:40:22.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xwoma2/been_building_workflow_dryrun_factory_and_the/",
-      "external_url": "https://fetchsandbox.com/runs/3d902dfd1a?flow=vr_2b5550810ed94ba6ae8b98114cc0bb8f&check=gmail_send_response_loss",
+      "created_utc": "2026-11-16T09:50:47.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xxlfng/how_do_you_make_rpa_faster_when_there_is_no_api/",
+      "external_url": null,
+      "excerpt": "I'm facing an interesting challenge with automation: what happens when you need to collect data from multiple platforms and feed it into another system that doesn't offer an API? You can use RPA bots…"
+    },
+    {
+      "title": "Tasket++: Automate your Windows actions (free & open source)",
+      "author": "AmirHammoutene",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-11-16T08:13:22.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xxjxyq/tasket_automate_your_windows_actions_free_open/",
+      "external_url": "https://www.reddit.com/gallery/1xxhig9",
       "excerpt": ""
     },
     {
-      "title": "Automate sign-ups, logins and warm-ups in real Safari on a Mac. The browser won’t give you away",
-      "author": "Objective_Reach_767",
+      "title": "How do you see UI test automation evolving over the next few years?",
+      "author": "Pretty_Teaching_6351",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-11-14T20:41:34.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xwcqr6/automate_signups_logins_and_warmups_in_real/",
-      "external_url": "https://www.reddit.com/gallery/1xwcqr6",
-      "excerpt": "Most automation gets caught on the browser, not the script. Headless Chrome, Playwright and Puppeteer leave marks that sites look for. Then come the captchas, and the accounts go down together. I buil…"
-    },
-    {
-      "title": "How I am building/automating small businesss while doing fulltime side projects using Claude mobile",
-      "author": "Common_Dream9420",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-11-14T15:19:08.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xw4w2r/how_i_am_buildingautomating_small_businesss_while/",
-      "external_url": "https://www.reddit.com/gallery/1xw4w2r",
-      "excerpt": "I have been automating for small businesses as side projects/extra income, I was asked to build simple workflow for handling lead submissions using hubspot/slaxk/gamil/cal nodes this is what I build a…"
-    },
-    {
-      "title": "Fast online AI image-to-video and text-to-video generator for quick social clips and mockups",
-      "author": "Ok_pettech",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-11-14T14:23:26.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xw3loz/fast_online_ai_imagetovideo_and_texttovideo/",
-      "external_url": "https://interconnectd.com/ai-video-generator/",
+      "created_utc": "2026-11-16T11:30:07.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xxn2c2/how_do_you_see_ui_test_automation_evolving_over/",
+      "external_url": "/r/Everything_QA/comments/1xxn21p/how_do_you_see_ui_test_automation_evolving_over/",
       "excerpt": ""
     },
     {
-      "title": "The automation that works 95% of the time can be the most annoying one",
-      "author": "FulcraDynamics",
+      "title": "if you are buidling with hubspot, how do u validate auth-failures?",
+      "author": "Common_Dream9420",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-11-13T16:10:02.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xvbwi9/the_automation_that_works_95_of_the_time_can_be/",
+      "created_utc": "2026-11-16T14:59:15.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xxrhu6/if_you_are_buidling_with_hubspot_how_do_u/",
       "external_url": null,
-      "excerpt": "The most annoying automations are the ones that almost always work If an automation breaks every time, you notice pretty quickly. You either fix it or stop using it. The annoying ones are those that w…"
+      "excerpt": "https://preview.redd.it/ci9b1ltqnz1i1.png?width=1568&format=png&auto=webp&s=ebd114ff2fe6f27d032551a6331539ff152bb726 How do u valdiate above use-case today if you are building workflows that involves…"
     },
     {
-      "title": "I stopped writing first replies. Every hour an agent goes through my two inboxes and leaves a reply draft in each thread that needs me. The rules that made it usable",
-      "author": "daniiie",
+      "title": "What AI workflows actually help your daily work, the ones you can't live without?",
+      "author": "g3Mo",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-11-13T14:38:35.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xv9k7m/i_stopped_writing_first_replies_every_hour_an/",
+      "created_utc": "2026-11-16T14:36:15.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xxqxcd/what_ai_workflows_actually_help_your_daily_work/",
       "external_url": null,
-      "excerpt": "Email was the job I most wanted off my plate, and also the one I trusted least to automation. Auto-replies feel wrong and a bot sending mail in my name is a no. What ended up working is boring: the ag…"
+      "excerpt": "This question was asked one year back in this sub, asking again. Lot has changed."
     },
     {
-      "title": "What's one boring task you automated that saved you more time than expected?",
-      "author": "AlarmingAlgae9086",
+      "title": "Automating the first 10 minutes of our cross-timezone product webinars with a virtual host. Community reaction has been interesting.",
+      "author": "WorriedAnt1310",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-11-13T06:40:52.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xv0rsy/whats_one_boring_task_you_automated_that_saved/",
+      "created_utc": "2026-11-15T17:19:16.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xx12e1/automating_the_first_10_minutes_of_our/",
       "external_url": null,
-      "excerpt": "I have been noticing how much time we waste doing the same little same little things every day without even thinking about it. Things like organizing files, copying or updating spreadsheets. None of t…"
+      "excerpt": "We sell a B2B SaaS tool with global clients. Half our demo attendees are in Europe, half in Southeast Asia. Our US sales reps were waking up at 4 AM simply to sit through the first 8 minutes of housek…"
+    },
+    {
+      "title": "QA + Security Scan open source app",
+      "author": "ar405",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-11-15T22:08:50.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xx88j5/qa_security_scan_open_source_app/",
+      "external_url": "/r/Everything_QA/comments/1xx882m/qa_security_scan_open_source_app/",
+      "excerpt": ""
     }
   ]
 }
