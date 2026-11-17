@@ -1,7 +1,7 @@
 {
   "subreddit": "automation",
   "sort": "hot",
-  "fetched_at": "2026-11-16T15:45:05.994Z",
+  "fetched_at": "2026-11-17T15:58:54.923Z",
   "count": 10,
   "posts": [
     {
@@ -15,64 +15,44 @@
       "excerpt": "Hi guys,I am planning to create a simple AI tool for people in this niche, something that can be helpful to people visiting this sub and they wish to use it for free, a simple tool that can help you i…"
     },
     {
-      "title": "Whats a good Exa alternative for people data?",
-      "author": "Breoganhackett",
+      "title": "Which approach to ai agents in slack actually works for ops?",
+      "author": "flaresomewhere",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-11-16T06:52:05.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xximwz/whats_a_good_exa_alternative_for_people_data/",
+      "created_utc": "2026-11-17T10:25:12.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xyh006/which_approach_to_ai_agents_in_slack_actually/",
       "external_url": null,
-      "excerpt": "Im building a sourcing agent for our recruiting team. Exa has been the people layer so far, we thought its semantic search was good. the problem is filters like seniority or past employer have to go i…"
+      "excerpt": "We're a 31 person startup now and recurring ops stuff keeps landing in Slackanyway, so i've been trying to figure out if there's a smarter way to handle it there instead of bouncing between tabs. Look…"
     },
     {
-      "title": "Our AI employee runs follow-ups and routine work for a whole team. What would you automate first?",
-      "author": "AshishKulkarni1411",
+      "title": "Letting claude schedule a week of posts through mcp: what to review first",
+      "author": "Agile_Pen8736",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-11-16T14:23:20.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xxqlz6/our_ai_employee_runs_followups_and_routine_work/",
+      "created_utc": "2026-11-17T11:52:22.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xyihni/letting_claude_schedule_a_week_of_posts_through/",
       "external_url": null,
-      "excerpt": "I'm the founder of this project, so take it with that in mind. I want opinions from people who automate for a living. Since May 2026 we've used an AI employee at our company that works with the whole…"
+      "excerpt": "if youre about to let claude schedule a week of posts through an mcp connector, sort a few things out first before it touches anything live. altho most on the first run - drafts only at the start. let…"
     },
     {
-      "title": "How do you make RPA faster when there is no API? 🤔",
-      "author": "ApprehensiveEmploy92",
+      "title": "What's actually breaking once an AI voice or calling agent is in the workflow?",
+      "author": "FullStackFrenzy",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-11-16T09:50:47.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xxlfng/how_do_you_make_rpa_faster_when_there_is_no_api/",
+      "created_utc": "2026-11-17T14:30:40.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xylw1a/whats_actually_breaking_once_an_ai_voice_or/",
       "external_url": null,
-      "excerpt": "I'm facing an interesting challenge with automation: what happens when you need to collect data from multiple platforms and feed it into another system that doesn't offer an API? You can use RPA bots…"
+      "excerpt": "I built a voice agent in a car service workflow: it called people when the car was ready, offered add-on services, and handled delivery complaints, 800 to 1,200 times a day, in Indian languages. I als…"
     },
     {
-      "title": "Tasket++: Automate your Windows actions (free & open source)",
-      "author": "AmirHammoutene",
+      "title": "Tried annotating images in PowerPoint for fine-tuning.",
+      "author": "Spiritual_Balance298",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-11-16T08:13:22.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xxjxyq/tasket_automate_your_windows_actions_free_open/",
-      "external_url": "https://www.reddit.com/gallery/1xxhig9",
-      "excerpt": ""
-    },
-    {
-      "title": "How do you see UI test automation evolving over the next few years?",
-      "author": "Pretty_Teaching_6351",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-11-16T11:30:07.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xxn2c2/how_do_you_see_ui_test_automation_evolving_over/",
-      "external_url": "/r/Everything_QA/comments/1xxn21p/how_do_you_see_ui_test_automation_evolving_over/",
-      "excerpt": ""
-    },
-    {
-      "title": "if you are buidling with hubspot, how do u validate auth-failures?",
-      "author": "Common_Dream9420",
-      "score": null,
-      "num_comments": null,
-      "created_utc": "2026-11-16T14:59:15.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xxrhu6/if_you_are_buidling_with_hubspot_how_do_u/",
-      "external_url": null,
-      "excerpt": "https://preview.redd.it/ci9b1ltqnz1i1.png?width=1568&format=png&auto=webp&s=ebd114ff2fe6f27d032551a6331539ff152bb726 How do u valdiate above use-case today if you are building workflows that involves…"
+      "created_utc": "2026-11-17T14:12:19.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xylg8j/tried_annotating_images_in_powerpoint_for/",
+      "external_url": "https://app.qlp.jp/open_urls/en/index.html",
+      "excerpt": "I built a desktop app called OpenURLs that lets you use PowerPoint as an image annotation tool for AI fine-tuning. I got tired of setting up complex labeling software just to annotate a few dozen imag…"
     },
     {
       "title": "What AI workflows actually help your daily work, the ones you can't live without?",
@@ -85,24 +65,44 @@
       "excerpt": "This question was asked one year back in this sub, asking again. Lot has changed."
     },
     {
-      "title": "Automating the first 10 minutes of our cross-timezone product webinars with a virtual host. Community reaction has been interesting.",
-      "author": "WorriedAnt1310",
+      "title": "My Monday team briefing took one text to set up. Here’s the text and what it sends me",
+      "author": "David-Davey",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-11-15T17:19:16.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xx12e1/automating_the_first_10_minutes_of_our/",
-      "external_url": null,
-      "excerpt": "We sell a B2B SaaS tool with global clients. Half our demo attendees are in Europe, half in Southeast Asia. Our US sales reps were waking up at 4 AM simply to sit through the first 8 minutes of housek…"
+      "created_utc": "2026-11-17T04:16:40.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xyausl/my_monday_team_briefing_took_one_text_to_set_up/",
+      "external_url": "https://i.redd.it/jk0a816am32i1.jpeg",
+      "excerpt": "Hi everyone, I’m David. I work at Autonomous. Every Monday I need the same three things: what the team got done, what went wrong, and what’s waiting on me. We’ve tried the usual ways like, a Monday st…"
     },
     {
-      "title": "QA + Security Scan open source app",
-      "author": "ar405",
+      "title": "Agents on different platforms and owned by different people: how do you get them to share updates?",
+      "author": "FulcraDynamics",
       "score": null,
       "num_comments": null,
-      "created_utc": "2026-11-15T22:08:50.000Z",
-      "permalink": "https://www.reddit.com/r/automation/comments/1xx88j5/qa_security_scan_open_source_app/",
-      "external_url": "/r/Everything_QA/comments/1xx882m/qa_security_scan_open_source_app/",
-      "excerpt": ""
+      "created_utc": "2026-11-16T20:30:07.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xy0buz/agents_on_different_platforms_and_owned_by/",
+      "external_url": "https://fulcra.ai/?utm_source=reddit&utm_medium=social&utm_campaign=reddit_growth",
+      "excerpt": "I work at Fulcra, so keep that in mind. We’re building agent-to-agent communication, and the case we keep coming back to is two people on the same project, each with their own agents on different plat…"
+    },
+    {
+      "title": "Our AI employee runs follow-ups and routine work for a whole team. What would you automate first?",
+      "author": "AshishKulkarni1411",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-11-16T14:23:20.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xxqlz6/our_ai_employee_runs_followups_and_routine_work/",
+      "external_url": null,
+      "excerpt": "I'm the founder of this project, so take it with that in mind. I want opinions from people who automate for a living. Since May 2026 we've used an AI employee at our company that works with the whole…"
+    },
+    {
+      "title": "Indian real estate brokers: How do you currently manage incoming leads and follow-ups?",
+      "author": "beastanox",
+      "score": null,
+      "num_comments": null,
+      "created_utc": "2026-11-16T17:11:59.000Z",
+      "permalink": "https://www.reddit.com/r/automation/comments/1xxv0i1/indian_real_estate_brokers_how_do_you_currently/",
+      "external_url": null,
+      "excerpt": "Hi everyone, I'm exploring a problem in the Indian real estate industry and wanted to get some honest feedback from people working in this space. I'm particularly interested in how brokers and small b…"
     }
   ]
 }
